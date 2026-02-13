@@ -1,0 +1,4002 @@
+[
+  {
+    "rank": 1,
+    "word": "the",
+    "meaning": "el, la, los, las",
+    "explanation": "Se usa como articulo definido antes de sustantivos cuando se habla de algo especifico o ya mencionado.",
+    "example": "The cat is on the table.",
+    "level": 1
+  },
+  {
+    "rank": 2,
+    "word": "be",
+    "meaning": "ser, estar",
+    "explanation": "Verbo fundamental que indica existencia, identidad o estado; equivale a 'ser' y 'estar' en espanol.",
+    "example": "I want to be a doctor.",
+    "level": 1
+  },
+  {
+    "rank": 3,
+    "word": "to",
+    "meaning": "a, para, hacia",
+    "explanation": "Se usa como preposicion de direccion o proposito, y tambien para formar el infinitivo de los verbos.",
+    "example": "I need to go to the store.",
+    "level": 1
+  },
+  {
+    "rank": 4,
+    "word": "of",
+    "meaning": "de",
+    "explanation": "Indica posesion, origen o relacion entre dos cosas, similar a 'de' en espanol.",
+    "example": "A cup of coffee, please.",
+    "level": 1
+  },
+  {
+    "rank": 5,
+    "word": "and",
+    "meaning": "y, e",
+    "explanation": "Conjuncion que une palabras, frases u oraciones, equivalente a 'y' en espanol.",
+    "example": "I like bread and butter.",
+    "level": 1
+  },
+  {
+    "rank": 6,
+    "word": "a",
+    "meaning": "un, una",
+    "explanation": "Articulo indefinido que se usa antes de sustantivos singulares que empiezan con sonido consonante.",
+    "example": "She has a new car.",
+    "level": 1
+  },
+  {
+    "rank": 7,
+    "word": "in",
+    "meaning": "en, dentro de",
+    "explanation": "Preposicion que indica ubicacion dentro de un espacio, tiempo o situacion.",
+    "example": "The keys are in my pocket.",
+    "level": 1
+  },
+  {
+    "rank": 8,
+    "word": "that",
+    "meaning": "ese, esa, eso, que",
+    "explanation": "Se usa como demostrativo para senalar algo lejano o como conjuncion para introducir clausulas.",
+    "example": "I know that you are right.",
+    "level": 1
+  },
+  {
+    "rank": 9,
+    "word": "have",
+    "meaning": "tener, haber",
+    "explanation": "Indica posesion o se usa como auxiliar para formar tiempos perfectos.",
+    "example": "I have two brothers.",
+    "level": 1
+  },
+  {
+    "rank": 10,
+    "word": "I",
+    "meaning": "yo",
+    "explanation": "Pronombre personal de primera persona singular; siempre se escribe en mayuscula en ingles.",
+    "example": "I am happy today.",
+    "level": 1
+  },
+  {
+    "rank": 11,
+    "word": "it",
+    "meaning": "ello, lo, la",
+    "explanation": "Pronombre neutro que se usa para referirse a cosas, animales o situaciones.",
+    "example": "It is raining outside.",
+    "level": 1
+  },
+  {
+    "rank": 12,
+    "word": "for",
+    "meaning": "para, por, durante",
+    "explanation": "Preposicion que indica proposito, destino, duracion o beneficio.",
+    "example": "This gift is for you.",
+    "level": 1
+  },
+  {
+    "rank": 13,
+    "word": "not",
+    "meaning": "no",
+    "explanation": "Adverbio de negacion que se coloca despues del verbo auxiliar para negar la accion.",
+    "example": "I do not understand.",
+    "level": 1
+  },
+  {
+    "rank": 14,
+    "word": "on",
+    "meaning": "en, sobre, encima de",
+    "explanation": "Preposicion que indica posicion sobre una superficie o un momento en el tiempo.",
+    "example": "The book is on the desk.",
+    "level": 1
+  },
+  {
+    "rank": 15,
+    "word": "with",
+    "meaning": "con",
+    "explanation": "Preposicion que indica compania, instrumento o manera de hacer algo.",
+    "example": "I went with my friend.",
+    "level": 1
+  },
+  {
+    "rank": 16,
+    "word": "he",
+    "meaning": "el (pronombre)",
+    "explanation": "Pronombre personal masculino de tercera persona singular para referirse a un hombre.",
+    "example": "He is my brother.",
+    "level": 1
+  },
+  {
+    "rank": 17,
+    "word": "as",
+    "meaning": "como, tan, mientras",
+    "explanation": "Se usa para comparaciones, para indicar funcion o rol, o como conjuncion temporal.",
+    "example": "She works as a teacher.",
+    "level": 1
+  },
+  {
+    "rank": 18,
+    "word": "you",
+    "meaning": "tu, usted, ustedes",
+    "explanation": "Pronombre de segunda persona que sirve tanto para singular como plural, formal e informal.",
+    "example": "You are very kind.",
+    "level": 1
+  },
+  {
+    "rank": 19,
+    "word": "do",
+    "meaning": "hacer",
+    "explanation": "Verbo que significa 'hacer' y tambien se usa como auxiliar para preguntas y negaciones.",
+    "example": "Do you speak English?",
+    "level": 1
+  },
+  {
+    "rank": 20,
+    "word": "at",
+    "meaning": "en, a",
+    "explanation": "Preposicion que indica ubicacion precisa o un momento especifico en el tiempo.",
+    "example": "I will meet you at the park.",
+    "level": 1
+  },
+  {
+    "rank": 21,
+    "word": "this",
+    "meaning": "este, esta, esto",
+    "explanation": "Demostrativo que senala algo cercano al hablante, en espacio o tiempo.",
+    "example": "This is my house.",
+    "level": 1
+  },
+  {
+    "rank": 22,
+    "word": "but",
+    "meaning": "pero, sino",
+    "explanation": "Conjuncion adversativa que introduce una idea contraria o una excepcion.",
+    "example": "I like coffee but not tea.",
+    "level": 1
+  },
+  {
+    "rank": 23,
+    "word": "his",
+    "meaning": "su, sus (de el)",
+    "explanation": "Adjetivo posesivo masculino de tercera persona que indica que algo pertenece a un hombre.",
+    "example": "His name is John.",
+    "level": 1
+  },
+  {
+    "rank": 24,
+    "word": "by",
+    "meaning": "por, junto a, mediante",
+    "explanation": "Preposicion que indica agente, medio, proximidad o un limite de tiempo.",
+    "example": "The book was written by her.",
+    "level": 1
+  },
+  {
+    "rank": 25,
+    "word": "from",
+    "meaning": "de, desde",
+    "explanation": "Preposicion que indica origen, procedencia o punto de partida.",
+    "example": "I am from Mexico.",
+    "level": 1
+  },
+  {
+    "rank": 26,
+    "word": "they",
+    "meaning": "ellos, ellas",
+    "explanation": "Pronombre personal de tercera persona plural para referirse a un grupo de personas o cosas.",
+    "example": "They are my friends.",
+    "level": 1
+  },
+  {
+    "rank": 27,
+    "word": "we",
+    "meaning": "nosotros, nosotras",
+    "explanation": "Pronombre personal de primera persona plural que incluye al hablante y a otros.",
+    "example": "We are going to the beach.",
+    "level": 1
+  },
+  {
+    "rank": 28,
+    "word": "say",
+    "meaning": "decir",
+    "explanation": "Verbo que se usa para expresar palabras o comunicar informacion verbalmente.",
+    "example": "What did you say?",
+    "level": 1
+  },
+  {
+    "rank": 29,
+    "word": "her",
+    "meaning": "su (de ella), la, ella",
+    "explanation": "Puede ser pronombre objeto o adjetivo posesivo femenino de tercera persona.",
+    "example": "I gave her the letter.",
+    "level": 1
+  },
+  {
+    "rank": 30,
+    "word": "she",
+    "meaning": "ella",
+    "explanation": "Pronombre personal femenino de tercera persona singular para referirse a una mujer.",
+    "example": "She is a great singer.",
+    "level": 1
+  },
+  {
+    "rank": 31,
+    "word": "or",
+    "meaning": "o, u",
+    "explanation": "Conjuncion disyuntiva que presenta alternativas o opciones entre dos o mas elementos.",
+    "example": "Do you want tea or coffee?",
+    "level": 1
+  },
+  {
+    "rank": 32,
+    "word": "an",
+    "meaning": "un, una",
+    "explanation": "Articulo indefinido que se usa antes de sustantivos singulares que empiezan con sonido vocal.",
+    "example": "She ate an apple.",
+    "level": 1
+  },
+  {
+    "rank": 33,
+    "word": "will",
+    "meaning": "futuro (auxiliar), voluntad",
+    "explanation": "Verbo auxiliar que se usa para formar el tiempo futuro simple en ingles.",
+    "example": "I will call you tomorrow.",
+    "level": 1
+  },
+  {
+    "rank": 34,
+    "word": "my",
+    "meaning": "mi, mis",
+    "explanation": "Adjetivo posesivo de primera persona singular que indica pertenencia.",
+    "example": "This is my phone.",
+    "level": 1
+  },
+  {
+    "rank": 35,
+    "word": "one",
+    "meaning": "uno, una",
+    "explanation": "Numero cardinal y tambien pronombre indefinido para referirse a una persona o cosa en general.",
+    "example": "One day I will travel the world.",
+    "level": 1
+  },
+  {
+    "rank": 36,
+    "word": "all",
+    "meaning": "todo, toda, todos, todas",
+    "explanation": "Indica la totalidad de un grupo o cantidad sin excepcion.",
+    "example": "All the students passed the exam.",
+    "level": 1
+  },
+  {
+    "rank": 37,
+    "word": "would",
+    "meaning": "condicional (auxiliar)",
+    "explanation": "Verbo auxiliar que se usa para el condicional, peticiones corteses y habitos pasados.",
+    "example": "I would like a glass of water.",
+    "level": 1
+  },
+  {
+    "rank": 38,
+    "word": "there",
+    "meaning": "ahi, alli, hay",
+    "explanation": "Adverbio de lugar o se usa con 'be' para indicar existencia, como 'hay' en espanol.",
+    "example": "There are many books on the shelf.",
+    "level": 1
+  },
+  {
+    "rank": 39,
+    "word": "their",
+    "meaning": "su, sus (de ellos/ellas)",
+    "explanation": "Adjetivo posesivo de tercera persona plural que indica pertenencia a un grupo.",
+    "example": "Their house is very big.",
+    "level": 1
+  },
+  {
+    "rank": 40,
+    "word": "what",
+    "meaning": "que, cual, lo que",
+    "explanation": "Pronombre interrogativo para preguntar por cosas o informacion especifica.",
+    "example": "What is your name?",
+    "level": 1
+  },
+  {
+    "rank": 41,
+    "word": "so",
+    "meaning": "asi que, tan, entonces",
+    "explanation": "Se usa como conjuncion causal, adverbio de intensidad o para indicar consecuencia.",
+    "example": "It was raining, so I took an umbrella.",
+    "level": 1
+  },
+  {
+    "rank": 42,
+    "word": "up",
+    "meaning": "arriba, hacia arriba",
+    "explanation": "Adverbio o preposicion que indica movimiento o direccion hacia una posicion mas alta.",
+    "example": "Please stand up.",
+    "level": 1
+  },
+  {
+    "rank": 43,
+    "word": "out",
+    "meaning": "fuera, afuera",
+    "explanation": "Adverbio que indica movimiento hacia el exterior o estar fuera de un lugar.",
+    "example": "She went out for a walk.",
+    "level": 1
+  },
+  {
+    "rank": 44,
+    "word": "if",
+    "meaning": "si (condicional)",
+    "explanation": "Conjuncion condicional que introduce una situacion hipotetica o una condicion.",
+    "example": "If it rains, we will stay home.",
+    "level": 1
+  },
+  {
+    "rank": 45,
+    "word": "about",
+    "meaning": "sobre, acerca de, aproximadamente",
+    "explanation": "Preposicion que indica tema o asunto, o adverbio que significa 'aproximadamente'.",
+    "example": "Tell me about your family.",
+    "level": 1
+  },
+  {
+    "rank": 46,
+    "word": "who",
+    "meaning": "quien, quienes, que",
+    "explanation": "Pronombre interrogativo o relativo que se refiere a personas.",
+    "example": "Who is that woman?",
+    "level": 1
+  },
+  {
+    "rank": 47,
+    "word": "get",
+    "meaning": "obtener, conseguir, llegar",
+    "explanation": "Verbo muy versatil que puede significar obtener, recibir, llegar o volverse segun el contexto.",
+    "example": "I need to get some milk.",
+    "level": 1
+  },
+  {
+    "rank": 48,
+    "word": "which",
+    "meaning": "cual, cuales, que",
+    "explanation": "Pronombre interrogativo o relativo para elegir entre opciones o dar informacion adicional.",
+    "example": "Which color do you prefer?",
+    "level": 1
+  },
+  {
+    "rank": 49,
+    "word": "go",
+    "meaning": "ir",
+    "explanation": "Verbo de movimiento que indica desplazarse de un lugar a otro.",
+    "example": "Let's go to the park.",
+    "level": 1
+  },
+  {
+    "rank": 50,
+    "word": "me",
+    "meaning": "me, mi",
+    "explanation": "Pronombre objeto de primera persona singular, usado despues de verbos y preposiciones.",
+    "example": "Can you help me?",
+    "level": 1
+  },
+  {
+    "rank": 51,
+    "word": "when",
+    "meaning": "cuando",
+    "explanation": "Adverbio o conjuncion que pregunta o indica el momento en que algo ocurre.",
+    "example": "When does the movie start?",
+    "level": 1
+  },
+  {
+    "rank": 52,
+    "word": "make",
+    "meaning": "hacer, fabricar, crear",
+    "explanation": "Verbo que indica crear, producir o causar algo, a diferencia de 'do' que es hacer en general.",
+    "example": "She can make delicious cakes.",
+    "level": 1
+  },
+  {
+    "rank": 53,
+    "word": "can",
+    "meaning": "poder, saber (habilidad)",
+    "explanation": "Verbo modal que expresa habilidad, posibilidad o permiso para hacer algo.",
+    "example": "I can speak three languages.",
+    "level": 1
+  },
+  {
+    "rank": 54,
+    "word": "like",
+    "meaning": "gustar, como",
+    "explanation": "Como verbo significa 'gustar'; como preposicion significa 'como' para comparaciones.",
+    "example": "I like reading books.",
+    "level": 1
+  },
+  {
+    "rank": 55,
+    "word": "time",
+    "meaning": "tiempo, hora, vez",
+    "explanation": "Sustantivo que se refiere al tiempo en general, a la hora del dia o a una ocasion.",
+    "example": "What time is it?",
+    "level": 1
+  },
+  {
+    "rank": 56,
+    "word": "no",
+    "meaning": "no, ningun",
+    "explanation": "Se usa para negar, rechazar o indicar ausencia total de algo.",
+    "example": "There is no milk left.",
+    "level": 1
+  },
+  {
+    "rank": 57,
+    "word": "just",
+    "meaning": "solo, justo, apenas",
+    "explanation": "Adverbio que puede significar 'solamente', 'exactamente' o 'hace un momento'.",
+    "example": "I just arrived home.",
+    "level": 1
+  },
+  {
+    "rank": 58,
+    "word": "him",
+    "meaning": "el, lo, le (objeto)",
+    "explanation": "Pronombre objeto masculino de tercera persona, usado despues de verbos y preposiciones.",
+    "example": "I saw him at the store.",
+    "level": 1
+  },
+  {
+    "rank": 59,
+    "word": "know",
+    "meaning": "saber, conocer",
+    "explanation": "Verbo que indica tener conocimiento o informacion sobre algo o alguien.",
+    "example": "I know the answer.",
+    "level": 1
+  },
+  {
+    "rank": 60,
+    "word": "take",
+    "meaning": "tomar, llevar, coger",
+    "explanation": "Verbo versatil que significa agarrar, llevar, necesitar tiempo o aceptar segun el contexto.",
+    "example": "Take your umbrella with you.",
+    "level": 1
+  },
+  {
+    "rank": 61,
+    "word": "people",
+    "meaning": "gente, personas, pueblo",
+    "explanation": "Sustantivo plural que se refiere a un grupo de seres humanos en general.",
+    "example": "Many people live in this city.",
+    "level": 1
+  },
+  {
+    "rank": 62,
+    "word": "into",
+    "meaning": "en, dentro de, hacia adentro",
+    "explanation": "Preposicion que indica movimiento hacia el interior de un lugar o espacio.",
+    "example": "She walked into the room.",
+    "level": 1
+  },
+  {
+    "rank": 63,
+    "word": "year",
+    "meaning": "ano",
+    "explanation": "Sustantivo que se refiere al periodo de doce meses o 365 dias.",
+    "example": "I moved here last year.",
+    "level": 1
+  },
+  {
+    "rank": 64,
+    "word": "your",
+    "meaning": "tu, su, vuestro",
+    "explanation": "Adjetivo posesivo de segunda persona que indica que algo pertenece al oyente.",
+    "example": "Is this your bag?",
+    "level": 1
+  },
+  {
+    "rank": 65,
+    "word": "good",
+    "meaning": "bueno, bien",
+    "explanation": "Adjetivo que describe algo de calidad positiva o que cumple su proposito.",
+    "example": "This is a good idea.",
+    "level": 1
+  },
+  {
+    "rank": 66,
+    "word": "some",
+    "meaning": "algunos, algo de, unos",
+    "explanation": "Determinante que indica una cantidad indefinida o parcial de algo.",
+    "example": "Would you like some water?",
+    "level": 1
+  },
+  {
+    "rank": 67,
+    "word": "could",
+    "meaning": "podria, pudo",
+    "explanation": "Pasado de 'can' y verbo modal para expresar posibilidad, habilidad pasada o peticiones corteses.",
+    "example": "Could you open the window?",
+    "level": 1
+  },
+  {
+    "rank": 68,
+    "word": "them",
+    "meaning": "ellos, ellas, los, las, les",
+    "explanation": "Pronombre objeto de tercera persona plural, usado despues de verbos y preposiciones.",
+    "example": "I will call them later.",
+    "level": 1
+  },
+  {
+    "rank": 69,
+    "word": "see",
+    "meaning": "ver",
+    "explanation": "Verbo que indica percibir con los ojos, entender o encontrarse con alguien.",
+    "example": "I can see the mountains from here.",
+    "level": 1
+  },
+  {
+    "rank": 70,
+    "word": "other",
+    "meaning": "otro, otra, otros",
+    "explanation": "Adjetivo o pronombre que se refiere a algo diferente o adicional.",
+    "example": "Do you have any other questions?",
+    "level": 1
+  },
+  {
+    "rank": 71,
+    "word": "than",
+    "meaning": "que (comparativo)",
+    "explanation": "Se usa en comparaciones despues de adjetivos comparativos como 'more', 'better', etc.",
+    "example": "She is taller than her sister.",
+    "level": 1
+  },
+  {
+    "rank": 72,
+    "word": "then",
+    "meaning": "entonces, luego, despues",
+    "explanation": "Adverbio que indica secuencia temporal o consecuencia logica.",
+    "example": "First eat, then we will go.",
+    "level": 1
+  },
+  {
+    "rank": 73,
+    "word": "now",
+    "meaning": "ahora, ya",
+    "explanation": "Adverbio que indica el momento presente o inmediato.",
+    "example": "We need to leave now.",
+    "level": 1
+  },
+  {
+    "rank": 74,
+    "word": "look",
+    "meaning": "mirar, verse, parecer",
+    "explanation": "Verbo que significa dirigir la vista intencionalmente o tener cierta apariencia.",
+    "example": "Look at that beautiful sunset.",
+    "level": 1
+  },
+  {
+    "rank": 75,
+    "word": "only",
+    "meaning": "solo, solamente, unico",
+    "explanation": "Adverbio o adjetivo que indica exclusividad o restriccion a una sola cosa.",
+    "example": "I only have five minutes.",
+    "level": 1
+  },
+  {
+    "rank": 76,
+    "word": "come",
+    "meaning": "venir, llegar",
+    "explanation": "Verbo de movimiento que indica desplazarse hacia donde esta el hablante.",
+    "example": "Come here, please.",
+    "level": 1
+  },
+  {
+    "rank": 77,
+    "word": "its",
+    "meaning": "su, sus (de ello)",
+    "explanation": "Adjetivo posesivo neutro de tercera persona para cosas o animales, sin apostrofo.",
+    "example": "The dog wagged its tail.",
+    "level": 1
+  },
+  {
+    "rank": 78,
+    "word": "over",
+    "meaning": "sobre, encima, terminado",
+    "explanation": "Preposicion que indica posicion superior, cruzar algo o que algo ha terminado.",
+    "example": "The game is over.",
+    "level": 1
+  },
+  {
+    "rank": 79,
+    "word": "think",
+    "meaning": "pensar, creer",
+    "explanation": "Verbo que indica la actividad mental de razonar, opinar o considerar algo.",
+    "example": "I think this is a good plan.",
+    "level": 1
+  },
+  {
+    "rank": 80,
+    "word": "also",
+    "meaning": "tambien, ademas",
+    "explanation": "Adverbio que agrega informacion o indica que algo es adicional, similar a 'tambien'.",
+    "example": "She also speaks French.",
+    "level": 1
+  },
+  {
+    "rank": 81,
+    "word": "back",
+    "meaning": "espalda, atras, de vuelta",
+    "explanation": "Se usa como sustantivo (espalda), adverbio (de regreso) o adjetivo (trasero).",
+    "example": "I will be back in an hour.",
+    "level": 1
+  },
+  {
+    "rank": 82,
+    "word": "after",
+    "meaning": "despues de, tras",
+    "explanation": "Preposicion o conjuncion que indica que algo ocurre posteriormente en el tiempo.",
+    "example": "We can talk after lunch.",
+    "level": 1
+  },
+  {
+    "rank": 83,
+    "word": "use",
+    "meaning": "usar, utilizar, uso",
+    "explanation": "Verbo que significa emplear algo para un proposito; tambien funciona como sustantivo.",
+    "example": "Can I use your phone?",
+    "level": 1
+  },
+  {
+    "rank": 84,
+    "word": "two",
+    "meaning": "dos",
+    "explanation": "Numero cardinal que representa la cantidad 2; no confundir con 'to' o 'too'.",
+    "example": "I have two children.",
+    "level": 1
+  },
+  {
+    "rank": 85,
+    "word": "how",
+    "meaning": "como, cuan",
+    "explanation": "Adverbio interrogativo que pregunta por la manera, el metodo o el grado de algo.",
+    "example": "How are you today?",
+    "level": 1
+  },
+  {
+    "rank": 86,
+    "word": "our",
+    "meaning": "nuestro, nuestra, nuestros",
+    "explanation": "Adjetivo posesivo de primera persona plural que indica pertenencia al grupo del hablante.",
+    "example": "This is our new home.",
+    "level": 1
+  },
+  {
+    "rank": 87,
+    "word": "work",
+    "meaning": "trabajar, trabajo, funcionar",
+    "explanation": "Como verbo significa realizar una actividad laboral o funcionar; como sustantivo es el empleo.",
+    "example": "I work in a hospital.",
+    "level": 1
+  },
+  {
+    "rank": 88,
+    "word": "first",
+    "meaning": "primero, primer",
+    "explanation": "Numero ordinal o adverbio que indica la posicion inicial en una serie o secuencia.",
+    "example": "This is my first time here.",
+    "level": 1
+  },
+  {
+    "rank": 89,
+    "word": "well",
+    "meaning": "bien, pues",
+    "explanation": "Adverbio que describe como se realiza una accion o interjeccion para iniciar una frase.",
+    "example": "She speaks English very well.",
+    "level": 1
+  },
+  {
+    "rank": 90,
+    "word": "way",
+    "meaning": "camino, manera, forma",
+    "explanation": "Sustantivo que indica una ruta fisica o un metodo para hacer algo.",
+    "example": "This is the best way to learn.",
+    "level": 1
+  },
+  {
+    "rank": 91,
+    "word": "even",
+    "meaning": "incluso, hasta, par",
+    "explanation": "Adverbio enfatico que indica algo inesperado o que va mas alla de lo esperado.",
+    "example": "Even the teacher was surprised.",
+    "level": 1
+  },
+  {
+    "rank": 92,
+    "word": "new",
+    "meaning": "nuevo, nueva",
+    "explanation": "Adjetivo que describe algo reciente, que no existia antes o que no se ha usado.",
+    "example": "I bought a new laptop.",
+    "level": 1
+  },
+  {
+    "rank": 93,
+    "word": "want",
+    "meaning": "querer, desear",
+    "explanation": "Verbo que expresa deseo o necesidad de obtener o hacer algo.",
+    "example": "I want to learn English.",
+    "level": 1
+  },
+  {
+    "rank": 94,
+    "word": "because",
+    "meaning": "porque",
+    "explanation": "Conjuncion causal que introduce la razon o el motivo de algo.",
+    "example": "I stayed home because I was sick.",
+    "level": 1
+  },
+  {
+    "rank": 95,
+    "word": "any",
+    "meaning": "algun, alguno, cualquier, ningun",
+    "explanation": "Determinante que se usa en preguntas y negaciones para indicar cantidad indefinida.",
+    "example": "Do you have any questions?",
+    "level": 1
+  },
+  {
+    "rank": 96,
+    "word": "these",
+    "meaning": "estos, estas",
+    "explanation": "Demostrativo plural que senala cosas cercanas al hablante.",
+    "example": "These shoes are very comfortable.",
+    "level": 1
+  },
+  {
+    "rank": 97,
+    "word": "give",
+    "meaning": "dar, regalar",
+    "explanation": "Verbo que significa entregar algo a alguien o proporcionar algo.",
+    "example": "Please give me a moment.",
+    "level": 1
+  },
+  {
+    "rank": 98,
+    "word": "day",
+    "meaning": "dia",
+    "explanation": "Sustantivo que se refiere al periodo de 24 horas o a las horas de luz solar.",
+    "example": "Today is a beautiful day.",
+    "level": 1
+  },
+  {
+    "rank": 99,
+    "word": "most",
+    "meaning": "mas, la mayoria, el/la mas",
+    "explanation": "Se usa para formar el superlativo o para indicar la mayor parte de un grupo.",
+    "example": "Most people enjoy music.",
+    "level": 1
+  },
+  {
+    "rank": 100,
+    "word": "us",
+    "meaning": "nos, nosotros (objeto)",
+    "explanation": "Pronombre objeto de primera persona plural, usado despues de verbos y preposiciones.",
+    "example": "Can you tell us the way?",
+    "level": 1
+  },
+  {
+    "rank": 101,
+    "word": "find",
+    "meaning": "encontrar",
+    "explanation": "Verbo que significa descubrir o localizar algo que se buscaba o que estaba perdido.",
+    "example": "I need to find my keys.",
+    "level": 2
+  },
+  {
+    "rank": 102,
+    "word": "long",
+    "meaning": "largo, mucho tiempo",
+    "explanation": "Adjetivo que describe algo de gran extension en espacio o duracion en tiempo.",
+    "example": "It was a long day at work.",
+    "level": 2
+  },
+  {
+    "rank": 103,
+    "word": "down",
+    "meaning": "abajo, hacia abajo",
+    "explanation": "Indica movimiento o direccion hacia una posicion mas baja o inferior.",
+    "example": "Please sit down.",
+    "level": 2
+  },
+  {
+    "rank": 104,
+    "word": "did",
+    "meaning": "hice, hizo (pasado de do)",
+    "explanation": "Forma pasada de 'do', usada como auxiliar en preguntas y negaciones en pasado.",
+    "example": "Did you see the movie last night?",
+    "level": 2
+  },
+  {
+    "rank": 105,
+    "word": "been",
+    "meaning": "sido, estado (participio de be)",
+    "explanation": "Participio pasado de 'be', usado en tiempos perfectos para indicar experiencia o estado.",
+    "example": "I have been to Paris twice.",
+    "level": 2
+  },
+  {
+    "rank": 106,
+    "word": "call",
+    "meaning": "llamar, llamada",
+    "explanation": "Verbo que significa comunicarse con alguien por telefono o decir su nombre en voz alta.",
+    "example": "Please call me when you arrive.",
+    "level": 2
+  },
+  {
+    "rank": 107,
+    "word": "still",
+    "meaning": "todavia, aun",
+    "explanation": "Adverbio que indica que una situacion continua sin cambio hasta el momento presente.",
+    "example": "She is still waiting for the bus.",
+    "level": 2
+  },
+  {
+    "rank": 108,
+    "word": "last",
+    "meaning": "ultimo, pasado",
+    "explanation": "Adjetivo que indica el mas reciente en el tiempo o el final de una serie.",
+    "example": "I saw her last week.",
+    "level": 2
+  },
+  {
+    "rank": 109,
+    "word": "very",
+    "meaning": "muy",
+    "explanation": "Adverbio intensificador que aumenta la fuerza de un adjetivo o de otro adverbio.",
+    "example": "This soup is very hot.",
+    "level": 2
+  },
+  {
+    "rank": 110,
+    "word": "much",
+    "meaning": "mucho",
+    "explanation": "Se usa para indicar gran cantidad, especialmente con sustantivos incontables y en comparaciones.",
+    "example": "Thank you very much for your help.",
+    "level": 2
+  },
+  {
+    "rank": 111,
+    "word": "man",
+    "meaning": "hombre",
+    "explanation": "Sustantivo que se refiere a un ser humano adulto de sexo masculino.",
+    "example": "The man walked across the street.",
+    "level": 2
+  },
+  {
+    "rank": 112,
+    "word": "great",
+    "meaning": "gran, genial, excelente",
+    "explanation": "Adjetivo que describe algo de gran tamanio, importancia o calidad excepcional.",
+    "example": "We had a great time at the party.",
+    "level": 2
+  },
+  {
+    "rank": 113,
+    "word": "old",
+    "meaning": "viejo, antiguo",
+    "explanation": "Adjetivo que describe algo o alguien que ha existido por mucho tiempo o tiene muchos anios.",
+    "example": "My grandfather is very old.",
+    "level": 2
+  },
+  {
+    "rank": 114,
+    "word": "world",
+    "meaning": "mundo",
+    "explanation": "Sustantivo que se refiere al planeta Tierra o a la totalidad de la sociedad humana.",
+    "example": "She wants to travel around the world.",
+    "level": 2
+  },
+  {
+    "rank": 115,
+    "word": "child",
+    "meaning": "ninio, hijo",
+    "explanation": "Sustantivo que se refiere a un ser humano joven o al hijo o hija de alguien.",
+    "example": "The child is playing in the park.",
+    "level": 2
+  },
+  {
+    "rank": 116,
+    "word": "life",
+    "meaning": "vida",
+    "explanation": "Sustantivo que se refiere a la existencia de un ser vivo o la experiencia de estar vivo.",
+    "example": "Life is full of surprises.",
+    "level": 2
+  },
+  {
+    "rank": 117,
+    "word": "need",
+    "meaning": "necesitar, necesidad",
+    "explanation": "Verbo que expresa que algo es requerido o esencial para alguien.",
+    "example": "I need a glass of water.",
+    "level": 2
+  },
+  {
+    "rank": 118,
+    "word": "keep",
+    "meaning": "mantener, guardar",
+    "explanation": "Verbo que significa conservar algo en posesion o continuar en un estado determinado.",
+    "example": "Please keep the door closed.",
+    "level": 2
+  },
+  {
+    "rank": 119,
+    "word": "help",
+    "meaning": "ayudar, ayuda",
+    "explanation": "Verbo que significa asistir o facilitar algo a otra persona que lo necesita.",
+    "example": "Can you help me carry these bags?",
+    "level": 2
+  },
+  {
+    "rank": 120,
+    "word": "through",
+    "meaning": "a traves de, por",
+    "explanation": "Preposicion que indica movimiento de un lado al otro de algo o de principio a fin.",
+    "example": "We walked through the forest.",
+    "level": 2
+  },
+  {
+    "rank": 121,
+    "word": "before",
+    "meaning": "antes de",
+    "explanation": "Preposicion o conjuncion que indica un momento anterior en el tiempo a otro evento.",
+    "example": "Wash your hands before dinner.",
+    "level": 2
+  },
+  {
+    "rank": 122,
+    "word": "end",
+    "meaning": "fin, final, terminar",
+    "explanation": "Sustantivo o verbo que indica el punto donde algo deja de existir o continuar.",
+    "example": "The movie has a happy end.",
+    "level": 2
+  },
+  {
+    "rank": 123,
+    "word": "place",
+    "meaning": "lugar, sitio",
+    "explanation": "Sustantivo que se refiere a una ubicacion o espacio especifico donde algo se encuentra.",
+    "example": "This is a nice place to eat.",
+    "level": 2
+  },
+  {
+    "rank": 124,
+    "word": "play",
+    "meaning": "jugar, tocar, obra",
+    "explanation": "Verbo que significa participar en un juego, tocar un instrumento o actuar en una obra.",
+    "example": "The children play in the garden every day.",
+    "level": 2
+  },
+  {
+    "rank": 125,
+    "word": "point",
+    "meaning": "punto, senialar",
+    "explanation": "Sustantivo que indica una idea especifica o un lugar exacto, tambien verbo para indicar direccion.",
+    "example": "That is a good point.",
+    "level": 2
+  },
+  {
+    "rank": 126,
+    "word": "school",
+    "meaning": "escuela",
+    "explanation": "Sustantivo que se refiere a la institucion educativa donde los ninios y jovenes aprenden.",
+    "example": "My daughter goes to school by bus.",
+    "level": 2
+  },
+  {
+    "rank": 127,
+    "word": "part",
+    "meaning": "parte, porcion",
+    "explanation": "Sustantivo que se refiere a una seccion o fragmento de algo mas grande.",
+    "example": "This is the best part of the story.",
+    "level": 2
+  },
+  {
+    "rank": 128,
+    "word": "hand",
+    "meaning": "mano",
+    "explanation": "Sustantivo que se refiere a la extremidad del cuerpo al final del brazo con cinco dedos.",
+    "example": "She raised her hand to ask a question.",
+    "level": 2
+  },
+  {
+    "rank": 129,
+    "word": "high",
+    "meaning": "alto, elevado",
+    "explanation": "Adjetivo que describe algo que tiene gran altura o que esta en una posicion elevada.",
+    "example": "The mountain is very high.",
+    "level": 2
+  },
+  {
+    "rank": 130,
+    "word": "right",
+    "meaning": "derecho, correcto",
+    "explanation": "Adjetivo que significa correcto o justo, tambien indica la direccion opuesta a la izquierda.",
+    "example": "Turn right at the next corner.",
+    "level": 2
+  },
+  {
+    "rank": 131,
+    "word": "house",
+    "meaning": "casa",
+    "explanation": "Sustantivo que se refiere a un edificio donde viven las personas como su hogar.",
+    "example": "They bought a new house last year.",
+    "level": 2
+  },
+  {
+    "rank": 132,
+    "word": "move",
+    "meaning": "mover, mudarse",
+    "explanation": "Verbo que significa cambiar de posicion, lugar o residencia.",
+    "example": "We will move to a new city next month.",
+    "level": 2
+  },
+  {
+    "rank": 133,
+    "word": "thing",
+    "meaning": "cosa",
+    "explanation": "Sustantivo general usado para referirse a un objeto, idea o situacion sin ser especifico.",
+    "example": "The most important thing is to be happy.",
+    "level": 2
+  },
+  {
+    "rank": 134,
+    "word": "every",
+    "meaning": "cada, todos",
+    "explanation": "Determinante que se refiere a la totalidad de los elementos de un grupo sin excepcion.",
+    "example": "I drink coffee every morning.",
+    "level": 2
+  },
+  {
+    "rank": 135,
+    "word": "country",
+    "meaning": "pais, campo",
+    "explanation": "Sustantivo que se refiere a una nacion con su territorio y gobierno propio.",
+    "example": "Mexico is a beautiful country.",
+    "level": 2
+  },
+  {
+    "rank": 136,
+    "word": "big",
+    "meaning": "grande",
+    "explanation": "Adjetivo que describe algo de gran tamanio, importancia o magnitud.",
+    "example": "They live in a big house.",
+    "level": 2
+  },
+  {
+    "rank": 137,
+    "word": "head",
+    "meaning": "cabeza",
+    "explanation": "Sustantivo que se refiere a la parte superior del cuerpo humano donde esta el cerebro.",
+    "example": "He nodded his head in agreement.",
+    "level": 2
+  },
+  {
+    "rank": 138,
+    "word": "line",
+    "meaning": "linea, fila",
+    "explanation": "Sustantivo que se refiere a una marca alargada o una fila de personas esperando.",
+    "example": "There is a long line at the store.",
+    "level": 2
+  },
+  {
+    "rank": 139,
+    "word": "turn",
+    "meaning": "girar, turno",
+    "explanation": "Verbo que significa cambiar de direccion o sustantivo que indica el momento de actuar de alguien.",
+    "example": "Turn left at the traffic light.",
+    "level": 2
+  },
+  {
+    "rank": 140,
+    "word": "off",
+    "meaning": "apagado, fuera de",
+    "explanation": "Adverbio o preposicion que indica desconexion, alejamiento o que algo deja de funcionar.",
+    "example": "Please turn off the lights.",
+    "level": 2
+  },
+  {
+    "rank": 141,
+    "word": "another",
+    "meaning": "otro, otra",
+    "explanation": "Determinante que se refiere a una persona o cosa adicional o diferente de la ya mencionada.",
+    "example": "Would you like another cup of tea?",
+    "level": 2
+  },
+  {
+    "rank": 142,
+    "word": "tell",
+    "meaning": "decir, contar",
+    "explanation": "Verbo que significa comunicar informacion a alguien de forma directa.",
+    "example": "Tell me about your day.",
+    "level": 2
+  },
+  {
+    "rank": 143,
+    "word": "each",
+    "meaning": "cada, cada uno",
+    "explanation": "Determinante que se refiere a todos los miembros de un grupo considerados individualmente.",
+    "example": "Each student received a book.",
+    "level": 2
+  },
+  {
+    "rank": 144,
+    "word": "ask",
+    "meaning": "preguntar, pedir",
+    "explanation": "Verbo que significa hacer una pregunta o solicitar algo a alguien.",
+    "example": "Can I ask you a question?",
+    "level": 2
+  },
+  {
+    "rank": 145,
+    "word": "state",
+    "meaning": "estado, declarar",
+    "explanation": "Sustantivo que se refiere a una condicion o division politica, tambien verbo que significa afirmar.",
+    "example": "California is the largest state by population.",
+    "level": 2
+  },
+  {
+    "rank": 146,
+    "word": "never",
+    "meaning": "nunca, jamas",
+    "explanation": "Adverbio de negacion que indica que algo no ha ocurrido ni ocurrira en ningun momento.",
+    "example": "I have never been to Japan.",
+    "level": 2
+  },
+  {
+    "rank": 147,
+    "word": "small",
+    "meaning": "pequenio",
+    "explanation": "Adjetivo que describe algo de poco tamanio o de poca importancia.",
+    "example": "She lives in a small apartment.",
+    "level": 2
+  },
+  {
+    "rank": 148,
+    "word": "home",
+    "meaning": "hogar, casa",
+    "explanation": "Sustantivo que se refiere al lugar donde una persona vive y se siente comoda.",
+    "example": "I want to go home now.",
+    "level": 2
+  },
+  {
+    "rank": 149,
+    "word": "different",
+    "meaning": "diferente, distinto",
+    "explanation": "Adjetivo que describe algo que no es igual o que tiene caracteristicas distintas a otra cosa.",
+    "example": "We have different opinions on this topic.",
+    "level": 2
+  },
+  {
+    "rank": 150,
+    "word": "again",
+    "meaning": "otra vez, de nuevo",
+    "explanation": "Adverbio que indica que algo se repite o sucede una vez mas.",
+    "example": "Can you say that again, please?",
+    "level": 2
+  },
+  {
+    "rank": 151,
+    "word": "read",
+    "meaning": "leer",
+    "explanation": "Verbo que significa comprender texto escrito mirando las letras y palabras.",
+    "example": "I like to read books before bed.",
+    "level": 2
+  },
+  {
+    "rank": 152,
+    "word": "body",
+    "meaning": "cuerpo",
+    "explanation": "Sustantivo que se refiere a la estructura fisica completa de una persona o animal.",
+    "example": "Exercise is good for your body.",
+    "level": 2
+  },
+  {
+    "rank": 153,
+    "word": "run",
+    "meaning": "correr",
+    "explanation": "Verbo que significa desplazarse rapidamente moviendo las piernas mas rapido que al caminar.",
+    "example": "She likes to run in the morning.",
+    "level": 2
+  },
+  {
+    "rank": 154,
+    "word": "change",
+    "meaning": "cambiar, cambio",
+    "explanation": "Verbo o sustantivo que indica hacer algo diferente o la transformacion de una cosa en otra.",
+    "example": "We need to change our plans.",
+    "level": 2
+  },
+  {
+    "rank": 155,
+    "word": "show",
+    "meaning": "mostrar, espectaculo",
+    "explanation": "Verbo que significa presentar o hacer visible algo para que otros lo vean.",
+    "example": "Can you show me the way to the station?",
+    "level": 2
+  },
+  {
+    "rank": 156,
+    "word": "talk",
+    "meaning": "hablar, conversar",
+    "explanation": "Verbo que significa comunicarse con otra persona usando palabras habladas.",
+    "example": "We need to talk about this problem.",
+    "level": 2
+  },
+  {
+    "rank": 157,
+    "word": "try",
+    "meaning": "intentar, probar",
+    "explanation": "Verbo que significa hacer un esfuerzo por lograr algo o experimentar algo nuevo.",
+    "example": "You should try the chocolate cake.",
+    "level": 2
+  },
+  {
+    "rank": 158,
+    "word": "put",
+    "meaning": "poner, colocar",
+    "explanation": "Verbo que significa colocar algo en un lugar o posicion determinada.",
+    "example": "Put the book on the table.",
+    "level": 2
+  },
+  {
+    "rank": 159,
+    "word": "set",
+    "meaning": "establecer, conjunto",
+    "explanation": "Verbo que significa fijar o preparar algo, o sustantivo que indica un grupo de cosas relacionadas.",
+    "example": "She set the alarm for six o'clock.",
+    "level": 2
+  },
+  {
+    "rank": 160,
+    "word": "far",
+    "meaning": "lejos, lejano",
+    "explanation": "Adverbio o adjetivo que indica gran distancia en espacio o tiempo.",
+    "example": "The airport is far from the city center.",
+    "level": 2
+  },
+  {
+    "rank": 161,
+    "word": "food",
+    "meaning": "comida, alimento",
+    "explanation": "Sustantivo que se refiere a cualquier sustancia que se consume para obtener nutricion.",
+    "example": "The food at that restaurant is excellent.",
+    "level": 2
+  },
+  {
+    "rank": 162,
+    "word": "family",
+    "meaning": "familia",
+    "explanation": "Sustantivo que se refiere al grupo de personas unidas por parentesco como padres e hijos.",
+    "example": "My family lives in the same city.",
+    "level": 2
+  },
+  {
+    "rank": 163,
+    "word": "name",
+    "meaning": "nombre",
+    "explanation": "Sustantivo que se refiere a la palabra con la que se identifica a una persona, lugar o cosa.",
+    "example": "What is your name?",
+    "level": 2
+  },
+  {
+    "rank": 164,
+    "word": "between",
+    "meaning": "entre",
+    "explanation": "Preposicion que indica una posicion o relacion en el espacio medio de dos cosas.",
+    "example": "The park is between the school and the library.",
+    "level": 2
+  },
+  {
+    "rank": 165,
+    "word": "water",
+    "meaning": "agua",
+    "explanation": "Sustantivo que se refiere al liquido transparente esencial para la vida de todos los seres vivos.",
+    "example": "Please drink more water every day.",
+    "level": 2
+  },
+  {
+    "rank": 166,
+    "word": "may",
+    "meaning": "poder, quizas",
+    "explanation": "Verbo modal que expresa posibilidad o permiso para hacer algo.",
+    "example": "It may rain tomorrow.",
+    "level": 2
+  },
+  {
+    "rank": 167,
+    "word": "group",
+    "meaning": "grupo",
+    "explanation": "Sustantivo que se refiere a un conjunto de personas o cosas que estan juntas o relacionadas.",
+    "example": "A group of students visited the museum.",
+    "level": 2
+  },
+  {
+    "rank": 168,
+    "word": "night",
+    "meaning": "noche",
+    "explanation": "Sustantivo que se refiere al periodo de oscuridad entre la puesta y la salida del sol.",
+    "example": "The stars are beautiful at night.",
+    "level": 2
+  },
+  {
+    "rank": 169,
+    "word": "side",
+    "meaning": "lado, costado",
+    "explanation": "Sustantivo que se refiere a una de las partes o superficies de algo que no es el frente.",
+    "example": "The restaurant is on the other side of the street.",
+    "level": 2
+  },
+  {
+    "rank": 170,
+    "word": "number",
+    "meaning": "numero, cantidad",
+    "explanation": "Sustantivo que se refiere a un valor matematico o a la cantidad de elementos en un grupo.",
+    "example": "What is your phone number?",
+    "level": 2
+  },
+  {
+    "rank": 171,
+    "word": "late",
+    "meaning": "tarde, atrasado",
+    "explanation": "Adjetivo o adverbio que indica que algo ocurre despues del tiempo esperado.",
+    "example": "Sorry, I am late for the meeting.",
+    "level": 2
+  },
+  {
+    "rank": 172,
+    "word": "real",
+    "meaning": "real, verdadero",
+    "explanation": "Adjetivo que describe algo que existe de verdad y no es falso ni imaginario.",
+    "example": "Is this a real diamond?",
+    "level": 2
+  },
+  {
+    "rank": 173,
+    "word": "start",
+    "meaning": "empezar, comenzar",
+    "explanation": "Verbo que significa dar inicio a una actividad o proceso desde el principio.",
+    "example": "The class will start at nine o'clock.",
+    "level": 2
+  },
+  {
+    "rank": 174,
+    "word": "open",
+    "meaning": "abrir, abierto",
+    "explanation": "Verbo o adjetivo que indica que algo no esta cerrado y permite el acceso o la entrada.",
+    "example": "Please open the window.",
+    "level": 2
+  },
+  {
+    "rank": 175,
+    "word": "seem",
+    "meaning": "parecer",
+    "explanation": "Verbo que indica una apariencia o impresion sin confirmacion de que sea verdad.",
+    "example": "You seem tired today.",
+    "level": 2
+  },
+  {
+    "rank": 176,
+    "word": "together",
+    "meaning": "juntos",
+    "explanation": "Adverbio que indica que dos o mas personas o cosas estan unidas o actuan al mismo tiempo.",
+    "example": "Let's work together on this project.",
+    "level": 2
+  },
+  {
+    "rank": 177,
+    "word": "next",
+    "meaning": "siguiente, proximo",
+    "explanation": "Adjetivo que indica lo que viene inmediatamente despues en orden o en el tiempo.",
+    "example": "The next train leaves in ten minutes.",
+    "level": 2
+  },
+  {
+    "rank": 178,
+    "word": "against",
+    "meaning": "contra, en contra de",
+    "explanation": "Preposicion que indica oposicion, contacto fisico o desacuerdo con algo o alguien.",
+    "example": "They played against the best team in the league.",
+    "level": 2
+  },
+  {
+    "rank": 179,
+    "word": "area",
+    "meaning": "area, zona",
+    "explanation": "Sustantivo que se refiere a una region o espacio definido dentro de un lugar mas grande.",
+    "example": "This area is known for its restaurants.",
+    "level": 2
+  },
+  {
+    "rank": 180,
+    "word": "question",
+    "meaning": "pregunta",
+    "explanation": "Sustantivo que se refiere a una oracion formulada para obtener informacion o una respuesta.",
+    "example": "That is a very good question.",
+    "level": 2
+  },
+  {
+    "rank": 181,
+    "word": "room",
+    "meaning": "habitacion, cuarto, espacio",
+    "explanation": "Sustantivo que se refiere a un espacio cerrado dentro de un edificio separado por paredes.",
+    "example": "The hotel room has a beautiful view.",
+    "level": 2
+  },
+  {
+    "rank": 182,
+    "word": "hear",
+    "meaning": "oir, escuchar",
+    "explanation": "Verbo que significa percibir sonidos a traves del oido.",
+    "example": "Can you hear the music?",
+    "level": 2
+  },
+  {
+    "rank": 183,
+    "word": "while",
+    "meaning": "mientras, rato",
+    "explanation": "Conjuncion que indica que dos acciones ocurren al mismo tiempo de forma simultanea.",
+    "example": "I listen to music while I study.",
+    "level": 2
+  },
+  {
+    "rank": 184,
+    "word": "case",
+    "meaning": "caso, situacion",
+    "explanation": "Sustantivo que se refiere a una situacion particular o un ejemplo especifico de algo.",
+    "example": "In that case, we should leave early.",
+    "level": 2
+  },
+  {
+    "rank": 185,
+    "word": "young",
+    "meaning": "joven",
+    "explanation": "Adjetivo que describe a una persona o ser que tiene pocos anios de edad.",
+    "example": "She is too young to drive a car.",
+    "level": 2
+  },
+  {
+    "rank": 186,
+    "word": "plan",
+    "meaning": "plan, planear",
+    "explanation": "Sustantivo o verbo que se refiere a una idea organizada sobre como hacer algo en el futuro.",
+    "example": "What is your plan for the weekend?",
+    "level": 2
+  },
+  {
+    "rank": 187,
+    "word": "grow",
+    "meaning": "crecer, cultivar",
+    "explanation": "Verbo que significa aumentar de tamanio o desarrollarse con el paso del tiempo.",
+    "example": "Children grow up so fast.",
+    "level": 2
+  },
+  {
+    "rank": 188,
+    "word": "often",
+    "meaning": "a menudo, frecuentemente",
+    "explanation": "Adverbio de frecuencia que indica que algo sucede muchas veces de manera habitual.",
+    "example": "I often go for a walk after dinner.",
+    "level": 2
+  },
+  {
+    "rank": 189,
+    "word": "important",
+    "meaning": "importante",
+    "explanation": "Adjetivo que describe algo que tiene gran valor, significado o influencia.",
+    "example": "Education is very important for children.",
+    "level": 2
+  },
+  {
+    "rank": 190,
+    "word": "until",
+    "meaning": "hasta",
+    "explanation": "Preposicion o conjuncion que indica el punto en el tiempo en que algo cambia o termina.",
+    "example": "Wait here until I come back.",
+    "level": 2
+  },
+  {
+    "rank": 191,
+    "word": "eye",
+    "meaning": "ojo",
+    "explanation": "Sustantivo que se refiere al organo del cuerpo que permite ver y percibir la luz.",
+    "example": "She has beautiful blue eyes.",
+    "level": 2
+  },
+  {
+    "rank": 192,
+    "word": "city",
+    "meaning": "ciudad",
+    "explanation": "Sustantivo que se refiere a una poblacion grande donde viven y trabajan muchas personas.",
+    "example": "New York is a very big city.",
+    "level": 2
+  },
+  {
+    "rank": 193,
+    "word": "early",
+    "meaning": "temprano, pronto",
+    "explanation": "Adjetivo o adverbio que indica algo que ocurre antes del tiempo esperado o al inicio del dia.",
+    "example": "I wake up early every morning.",
+    "level": 2
+  },
+  {
+    "rank": 194,
+    "word": "begin",
+    "meaning": "comenzar, empezar",
+    "explanation": "Verbo que significa iniciar una accion o dar comienzo a algo por primera vez.",
+    "example": "The concert will begin at eight.",
+    "level": 2
+  },
+  {
+    "rank": 195,
+    "word": "idea",
+    "meaning": "idea",
+    "explanation": "Sustantivo que se refiere a un pensamiento, concepto o plan formado en la mente.",
+    "example": "That is a great idea!",
+    "level": 2
+  },
+  {
+    "rank": 196,
+    "word": "enough",
+    "meaning": "suficiente, bastante",
+    "explanation": "Adjetivo o adverbio que indica que la cantidad o grado de algo es adecuado o satisfactorio.",
+    "example": "Do we have enough food for everyone?",
+    "level": 2
+  },
+  {
+    "rank": 197,
+    "word": "almost",
+    "meaning": "casi",
+    "explanation": "Adverbio que indica que algo esta muy cerca de completarse pero no del todo.",
+    "example": "We are almost there.",
+    "level": 2
+  },
+  {
+    "rank": 198,
+    "word": "live",
+    "meaning": "vivir, en vivo",
+    "explanation": "Verbo que significa tener vida o habitar en un lugar determinado.",
+    "example": "I live in a small town near the coast.",
+    "level": 2
+  },
+  {
+    "rank": 199,
+    "word": "since",
+    "meaning": "desde, ya que",
+    "explanation": "Preposicion o conjuncion que indica el punto de inicio en el tiempo o una razon.",
+    "example": "I have lived here since 2010.",
+    "level": 2
+  },
+  {
+    "rank": 200,
+    "word": "back",
+    "meaning": "espalda, de vuelta, atras",
+    "explanation": "Sustantivo que se refiere a la parte posterior del cuerpo o adverbio que indica regreso.",
+    "example": "I will be back in five minutes.",
+    "level": 2
+  },
+  {
+    "rank": 201,
+    "word": "power",
+    "meaning": "poder, fuerza",
+    "explanation": "Se refiere a la capacidad de controlar, influir o hacer algo, ya sea fisica, politica o social.",
+    "example": "Knowledge is power.",
+    "level": 3
+  },
+  {
+    "rank": 202,
+    "word": "fact",
+    "meaning": "hecho, realidad",
+    "explanation": "Algo que es verdadero y se puede comprobar, una realidad objetiva.",
+    "example": "It is a fact that the Earth is round.",
+    "level": 3
+  },
+  {
+    "rank": 203,
+    "word": "money",
+    "meaning": "dinero",
+    "explanation": "Medio de intercambio usado para comprar bienes y servicios.",
+    "example": "I need to save more money.",
+    "level": 3
+  },
+  {
+    "rank": 204,
+    "word": "change",
+    "meaning": "cambiar, cambio",
+    "explanation": "Hacer algo diferente o convertirse en algo distinto; tambien el acto de modificar algo.",
+    "example": "We need to change our plans.",
+    "level": 3
+  },
+  {
+    "rank": 205,
+    "word": "interest",
+    "meaning": "interes",
+    "explanation": "Sentimiento de curiosidad o atencion hacia algo, o beneficio financiero sobre un prestamo.",
+    "example": "She has a strong interest in science.",
+    "level": 3
+  },
+  {
+    "rank": 206,
+    "word": "order",
+    "meaning": "orden, pedir",
+    "explanation": "Disposicion organizada de cosas o una instruccion; tambien significa solicitar algo en un restaurante o tienda.",
+    "example": "Can I order a coffee, please?",
+    "level": 3
+  },
+  {
+    "rank": 207,
+    "word": "book",
+    "meaning": "libro, reservar",
+    "explanation": "Conjunto de paginas con texto encuadernadas; tambien se usa como verbo para hacer una reserva.",
+    "example": "I am reading a very good book.",
+    "level": 3
+  },
+  {
+    "rank": 208,
+    "word": "eye",
+    "meaning": "ojo",
+    "explanation": "Organo del cuerpo que permite ver; tambien se usa en expresiones como 'keep an eye on'.",
+    "example": "She has beautiful blue eyes.",
+    "level": 3
+  },
+  {
+    "rank": 209,
+    "word": "pay",
+    "meaning": "pagar, pago",
+    "explanation": "Dar dinero a cambio de un producto o servicio; tambien se refiere al salario recibido.",
+    "example": "I need to pay the bill.",
+    "level": 3
+  },
+  {
+    "rank": 210,
+    "word": "door",
+    "meaning": "puerta",
+    "explanation": "Panel movil que se abre y cierra para permitir o bloquear el paso a un espacio.",
+    "example": "Please close the door behind you.",
+    "level": 3
+  },
+  {
+    "rank": 211,
+    "word": "experience",
+    "meaning": "experiencia, experimentar",
+    "explanation": "Conocimiento adquirido a traves de vivencias; como verbo, significa vivir o sentir algo directamente.",
+    "example": "She has a lot of experience in teaching.",
+    "level": 3
+  },
+  {
+    "rank": 212,
+    "word": "early",
+    "meaning": "temprano, pronto",
+    "explanation": "Que ocurre al inicio de un periodo de tiempo o antes de lo esperado.",
+    "example": "I woke up early this morning.",
+    "level": 3
+  },
+  {
+    "rank": 213,
+    "word": "play",
+    "meaning": "jugar, tocar, obra",
+    "explanation": "Participar en una actividad recreativa, tocar un instrumento, o una representacion teatral.",
+    "example": "The children play in the park every day.",
+    "level": 3
+  },
+  {
+    "rank": 214,
+    "word": "face",
+    "meaning": "cara, rostro, enfrentar",
+    "explanation": "Parte frontal de la cabeza; como verbo, significa confrontar o enfrentar algo directamente.",
+    "example": "You must face your fears.",
+    "level": 3
+  },
+  {
+    "rank": 215,
+    "word": "idea",
+    "meaning": "idea",
+    "explanation": "Pensamiento, concepto o plan que se forma en la mente.",
+    "example": "That is a great idea!",
+    "level": 3
+  },
+  {
+    "rank": 216,
+    "word": "already",
+    "meaning": "ya",
+    "explanation": "Indica que algo ha ocurrido antes del momento presente o antes de lo esperado.",
+    "example": "I have already finished my homework.",
+    "level": 3
+  },
+  {
+    "rank": 217,
+    "word": "city",
+    "meaning": "ciudad",
+    "explanation": "Area urbana grande donde vive y trabaja mucha gente, con edificios, calles y servicios.",
+    "example": "New York is a very big city.",
+    "level": 3
+  },
+  {
+    "rank": 218,
+    "word": "story",
+    "meaning": "historia, cuento, relato",
+    "explanation": "Narracion de eventos reales o imaginarios contada de forma oral o escrita.",
+    "example": "She told us a funny story.",
+    "level": 3
+  },
+  {
+    "rank": 219,
+    "word": "system",
+    "meaning": "sistema",
+    "explanation": "Conjunto organizado de partes que funcionan juntas para lograr un proposito.",
+    "example": "The education system needs reform.",
+    "level": 3
+  },
+  {
+    "rank": 220,
+    "word": "car",
+    "meaning": "coche, carro, auto",
+    "explanation": "Vehiculo motorizado de cuatro ruedas usado para transportar personas.",
+    "example": "He drives his car to work every day.",
+    "level": 3
+  },
+  {
+    "rank": 221,
+    "word": "whole",
+    "meaning": "entero, todo, completo",
+    "explanation": "La totalidad de algo, sin que falte ninguna parte.",
+    "example": "She ate the whole cake by herself.",
+    "level": 3
+  },
+  {
+    "rank": 222,
+    "word": "present",
+    "meaning": "presente, regalo, presentar",
+    "explanation": "Puede significar el momento actual, un obsequio, o el acto de mostrar algo a otros.",
+    "example": "He gave her a present for her birthday.",
+    "level": 3
+  },
+  {
+    "rank": 223,
+    "word": "keep",
+    "meaning": "mantener, guardar, seguir",
+    "explanation": "Conservar algo en posesion o en un estado; tambien significa continuar haciendo algo.",
+    "example": "Please keep this a secret.",
+    "level": 3
+  },
+  {
+    "rank": 224,
+    "word": "problem",
+    "meaning": "problema",
+    "explanation": "Situacion dificil que necesita una solucion o algo que causa dificultad.",
+    "example": "We need to solve this problem quickly.",
+    "level": 3
+  },
+  {
+    "rank": 225,
+    "word": "begin",
+    "meaning": "comenzar, empezar",
+    "explanation": "Dar inicio a algo o ponerse en marcha por primera vez.",
+    "example": "The movie will begin at eight o'clock.",
+    "level": 3
+  },
+  {
+    "rank": 226,
+    "word": "large",
+    "meaning": "grande",
+    "explanation": "De tamano considerable, mas grande de lo normal o esperado.",
+    "example": "They live in a large house.",
+    "level": 3
+  },
+  {
+    "rank": 227,
+    "word": "group",
+    "meaning": "grupo",
+    "explanation": "Conjunto de personas o cosas reunidas o que comparten algo en comun.",
+    "example": "A group of students visited the museum.",
+    "level": 3
+  },
+  {
+    "rank": 228,
+    "word": "few",
+    "meaning": "pocos, algunos",
+    "explanation": "Cantidad pequena de algo; indica que no hay muchos elementos.",
+    "example": "Only a few people came to the meeting.",
+    "level": 3
+  },
+  {
+    "rank": 229,
+    "word": "always",
+    "meaning": "siempre",
+    "explanation": "En todo momento, sin excepcion; indica que algo ocurre de forma constante.",
+    "example": "She always arrives on time.",
+    "level": 3
+  },
+  {
+    "rank": 230,
+    "word": "girl",
+    "meaning": "chica, nina",
+    "explanation": "Persona joven de sexo femenino, desde nina hasta adolescente.",
+    "example": "The little girl is playing with her dog.",
+    "level": 3
+  },
+  {
+    "rank": 231,
+    "word": "believe",
+    "meaning": "creer",
+    "explanation": "Aceptar algo como verdadero o tener confianza en alguien o algo.",
+    "example": "I believe you are telling the truth.",
+    "level": 3
+  },
+  {
+    "rank": 232,
+    "word": "become",
+    "meaning": "convertirse, llegar a ser",
+    "explanation": "Transformarse en algo diferente o alcanzar un nuevo estado o condicion.",
+    "example": "She wants to become a doctor.",
+    "level": 3
+  },
+  {
+    "rank": 233,
+    "word": "sure",
+    "meaning": "seguro, claro",
+    "explanation": "Tener certeza sobre algo o estar convencido de que es verdad.",
+    "example": "Are you sure about that?",
+    "level": 3
+  },
+  {
+    "rank": 234,
+    "word": "word",
+    "meaning": "palabra",
+    "explanation": "Unidad basica del lenguaje que tiene significado y se usa para comunicarse.",
+    "example": "What does this word mean?",
+    "level": 3
+  },
+  {
+    "rank": 235,
+    "word": "both",
+    "meaning": "ambos, los dos",
+    "explanation": "Se refiere a dos personas o cosas juntas, incluyendo a las dos sin excepcion.",
+    "example": "Both of my parents are teachers.",
+    "level": 3
+  },
+  {
+    "rank": 236,
+    "word": "enough",
+    "meaning": "suficiente, bastante",
+    "explanation": "La cantidad necesaria o adecuada de algo, ni mas ni menos de lo que se requiere.",
+    "example": "Do we have enough food for everyone?",
+    "level": 3
+  },
+  {
+    "rank": 237,
+    "word": "boy",
+    "meaning": "chico, nino",
+    "explanation": "Persona joven de sexo masculino, desde nino hasta adolescente.",
+    "example": "The boy kicked the ball across the field.",
+    "level": 3
+  },
+  {
+    "rank": 238,
+    "word": "stand",
+    "meaning": "estar de pie, soportar",
+    "explanation": "Mantenerse en posicion vertical sobre los pies; tambien significa tolerar algo.",
+    "example": "Please stand up when the teacher enters.",
+    "level": 3
+  },
+  {
+    "rank": 239,
+    "word": "though",
+    "meaning": "aunque, sin embargo",
+    "explanation": "Introduce una idea contraria o una concesion, similar a 'aunque' o 'a pesar de que'.",
+    "example": "I went out, though it was raining.",
+    "level": 3
+  },
+  {
+    "rank": 240,
+    "word": "walk",
+    "meaning": "caminar, paseo",
+    "explanation": "Moverse a pie de un lugar a otro; tambien se usa como sustantivo para una caminata.",
+    "example": "Let's walk to the park.",
+    "level": 3
+  },
+  {
+    "rank": 241,
+    "word": "possible",
+    "meaning": "posible",
+    "explanation": "Que puede ocurrir o lograrse, que no es imposible.",
+    "example": "Is it possible to finish by tomorrow?",
+    "level": 3
+  },
+  {
+    "rank": 242,
+    "word": "country",
+    "meaning": "pais, campo",
+    "explanation": "Nacion con su propio gobierno y territorio; tambien puede referirse a zonas rurales fuera de la ciudad.",
+    "example": "Japan is a beautiful country.",
+    "level": 3
+  },
+  {
+    "rank": 243,
+    "word": "run",
+    "meaning": "correr, dirigir",
+    "explanation": "Moverse rapidamente con las piernas; tambien significa administrar o gestionar algo.",
+    "example": "She likes to run in the morning.",
+    "level": 3
+  },
+  {
+    "rank": 244,
+    "word": "learn",
+    "meaning": "aprender",
+    "explanation": "Adquirir conocimientos o habilidades nuevas a traves del estudio o la experiencia.",
+    "example": "I want to learn how to play the guitar.",
+    "level": 3
+  },
+  {
+    "rank": 245,
+    "word": "own",
+    "meaning": "propio, poseer",
+    "explanation": "Que pertenece a uno mismo; como verbo, significa tener algo en posesion.",
+    "example": "She owns her own house.",
+    "level": 3
+  },
+  {
+    "rank": 246,
+    "word": "close",
+    "meaning": "cerrar, cerca, cercano",
+    "explanation": "Mover algo para bloquear una apertura; como adjetivo, indica poca distancia entre cosas.",
+    "example": "Please close the window; it is cold.",
+    "level": 3
+  },
+  {
+    "rank": 247,
+    "word": "under",
+    "meaning": "debajo de, bajo",
+    "explanation": "En una posicion mas baja que algo, cubierto o protegido por algo que esta encima.",
+    "example": "The cat is sleeping under the table.",
+    "level": 3
+  },
+  {
+    "rank": 248,
+    "word": "happen",
+    "meaning": "ocurrir, pasar, suceder",
+    "explanation": "Tener lugar un evento o situacion, generalmente sin ser planeado.",
+    "example": "What happened at the meeting yesterday?",
+    "level": 3
+  },
+  {
+    "rank": 249,
+    "word": "mean",
+    "meaning": "significar, querer decir, malo",
+    "explanation": "Indicar o expresar un sentido; como adjetivo, describe a alguien cruel o desagradable.",
+    "example": "What does this word mean?",
+    "level": 3
+  },
+  {
+    "rank": 250,
+    "word": "hold",
+    "meaning": "sostener, mantener, celebrar",
+    "explanation": "Tener algo en las manos o los brazos; tambien significa mantener una posicion o realizar un evento.",
+    "example": "Can you hold this bag for me?",
+    "level": 3
+  },
+  {
+    "rank": 251,
+    "word": "live",
+    "meaning": "vivir, en vivo",
+    "explanation": "Estar vivo o residir en un lugar; como adjetivo, significa que algo ocurre en tiempo real.",
+    "example": "I live in a small town near the coast.",
+    "level": 3
+  },
+  {
+    "rank": 252,
+    "word": "without",
+    "meaning": "sin",
+    "explanation": "Indica la ausencia o falta de algo o alguien.",
+    "example": "I cannot live without music.",
+    "level": 3
+  },
+  {
+    "rank": 253,
+    "word": "leave",
+    "meaning": "salir, dejar, irse",
+    "explanation": "Ir fuera de un lugar o abandonar algo; tambien significa permitir que algo permanezca.",
+    "example": "I have to leave the office at five.",
+    "level": 3
+  },
+  {
+    "rank": 254,
+    "word": "long",
+    "meaning": "largo, mucho tiempo",
+    "explanation": "De gran extension en espacio o tiempo; lo opuesto de corto.",
+    "example": "It was a long journey across the desert.",
+    "level": 3
+  },
+  {
+    "rank": 255,
+    "word": "bring",
+    "meaning": "traer, llevar",
+    "explanation": "Transportar algo o a alguien hacia el lugar donde esta el hablante.",
+    "example": "Please bring your notebook to class.",
+    "level": 3
+  },
+  {
+    "rank": 256,
+    "word": "such",
+    "meaning": "tal, tan, semejante",
+    "explanation": "Se usa para enfatizar la naturaleza o el grado de algo.",
+    "example": "It was such a beautiful day.",
+    "level": 3
+  },
+  {
+    "rank": 257,
+    "word": "write",
+    "meaning": "escribir",
+    "explanation": "Formar letras, palabras o textos en papel o en una pantalla.",
+    "example": "She likes to write stories in her free time.",
+    "level": 3
+  },
+  {
+    "rank": 258,
+    "word": "field",
+    "meaning": "campo, area, terreno",
+    "explanation": "Area abierta de tierra; tambien se refiere a un area de estudio o trabajo profesional.",
+    "example": "The cows are grazing in the field.",
+    "level": 3
+  },
+  {
+    "rank": 259,
+    "word": "feel",
+    "meaning": "sentir, sentirse",
+    "explanation": "Percibir una emocion o sensacion fisica, o tener una impresion sobre algo.",
+    "example": "I feel happy when the sun is shining.",
+    "level": 3
+  },
+  {
+    "rank": 260,
+    "word": "black",
+    "meaning": "negro",
+    "explanation": "Color mas oscuro, resultado de la ausencia de luz o color.",
+    "example": "She was wearing a black dress.",
+    "level": 3
+  },
+  {
+    "rank": 261,
+    "word": "white",
+    "meaning": "blanco",
+    "explanation": "Color mas claro, resultado de la combinacion de todos los colores de la luz.",
+    "example": "The walls of the room are white.",
+    "level": 3
+  },
+  {
+    "rank": 262,
+    "word": "body",
+    "meaning": "cuerpo",
+    "explanation": "Estructura fisica completa de una persona o animal.",
+    "example": "Exercise is good for the body and mind.",
+    "level": 3
+  },
+  {
+    "rank": 263,
+    "word": "sit",
+    "meaning": "sentarse",
+    "explanation": "Adoptar una posicion en la que el peso del cuerpo descansa sobre las nalgas.",
+    "example": "Please sit down and make yourself comfortable.",
+    "level": 3
+  },
+  {
+    "rank": 264,
+    "word": "air",
+    "meaning": "aire",
+    "explanation": "Mezcla de gases que rodea la Tierra y que respiramos para vivir.",
+    "example": "The mountain air is fresh and clean.",
+    "level": 3
+  },
+  {
+    "rank": 265,
+    "word": "less",
+    "meaning": "menos",
+    "explanation": "Una cantidad menor o en menor grado; lo contrario de 'mas'.",
+    "example": "You should eat less sugar.",
+    "level": 3
+  },
+  {
+    "rank": 266,
+    "word": "hope",
+    "meaning": "esperar, esperanza",
+    "explanation": "Desear que algo bueno suceda en el futuro con cierta confianza.",
+    "example": "I hope you have a wonderful day.",
+    "level": 3
+  },
+  {
+    "rank": 267,
+    "word": "age",
+    "meaning": "edad, epoca",
+    "explanation": "Tiempo que una persona ha vivido o periodo historico; tambien significa envejecer.",
+    "example": "What is your age?",
+    "level": 3
+  },
+  {
+    "rank": 268,
+    "word": "clear",
+    "meaning": "claro, despejado, limpiar",
+    "explanation": "Facil de entender o ver; sin obstrucciones ni nubes; como verbo, quitar cosas de un lugar.",
+    "example": "The instructions are very clear.",
+    "level": 3
+  },
+  {
+    "rank": 269,
+    "word": "fall",
+    "meaning": "caer, otono, caida",
+    "explanation": "Moverse hacia abajo por la gravedad; en ingles americano, es la estacion entre verano e invierno.",
+    "example": "Be careful not to fall on the ice.",
+    "level": 3
+  },
+  {
+    "rank": 270,
+    "word": "point",
+    "meaning": "punto, senalar",
+    "explanation": "Lugar especifico, idea principal, o el acto de indicar direccion con el dedo.",
+    "example": "She made a very good point in the discussion.",
+    "level": 3
+  },
+  {
+    "rank": 271,
+    "word": "answer",
+    "meaning": "respuesta, responder",
+    "explanation": "Reaccion verbal o escrita a una pregunta o problema planteado.",
+    "example": "Do you know the answer to this question?",
+    "level": 3
+  },
+  {
+    "rank": 272,
+    "word": "hard",
+    "meaning": "duro, dificil",
+    "explanation": "Que requiere mucho esfuerzo o que es solido y firme al tacto.",
+    "example": "The exam was really hard.",
+    "level": 3
+  },
+  {
+    "rank": 273,
+    "word": "matter",
+    "meaning": "importar, asunto, materia",
+    "explanation": "Ser de importancia o relevancia; tambien se refiere a un tema o sustancia fisica.",
+    "example": "It does not matter what they think.",
+    "level": 3
+  },
+  {
+    "rank": 274,
+    "word": "kind",
+    "meaning": "tipo, amable",
+    "explanation": "Categoria o clase de algo; como adjetivo, describe a alguien generoso y considerado.",
+    "example": "She is a very kind person.",
+    "level": 3
+  },
+  {
+    "rank": 275,
+    "word": "stop",
+    "meaning": "parar, detener, dejar de",
+    "explanation": "Cesar un movimiento o actividad; dejar de hacer algo que se estaba realizando.",
+    "example": "Please stop talking during the movie.",
+    "level": 3
+  },
+  {
+    "rank": 276,
+    "word": "watch",
+    "meaning": "mirar, reloj, observar",
+    "explanation": "Observar algo con atencion durante un tiempo; tambien es un dispositivo para ver la hora.",
+    "example": "Let's watch a movie tonight.",
+    "level": 3
+  },
+  {
+    "rank": 277,
+    "word": "seem",
+    "meaning": "parecer",
+    "explanation": "Dar la impresion de ser algo sin que sea necesariamente cierto.",
+    "example": "You seem tired today.",
+    "level": 3
+  },
+  {
+    "rank": 278,
+    "word": "show",
+    "meaning": "mostrar, espectaculo",
+    "explanation": "Hacer visible o ensenar algo a alguien; tambien es un programa de television o actuacion.",
+    "example": "Can you show me the way to the station?",
+    "level": 3
+  },
+  {
+    "rank": 279,
+    "word": "side",
+    "meaning": "lado, costado",
+    "explanation": "Parte lateral o borde de algo; tambien puede referirse a una posicion en un debate.",
+    "example": "The restaurant is on the other side of the street.",
+    "level": 3
+  },
+  {
+    "rank": 280,
+    "word": "might",
+    "meaning": "podria, puede que",
+    "explanation": "Verbo modal que expresa posibilidad o probabilidad menor que 'may'.",
+    "example": "It might rain tomorrow.",
+    "level": 3
+  },
+  {
+    "rank": 281,
+    "word": "head",
+    "meaning": "cabeza, dirigirse",
+    "explanation": "Parte superior del cuerpo que contiene el cerebro; como verbo, moverse hacia una direccion.",
+    "example": "She turned her head to look at him.",
+    "level": 3
+  },
+  {
+    "rank": 282,
+    "word": "move",
+    "meaning": "mover, mudarse, movimiento",
+    "explanation": "Cambiar de posicion o lugar; tambien cambiar de residencia o hacer una jugada.",
+    "example": "We plan to move to a new apartment.",
+    "level": 3
+  },
+  {
+    "rank": 283,
+    "word": "right",
+    "meaning": "derecho, correcto, derecha",
+    "explanation": "Direccion opuesta a la izquierda; tambien significa correcto o un privilegio legal.",
+    "example": "Turn right at the next corner.",
+    "level": 3
+  },
+  {
+    "rank": 284,
+    "word": "form",
+    "meaning": "forma, formulario, formar",
+    "explanation": "Apariencia o estructura de algo; un documento para rellenar; o el acto de crear algo.",
+    "example": "Please fill out this form.",
+    "level": 3
+  },
+  {
+    "rank": 285,
+    "word": "place",
+    "meaning": "lugar, sitio, colocar",
+    "explanation": "Ubicacion especifica o espacio; como verbo, poner algo en una posicion determinada.",
+    "example": "This is a nice place to have lunch.",
+    "level": 3
+  },
+  {
+    "rank": 286,
+    "word": "number",
+    "meaning": "numero, cantidad",
+    "explanation": "Simbolo o valor que representa una cantidad; tambien una cifra usada para contar.",
+    "example": "What is your phone number?",
+    "level": 3
+  },
+  {
+    "rank": 287,
+    "word": "line",
+    "meaning": "linea, fila, cola",
+    "explanation": "Marca continua larga y estrecha; tambien una fila de personas esperando.",
+    "example": "There is a long line at the supermarket.",
+    "level": 3
+  },
+  {
+    "rank": 288,
+    "word": "turn",
+    "meaning": "girar, turno, vuelta",
+    "explanation": "Cambiar de direccion o rotar; tambien el momento asignado a cada persona para hacer algo.",
+    "example": "It is your turn to speak.",
+    "level": 3
+  },
+  {
+    "rank": 289,
+    "word": "lose",
+    "meaning": "perder",
+    "explanation": "Dejar de tener algo que se poseia, o no ganar en una competencia.",
+    "example": "I do not want to lose my keys again.",
+    "level": 3
+  },
+  {
+    "rank": 290,
+    "word": "cause",
+    "meaning": "causa, causar",
+    "explanation": "Razon o motivo por el que algo ocurre; como verbo, provocar que algo suceda.",
+    "example": "What was the cause of the accident?",
+    "level": 3
+  },
+  {
+    "rank": 291,
+    "word": "open",
+    "meaning": "abrir, abierto",
+    "explanation": "Mover algo para permitir el acceso; como adjetivo, que no esta cerrado ni bloqueado.",
+    "example": "The store is open until nine o'clock.",
+    "level": 3
+  },
+  {
+    "rank": 292,
+    "word": "late",
+    "meaning": "tarde, tardio",
+    "explanation": "Que llega despues del tiempo esperado o que ocurre al final de un periodo.",
+    "example": "Sorry, I am late for the meeting.",
+    "level": 3
+  },
+  {
+    "rank": 293,
+    "word": "high",
+    "meaning": "alto, elevado",
+    "explanation": "Que se extiende mucho hacia arriba o que tiene un nivel grande en intensidad o valor.",
+    "example": "The building is very high.",
+    "level": 3
+  },
+  {
+    "rank": 294,
+    "word": "different",
+    "meaning": "diferente, distinto",
+    "explanation": "Que no es igual o semejante a otra cosa; que tiene caracteristicas propias.",
+    "example": "Each person has a different opinion.",
+    "level": 3
+  },
+  {
+    "rank": 295,
+    "word": "small",
+    "meaning": "pequeno",
+    "explanation": "De tamano reducido, menor de lo habitual; lo opuesto de grande.",
+    "example": "They live in a small village.",
+    "level": 3
+  },
+  {
+    "rank": 296,
+    "word": "night",
+    "meaning": "noche",
+    "explanation": "Periodo de oscuridad entre la puesta y la salida del sol.",
+    "example": "The stars are beautiful at night.",
+    "level": 3
+  },
+  {
+    "rank": 297,
+    "word": "real",
+    "meaning": "real, verdadero",
+    "explanation": "Que existe de verdad y no es imaginario ni falso.",
+    "example": "Is this a real diamond?",
+    "level": 3
+  },
+  {
+    "rank": 298,
+    "word": "name",
+    "meaning": "nombre, nombrar",
+    "explanation": "Palabra con la que se identifica a una persona, lugar o cosa.",
+    "example": "My name is Maria.",
+    "level": 3
+  },
+  {
+    "rank": 299,
+    "word": "important",
+    "meaning": "importante",
+    "explanation": "Que tiene gran valor, significado o influencia; que merece atencion especial.",
+    "example": "It is important to eat healthy food.",
+    "level": 3
+  },
+  {
+    "rank": 300,
+    "word": "home",
+    "meaning": "hogar, casa",
+    "explanation": "Lugar donde una persona vive y se siente segura y comoda.",
+    "example": "There is no place like home.",
+    "level": 3
+  },
+  {
+    "rank": 301,
+    "word": "table",
+    "meaning": "mesa",
+    "explanation": "Mueble con superficie plana sostenida por patas, usado para comer, trabajar o colocar cosas.",
+    "example": "Please set the table for dinner.",
+    "level": 4
+  },
+  {
+    "rank": 302,
+    "word": "letter",
+    "meaning": "carta, letra",
+    "explanation": "Puede referirse a un mensaje escrito enviado a alguien o a un simbolo del alfabeto.",
+    "example": "She wrote a letter to her grandmother.",
+    "level": 4
+  },
+  {
+    "rank": 303,
+    "word": "decide",
+    "meaning": "decidir",
+    "explanation": "Tomar una determinacion o eleccion despues de considerar las opciones disponibles.",
+    "example": "I need to decide which university to attend.",
+    "level": 4
+  },
+  {
+    "rank": 304,
+    "word": "value",
+    "meaning": "valor",
+    "explanation": "La importancia, utilidad o precio monetario que se le asigna a algo.",
+    "example": "The value of this painting has increased over the years.",
+    "level": 4
+  },
+  {
+    "rank": 305,
+    "word": "study",
+    "meaning": "estudiar, estudio",
+    "explanation": "Dedicar tiempo y esfuerzo a aprender sobre un tema, o la investigacion misma.",
+    "example": "I need to study for my exam tomorrow.",
+    "level": 4
+  },
+  {
+    "rank": 306,
+    "word": "learn",
+    "meaning": "aprender",
+    "explanation": "Adquirir conocimiento o habilidad a traves de la experiencia, el estudio o la ensenanza.",
+    "example": "Children learn new languages very quickly.",
+    "level": 4
+  },
+  {
+    "rank": 307,
+    "word": "job",
+    "meaning": "trabajo, empleo",
+    "explanation": "Actividad laboral remunerada que una persona realiza de forma regular.",
+    "example": "He found a job at a software company.",
+    "level": 4
+  },
+  {
+    "rank": 308,
+    "word": "friend",
+    "meaning": "amigo, amiga",
+    "explanation": "Persona con la que se tiene una relacion de confianza, afecto y apoyo mutuo.",
+    "example": "My best friend lives in another city.",
+    "level": 4
+  },
+  {
+    "rank": 309,
+    "word": "class",
+    "meaning": "clase",
+    "explanation": "Grupo de estudiantes que reciben ensenanza juntos, o una categoria social o de objetos.",
+    "example": "Our math class starts at nine in the morning.",
+    "level": 4
+  },
+  {
+    "rank": 310,
+    "word": "anything",
+    "meaning": "cualquier cosa, algo",
+    "explanation": "Se usa en preguntas y oraciones negativas para referirse a cualquier cosa sin especificar.",
+    "example": "Is there anything I can do to help?",
+    "level": 4
+  },
+  {
+    "rank": 311,
+    "word": "full",
+    "meaning": "lleno, completo",
+    "explanation": "Que contiene todo lo que puede caber, o que esta completo sin que falte nada.",
+    "example": "The glass is full of water.",
+    "level": 4
+  },
+  {
+    "rank": 312,
+    "word": "heart",
+    "meaning": "corazon",
+    "explanation": "Organo vital que bombea la sangre, y tambien simbolo de emociones y sentimientos.",
+    "example": "She has a kind heart and always helps others.",
+    "level": 4
+  },
+  {
+    "rank": 313,
+    "word": "quite",
+    "meaning": "bastante, muy",
+    "explanation": "Adverbio que indica un grado considerable pero no extremo de algo.",
+    "example": "The movie was quite interesting.",
+    "level": 4
+  },
+  {
+    "rank": 314,
+    "word": "street",
+    "meaning": "calle",
+    "explanation": "Via publica en una ciudad o pueblo por donde circulan vehiculos y peatones.",
+    "example": "The children played on the street after school.",
+    "level": 4
+  },
+  {
+    "rank": 315,
+    "word": "local",
+    "meaning": "local",
+    "explanation": "Relativo a un lugar, zona o comunidad especifica, cercana o del entorno inmediato.",
+    "example": "We buy our vegetables at the local market.",
+    "level": 4
+  },
+  {
+    "rank": 316,
+    "word": "half",
+    "meaning": "mitad, medio",
+    "explanation": "Una de las dos partes iguales en que se divide algo.",
+    "example": "I ate half of the pizza.",
+    "level": 4
+  },
+  {
+    "rank": 317,
+    "word": "south",
+    "meaning": "sur",
+    "explanation": "Punto cardinal opuesto al norte, direccion hacia la parte inferior del mapa.",
+    "example": "Birds fly south for the winter.",
+    "level": 4
+  },
+  {
+    "rank": 318,
+    "word": "third",
+    "meaning": "tercero, tercio",
+    "explanation": "Que ocupa el lugar numero tres en una serie, o una de tres partes iguales.",
+    "example": "This is the third time I have called you today.",
+    "level": 4
+  },
+  {
+    "rank": 319,
+    "word": "drive",
+    "meaning": "conducir, manejar",
+    "explanation": "Operar y dirigir un vehiculo, o la accion de desplazarse en coche.",
+    "example": "I drive to work every morning.",
+    "level": 4
+  },
+  {
+    "rank": 320,
+    "word": "picture",
+    "meaning": "imagen, foto, cuadro",
+    "explanation": "Representacion visual de algo, ya sea una fotografia, pintura o dibujo.",
+    "example": "She took a picture of the sunset.",
+    "level": 4
+  },
+  {
+    "rank": 321,
+    "word": "result",
+    "meaning": "resultado",
+    "explanation": "Efecto o consecuencia que se obtiene despues de una accion, proceso o evento.",
+    "example": "The result of the experiment surprised everyone.",
+    "level": 4
+  },
+  {
+    "rank": 322,
+    "word": "office",
+    "meaning": "oficina",
+    "explanation": "Lugar de trabajo donde se realizan tareas administrativas o profesionales.",
+    "example": "He works in an office downtown.",
+    "level": 4
+  },
+  {
+    "rank": 323,
+    "word": "special",
+    "meaning": "especial",
+    "explanation": "Que se distingue de lo comun o tiene una cualidad unica que lo hace diferente.",
+    "example": "Today is a special day for our family.",
+    "level": 4
+  },
+  {
+    "rank": 324,
+    "word": "speak",
+    "meaning": "hablar",
+    "explanation": "Comunicarse usando palabras, expresar ideas o pensamientos de forma oral.",
+    "example": "Can you speak a little slower, please?",
+    "level": 4
+  },
+  {
+    "rank": 325,
+    "word": "hard",
+    "meaning": "duro, dificil",
+    "explanation": "Que requiere mucho esfuerzo o que es firme y solido al tacto.",
+    "example": "The exam was very hard, but I passed.",
+    "level": 4
+  },
+  {
+    "rank": 326,
+    "word": "morning",
+    "meaning": "manana (parte del dia)",
+    "explanation": "Periodo del dia desde el amanecer hasta el mediodia.",
+    "example": "I like to exercise in the morning.",
+    "level": 4
+  },
+  {
+    "rank": 327,
+    "word": "else",
+    "meaning": "mas, otro",
+    "explanation": "Se usa para referirse a algo o alguien adicional o diferente a lo ya mencionado.",
+    "example": "Is there anything else you need?",
+    "level": 4
+  },
+  {
+    "rank": 328,
+    "word": "voice",
+    "meaning": "voz",
+    "explanation": "Sonido producido por las cuerdas vocales que permite hablar y comunicarse.",
+    "example": "She has a beautiful singing voice.",
+    "level": 4
+  },
+  {
+    "rank": 329,
+    "word": "care",
+    "meaning": "cuidado, importar",
+    "explanation": "Prestar atencion y preocupacion por el bienestar de alguien o algo.",
+    "example": "I care about my family very much.",
+    "level": 4
+  },
+  {
+    "rank": 330,
+    "word": "north",
+    "meaning": "norte",
+    "explanation": "Punto cardinal que senala hacia la parte superior del mapa, opuesto al sur.",
+    "example": "The city is located in the north of the country.",
+    "level": 4
+  },
+  {
+    "rank": 331,
+    "word": "lot",
+    "meaning": "mucho, lote",
+    "explanation": "Cantidad grande de algo, frecuentemente usado en la expresion 'a lot of'.",
+    "example": "There are a lot of people at the park today.",
+    "level": 4
+  },
+  {
+    "rank": 332,
+    "word": "fall",
+    "meaning": "caer, otono",
+    "explanation": "Movimiento hacia abajo por efecto de la gravedad, o la estacion entre verano e invierno.",
+    "example": "The leaves fall from the trees in autumn.",
+    "level": 4
+  },
+  {
+    "rank": 333,
+    "word": "age",
+    "meaning": "edad, epoca",
+    "explanation": "Cantidad de tiempo que ha vivido una persona, o un periodo historico determinado.",
+    "example": "What age were you when you started school?",
+    "level": 4
+  },
+  {
+    "rank": 334,
+    "word": "build",
+    "meaning": "construir",
+    "explanation": "Crear o levantar una estructura uniendo materiales o partes de forma organizada.",
+    "example": "They plan to build a new hospital in this area.",
+    "level": 4
+  },
+  {
+    "rank": 335,
+    "word": "land",
+    "meaning": "tierra, terreno",
+    "explanation": "Superficie solida del planeta no cubierta por agua, o un terreno especifico.",
+    "example": "They bought a piece of land to build a house.",
+    "level": 4
+  },
+  {
+    "rank": 336,
+    "word": "strong",
+    "meaning": "fuerte",
+    "explanation": "Que tiene gran fuerza fisica, resistencia o intensidad.",
+    "example": "He is strong enough to lift that heavy box.",
+    "level": 4
+  },
+  {
+    "rank": 337,
+    "word": "west",
+    "meaning": "oeste",
+    "explanation": "Punto cardinal por donde se pone el sol, opuesto al este.",
+    "example": "The sun sets in the west every evening.",
+    "level": 4
+  },
+  {
+    "rank": 338,
+    "word": "remember",
+    "meaning": "recordar",
+    "explanation": "Traer a la mente algo que se ha experimentado o aprendido anteriormente.",
+    "example": "I remember the first day we met.",
+    "level": 4
+  },
+  {
+    "rank": 339,
+    "word": "watch",
+    "meaning": "mirar, reloj",
+    "explanation": "Observar algo con atencion durante un tiempo, o dispositivo para medir la hora en la muneca.",
+    "example": "We like to watch movies on Friday nights.",
+    "level": 4
+  },
+  {
+    "rank": 340,
+    "word": "carry",
+    "meaning": "llevar, cargar",
+    "explanation": "Transportar algo de un lugar a otro sosteniendolo con las manos o el cuerpo.",
+    "example": "Can you help me carry these bags?",
+    "level": 4
+  },
+  {
+    "rank": 341,
+    "word": "window",
+    "meaning": "ventana",
+    "explanation": "Abertura en una pared que permite la entrada de luz y aire, generalmente con vidrio.",
+    "example": "Please open the window to let in some fresh air.",
+    "level": 4
+  },
+  {
+    "rank": 342,
+    "word": "act",
+    "meaning": "actuar, acto",
+    "explanation": "Realizar una accion o comportarse de cierta manera, o una parte de una obra teatral.",
+    "example": "We must act quickly to solve this problem.",
+    "level": 4
+  },
+  {
+    "rank": 343,
+    "word": "wall",
+    "meaning": "pared, muro",
+    "explanation": "Estructura vertical que divide o delimita espacios en un edificio o terreno.",
+    "example": "There is a beautiful painting on the wall.",
+    "level": 4
+  },
+  {
+    "rank": 344,
+    "word": "buy",
+    "meaning": "comprar",
+    "explanation": "Obtener algo a cambio de dinero.",
+    "example": "I want to buy a new pair of shoes.",
+    "level": 4
+  },
+  {
+    "rank": 345,
+    "word": "service",
+    "meaning": "servicio",
+    "explanation": "Actividad o trabajo realizado para satisfacer las necesidades de otras personas.",
+    "example": "The restaurant is known for its excellent service.",
+    "level": 4
+  },
+  {
+    "rank": 346,
+    "word": "bed",
+    "meaning": "cama",
+    "explanation": "Mueble disenado para dormir o descansar, generalmente con colchon y sabanas.",
+    "example": "The children go to bed at eight o'clock.",
+    "level": 4
+  },
+  {
+    "rank": 347,
+    "word": "short",
+    "meaning": "corto, bajo",
+    "explanation": "De poca longitud, duracion o estatura en comparacion con lo normal.",
+    "example": "She has short brown hair.",
+    "level": 4
+  },
+  {
+    "rank": 348,
+    "word": "free",
+    "meaning": "libre, gratis",
+    "explanation": "Que no tiene restricciones ni costo, o que esta disponible sin pagar.",
+    "example": "Admission to the museum is free on Sundays.",
+    "level": 4
+  },
+  {
+    "rank": 349,
+    "word": "wish",
+    "meaning": "desear, deseo",
+    "explanation": "Querer que algo suceda o tener una esperanza de obtener algo.",
+    "example": "I wish I could travel around the world.",
+    "level": 4
+  },
+  {
+    "rank": 350,
+    "word": "paper",
+    "meaning": "papel, periodico",
+    "explanation": "Material delgado hecho de fibras vegetales usado para escribir, o un periodico impreso.",
+    "example": "I need a piece of paper to write a note.",
+    "level": 4
+  },
+  {
+    "rank": 351,
+    "word": "perhaps",
+    "meaning": "quizas, tal vez",
+    "explanation": "Adverbio que expresa posibilidad o incertidumbre sobre algo.",
+    "example": "Perhaps we should try a different approach.",
+    "level": 4
+  },
+  {
+    "rank": 352,
+    "word": "reach",
+    "meaning": "alcanzar, llegar",
+    "explanation": "Extender la mano para tocar algo, o lograr llegar a un lugar o meta.",
+    "example": "I cannot reach the top shelf without a ladder.",
+    "level": 4
+  },
+  {
+    "rank": 353,
+    "word": "month",
+    "meaning": "mes",
+    "explanation": "Periodo de tiempo de aproximadamente cuatro semanas, doce de los cuales forman un ano.",
+    "example": "We are going on vacation next month.",
+    "level": 4
+  },
+  {
+    "rank": 354,
+    "word": "offer",
+    "meaning": "ofrecer, oferta",
+    "explanation": "Presentar algo a alguien para que lo acepte, o una propuesta con condiciones favorables.",
+    "example": "They made me a job offer I could not refuse.",
+    "level": 4
+  },
+  {
+    "rank": 355,
+    "word": "sit",
+    "meaning": "sentarse",
+    "explanation": "Colocarse sobre una superficie con el cuerpo apoyado en las nalgas.",
+    "example": "Please sit down and make yourself comfortable.",
+    "level": 4
+  },
+  {
+    "rank": 356,
+    "word": "since",
+    "meaning": "desde, ya que",
+    "explanation": "Indica el punto de inicio en el tiempo, o se usa como sinonimo de 'porque'.",
+    "example": "I have lived here since 2010.",
+    "level": 4
+  },
+  {
+    "rank": 357,
+    "word": "sort",
+    "meaning": "tipo, clase, ordenar",
+    "explanation": "Una categoria o variedad de algo, o la accion de organizar cosas en orden.",
+    "example": "What sort of music do you like?",
+    "level": 4
+  },
+  {
+    "rank": 358,
+    "word": "love",
+    "meaning": "amor, amar",
+    "explanation": "Sentimiento profundo de afecto y carino hacia alguien o algo.",
+    "example": "I love spending time with my family.",
+    "level": 4
+  },
+  {
+    "rank": 359,
+    "word": "political",
+    "meaning": "politico",
+    "explanation": "Relacionado con el gobierno, las leyes y la administracion de un pais o comunidad.",
+    "example": "The political situation in the country is very tense.",
+    "level": 4
+  },
+  {
+    "rank": 360,
+    "word": "meet",
+    "meaning": "conocer, encontrarse",
+    "explanation": "Ver a alguien por primera vez o reunirse con alguien en un lugar acordado.",
+    "example": "Let us meet at the coffee shop at noon.",
+    "level": 4
+  },
+  {
+    "rank": 361,
+    "word": "war",
+    "meaning": "guerra",
+    "explanation": "Conflicto armado entre paises o grupos, generalmente de larga duracion.",
+    "example": "The war lasted for many years.",
+    "level": 4
+  },
+  {
+    "rank": 362,
+    "word": "pass",
+    "meaning": "pasar",
+    "explanation": "Moverse de un lugar a otro, o entregar algo a alguien cercano.",
+    "example": "Could you pass me the salt, please?",
+    "level": 4
+  },
+  {
+    "rank": 363,
+    "word": "raise",
+    "meaning": "levantar, aumentar, criar",
+    "explanation": "Mover algo hacia arriba, incrementar una cantidad, o educar a un hijo.",
+    "example": "They decided to raise money for charity.",
+    "level": 4
+  },
+  {
+    "rank": 364,
+    "word": "cut",
+    "meaning": "cortar",
+    "explanation": "Dividir o separar algo usando un instrumento afilado como cuchillo o tijeras.",
+    "example": "Be careful not to cut your finger with the knife.",
+    "level": 4
+  },
+  {
+    "rank": 365,
+    "word": "produce",
+    "meaning": "producir",
+    "explanation": "Crear, fabricar o generar algo mediante un proceso de trabajo o natural.",
+    "example": "This factory produces electronic components.",
+    "level": 4
+  },
+  {
+    "rank": 366,
+    "word": "eat",
+    "meaning": "comer",
+    "explanation": "Introducir alimentos en la boca, masticarlos y tragarlos para nutrir el cuerpo.",
+    "example": "We usually eat dinner at seven o'clock.",
+    "level": 4
+  },
+  {
+    "rank": 367,
+    "word": "record",
+    "meaning": "registro, grabar, record",
+    "explanation": "Informacion almacenada sobre algo, o la accion de capturar sonido, imagen o datos.",
+    "example": "The doctor keeps a record of all patient visits.",
+    "level": 4
+  },
+  {
+    "rank": 368,
+    "word": "common",
+    "meaning": "comun",
+    "explanation": "Que ocurre con frecuencia o que es compartido por muchas personas o cosas.",
+    "example": "It is common to shake hands when you meet someone.",
+    "level": 4
+  },
+  {
+    "rank": 369,
+    "word": "court",
+    "meaning": "tribunal, cancha, corte",
+    "explanation": "Lugar donde se imparte justicia, o un espacio delimitado para practicar deportes.",
+    "example": "The case will be heard in court next week.",
+    "level": 4
+  },
+  {
+    "rank": 370,
+    "word": "space",
+    "meaning": "espacio",
+    "explanation": "Area disponible o vacia, o la extension infinita mas alla de la atmosfera terrestre.",
+    "example": "There is not enough space in the room for another desk.",
+    "level": 4
+  },
+  {
+    "rank": 371,
+    "word": "form",
+    "meaning": "forma, formulario, formar",
+    "explanation": "La figura o estructura de algo, un documento con campos para llenar, o crear algo.",
+    "example": "Please fill out this form with your personal information.",
+    "level": 4
+  },
+  {
+    "rank": 372,
+    "word": "sure",
+    "meaning": "seguro",
+    "explanation": "Que tiene certeza o confianza en algo, sin ninguna duda.",
+    "example": "Are you sure you locked the door?",
+    "level": 4
+  },
+  {
+    "rank": 373,
+    "word": "level",
+    "meaning": "nivel",
+    "explanation": "Grado o posicion en una escala, o una superficie plana y horizontal.",
+    "example": "The water level in the river is very high today.",
+    "level": 4
+  },
+  {
+    "rank": 374,
+    "word": "walk",
+    "meaning": "caminar, paseo",
+    "explanation": "Desplazarse a pie moviendo las piernas de forma alternada.",
+    "example": "I walk to school every day.",
+    "level": 4
+  },
+  {
+    "rank": 375,
+    "word": "board",
+    "meaning": "tabla, junta, pizarra",
+    "explanation": "Superficie plana de madera u otro material, o un grupo de personas que dirige una organizacion.",
+    "example": "The teacher wrote the answer on the board.",
+    "level": 4
+  },
+  {
+    "rank": 376,
+    "word": "single",
+    "meaning": "unico, soltero, individual",
+    "explanation": "Que es uno solo, sin companero o pareja, o que no esta combinado con otros.",
+    "example": "There was not a single cloud in the sky.",
+    "level": 4
+  },
+  {
+    "rank": 377,
+    "word": "minute",
+    "meaning": "minuto",
+    "explanation": "Unidad de tiempo equivalente a sesenta segundos, usada para medir periodos cortos.",
+    "example": "The train will arrive in five minutes.",
+    "level": 4
+  },
+  {
+    "rank": 378,
+    "word": "open",
+    "meaning": "abrir, abierto",
+    "explanation": "Mover algo para permitir el acceso, o que no esta cerrado ni bloqueado.",
+    "example": "Please open the door for me.",
+    "level": 4
+  },
+  {
+    "rank": 379,
+    "word": "several",
+    "meaning": "varios",
+    "explanation": "Mas de dos pero no demasiados, indica una cantidad moderada.",
+    "example": "I have visited that country several times.",
+    "level": 4
+  },
+  {
+    "rank": 380,
+    "word": "include",
+    "meaning": "incluir",
+    "explanation": "Contener algo como parte de un conjunto o hacer que forme parte de el.",
+    "example": "The price does not include breakfast.",
+    "level": 4
+  },
+  {
+    "rank": 381,
+    "word": "figure",
+    "meaning": "figura, cifra, calcular",
+    "explanation": "Forma de una persona, un numero o cantidad, o tratar de entender algo.",
+    "example": "I am trying to figure out how this machine works.",
+    "level": 4
+  },
+  {
+    "rank": 382,
+    "word": "real",
+    "meaning": "real, verdadero",
+    "explanation": "Que existe de verdad y no es imaginario, falso ni artificial.",
+    "example": "Is this a real diamond or a fake one?",
+    "level": 4
+  },
+  {
+    "rank": 383,
+    "word": "happen",
+    "meaning": "suceder, ocurrir",
+    "explanation": "Tener lugar un evento o situacion, generalmente de forma no planeada.",
+    "example": "What happened at the meeting yesterday?",
+    "level": 4
+  },
+  {
+    "rank": 384,
+    "word": "east",
+    "meaning": "este, oriente",
+    "explanation": "Punto cardinal por donde sale el sol, opuesto al oeste.",
+    "example": "The sun rises in the east.",
+    "level": 4
+  },
+  {
+    "rank": 385,
+    "word": "death",
+    "meaning": "muerte",
+    "explanation": "El fin de la vida de un ser vivo, el cese permanente de todas las funciones vitales.",
+    "example": "The death of the famous author saddened many readers.",
+    "level": 4
+  },
+  {
+    "rank": 386,
+    "word": "close",
+    "meaning": "cerrar, cercano",
+    "explanation": "Mover algo para bloquear una abertura, o que esta a poca distancia de algo.",
+    "example": "Please close the window because it is cold.",
+    "level": 4
+  },
+  {
+    "rank": 387,
+    "word": "power",
+    "meaning": "poder, energia",
+    "explanation": "Capacidad de hacer algo o influir en otros, o la energia que hace funcionar maquinas.",
+    "example": "The power went out during the storm.",
+    "level": 4
+  },
+  {
+    "rank": 388,
+    "word": "play",
+    "meaning": "jugar, tocar, obra",
+    "explanation": "Participar en una actividad recreativa, ejecutar un instrumento musical, o una pieza teatral.",
+    "example": "The children play in the park after school.",
+    "level": 4
+  },
+  {
+    "rank": 389,
+    "word": "region",
+    "meaning": "region",
+    "explanation": "Area geografica con caracteristicas propias que la distinguen de otras zonas.",
+    "example": "This region is famous for its wine production.",
+    "level": 4
+  },
+  {
+    "rank": 390,
+    "word": "market",
+    "meaning": "mercado",
+    "explanation": "Lugar donde se compran y venden productos, o el sistema de comercio en general.",
+    "example": "We go to the farmers market every Saturday.",
+    "level": 4
+  },
+  {
+    "rank": 391,
+    "word": "ready",
+    "meaning": "listo, preparado",
+    "explanation": "Que esta en condiciones de hacer algo o que ha completado su preparacion.",
+    "example": "Are you ready to leave for the airport?",
+    "level": 4
+  },
+  {
+    "rank": 392,
+    "word": "field",
+    "meaning": "campo, area",
+    "explanation": "Terreno abierto de cultivo o deporte, o un area de conocimiento o actividad profesional.",
+    "example": "She is an expert in the field of medicine.",
+    "level": 4
+  },
+  {
+    "rank": 393,
+    "word": "finish",
+    "meaning": "terminar, finalizar",
+    "explanation": "Completar una actividad o llegar al final de algo que se estaba haciendo.",
+    "example": "I need to finish my homework before dinner.",
+    "level": 4
+  },
+  {
+    "rank": 394,
+    "word": "plan",
+    "meaning": "plan, planear",
+    "explanation": "Idea organizada sobre como hacer algo en el futuro, o la accion de preparar una estrategia.",
+    "example": "What is your plan for the weekend?",
+    "level": 4
+  },
+  {
+    "rank": 395,
+    "word": "behind",
+    "meaning": "detras de",
+    "explanation": "En la parte posterior o trasera de algo, en una posicion no visible desde el frente.",
+    "example": "The garden is behind the house.",
+    "level": 4
+  },
+  {
+    "rank": 396,
+    "word": "run",
+    "meaning": "correr, dirigir",
+    "explanation": "Moverse rapidamente con las piernas, o gestionar y administrar algo como un negocio.",
+    "example": "She likes to run in the park every morning.",
+    "level": 4
+  },
+  {
+    "rank": 397,
+    "word": "stay",
+    "meaning": "quedarse, permanecer",
+    "explanation": "Continuar en un lugar sin irse, o mantener una condicion sin cambiarla.",
+    "example": "We decided to stay at a hotel near the beach.",
+    "level": 4
+  },
+  {
+    "rank": 398,
+    "word": "white",
+    "meaning": "blanco",
+    "explanation": "Color que resulta de la combinacion de todos los colores de la luz visible.",
+    "example": "She wore a beautiful white dress to the party.",
+    "level": 4
+  },
+  {
+    "rank": 399,
+    "word": "black",
+    "meaning": "negro",
+    "explanation": "Color que se percibe en ausencia de luz, el mas oscuro de todos los colores.",
+    "example": "He always wears a black suit to work.",
+    "level": 4
+  },
+  {
+    "rank": 400,
+    "word": "member",
+    "meaning": "miembro",
+    "explanation": "Persona que pertenece a un grupo, organizacion o comunidad.",
+    "example": "She has been a member of the club for five years.",
+    "level": 4
+  },
+  {
+    "rank": 401,
+    "word": "color",
+    "meaning": "color",
+    "explanation": "Se refiere a la propiedad visual de los objetos, como rojo, azul o verde.",
+    "example": "What color is your new car?",
+    "level": 5
+  },
+  {
+    "rank": 402,
+    "word": "market",
+    "meaning": "mercado",
+    "explanation": "Lugar donde se compran y venden productos, o el sistema economico de intercambio comercial.",
+    "example": "We bought fresh vegetables at the market.",
+    "level": 5
+  },
+  {
+    "rank": 403,
+    "word": "figure",
+    "meaning": "figura, cifra",
+    "explanation": "Puede referirse a una forma, una persona importante, un numero o a la accion de calcular algo.",
+    "example": "She is a leading figure in modern science.",
+    "level": 5
+  },
+  {
+    "rank": 404,
+    "word": "act",
+    "meaning": "actuar, acto",
+    "explanation": "Como verbo significa realizar una accion o interpretar un papel; como sustantivo es un hecho o una ley.",
+    "example": "You need to act quickly in an emergency.",
+    "level": 5
+  },
+  {
+    "rank": 405,
+    "word": "record",
+    "meaning": "registro, grabar",
+    "explanation": "Como sustantivo es un documento o dato guardado; como verbo significa capturar sonido, video o informacion.",
+    "example": "The doctor keeps a record of every patient.",
+    "level": 5
+  },
+  {
+    "rank": 406,
+    "word": "road",
+    "meaning": "camino, carretera",
+    "explanation": "Via pavimentada o de tierra que conecta lugares y por donde circulan vehiculos y personas.",
+    "example": "This road leads to the next town.",
+    "level": 5
+  },
+  {
+    "rank": 407,
+    "word": "table",
+    "meaning": "mesa, tabla",
+    "explanation": "Mueble con superficie plana sostenida por patas, usado para comer, trabajar o colocar objetos.",
+    "example": "Please set the plates on the table.",
+    "level": 5
+  },
+  {
+    "rank": 408,
+    "word": "force",
+    "meaning": "fuerza, obligar",
+    "explanation": "Poder fisico o influencia que causa movimiento o cambio; como verbo significa obligar a alguien.",
+    "example": "The force of the wind knocked down the tree.",
+    "level": 5
+  },
+  {
+    "rank": 409,
+    "word": "model",
+    "meaning": "modelo",
+    "explanation": "Representacion de algo, una persona que posa o exhibe ropa, o un ejemplo a seguir.",
+    "example": "This is the latest model of that phone.",
+    "level": 5
+  },
+  {
+    "rank": 410,
+    "word": "air",
+    "meaning": "aire",
+    "explanation": "Mezcla de gases que rodea la Tierra y que respiramos para vivir.",
+    "example": "Open the window to let in fresh air.",
+    "level": 5
+  },
+  {
+    "rank": 411,
+    "word": "condition",
+    "meaning": "condicion, estado",
+    "explanation": "Estado en que se encuentra algo o alguien, o un requisito que debe cumplirse.",
+    "example": "The car is in excellent condition.",
+    "level": 5
+  },
+  {
+    "rank": 412,
+    "word": "ground",
+    "meaning": "suelo, tierra",
+    "explanation": "Superficie solida de la Tierra sobre la que caminamos y construimos.",
+    "example": "The ball rolled along the ground.",
+    "level": 5
+  },
+  {
+    "rank": 413,
+    "word": "report",
+    "meaning": "informe, reportar",
+    "explanation": "Documento o presentacion que describe hechos o resultados; como verbo significa informar sobre algo.",
+    "example": "She wrote a detailed report about the project.",
+    "level": 5
+  },
+  {
+    "rank": 414,
+    "word": "girl",
+    "meaning": "chica, nina",
+    "explanation": "Persona joven de sexo femenino, desde la infancia hasta la adolescencia.",
+    "example": "The girl played happily in the park.",
+    "level": 5
+  },
+  {
+    "rank": 415,
+    "word": "develop",
+    "meaning": "desarrollar",
+    "explanation": "Hacer crecer, mejorar o crear algo nuevo de manera progresiva a lo largo del tiempo.",
+    "example": "They plan to develop a new software application.",
+    "level": 5
+  },
+  {
+    "rank": 416,
+    "word": "rule",
+    "meaning": "regla, gobernar",
+    "explanation": "Norma que se debe seguir; como verbo puede significar gobernar o tomar decisiones oficiales.",
+    "example": "The first rule is to always be respectful.",
+    "level": 5
+  },
+  {
+    "rank": 417,
+    "word": "fish",
+    "meaning": "pez, pescado, pescar",
+    "explanation": "Animal acuatico con aletas y branquias; tambien se usa como verbo que significa atrapar peces.",
+    "example": "We caught three fish in the river.",
+    "level": 5
+  },
+  {
+    "rank": 418,
+    "word": "horse",
+    "meaning": "caballo",
+    "explanation": "Animal grande y fuerte de cuatro patas que se usa para montar, carreras y trabajo de campo.",
+    "example": "She learned to ride a horse when she was young.",
+    "level": 5
+  },
+  {
+    "rank": 419,
+    "word": "music",
+    "meaning": "musica",
+    "explanation": "Arte de combinar sonidos de manera armoniosa y ritmica para crear melodias y canciones.",
+    "example": "He listens to music every morning.",
+    "level": 5
+  },
+  {
+    "rank": 420,
+    "word": "rate",
+    "meaning": "tasa, ritmo, calificar",
+    "explanation": "Medida de frecuencia o proporcion de algo; como verbo significa evaluar o clasificar.",
+    "example": "The heart rate increases during exercise.",
+    "level": 5
+  },
+  {
+    "rank": 421,
+    "word": "hair",
+    "meaning": "cabello, pelo",
+    "explanation": "Filamentos que crecen en la cabeza y el cuerpo de las personas y los animales.",
+    "example": "She has long, dark hair.",
+    "level": 5
+  },
+  {
+    "rank": 422,
+    "word": "reason",
+    "meaning": "razon, motivo",
+    "explanation": "Causa o explicacion por la que algo sucede o se hace de cierta manera.",
+    "example": "There must be a good reason for the delay.",
+    "level": 5
+  },
+  {
+    "rank": 423,
+    "word": "position",
+    "meaning": "posicion, puesto",
+    "explanation": "Lugar que ocupa algo o alguien, o el cargo que una persona tiene en una organizacion.",
+    "example": "He applied for a management position.",
+    "level": 5
+  },
+  {
+    "rank": 424,
+    "word": "type",
+    "meaning": "tipo, escribir",
+    "explanation": "Categoria o clase de algo; como verbo significa escribir usando un teclado.",
+    "example": "What type of music do you prefer?",
+    "level": 5
+  },
+  {
+    "rank": 425,
+    "word": "size",
+    "meaning": "tamano, talla",
+    "explanation": "Dimension o magnitud de algo, indicando que tan grande o pequeno es.",
+    "example": "What size shoes do you wear?",
+    "level": 5
+  },
+  {
+    "rank": 426,
+    "word": "north",
+    "meaning": "norte",
+    "explanation": "Direccion que apunta hacia el Polo Norte, opuesta al sur en una brujula o mapa.",
+    "example": "The city is located in the north of the country.",
+    "level": 5
+  },
+  {
+    "rank": 427,
+    "word": "cover",
+    "meaning": "cubrir, cubierta",
+    "explanation": "Poner algo encima para proteger u ocultar; como sustantivo es la tapa o funda de algo.",
+    "example": "Please cover the food to keep it warm.",
+    "level": 5
+  },
+  {
+    "rank": 428,
+    "word": "food",
+    "meaning": "comida, alimento",
+    "explanation": "Sustancia que los seres vivos consumen para obtener energia y nutrientes necesarios para vivir.",
+    "example": "We need to buy food for the week.",
+    "level": 5
+  },
+  {
+    "rank": 429,
+    "word": "pull",
+    "meaning": "jalar, tirar de",
+    "explanation": "Ejercer fuerza para mover algo hacia uno mismo, lo opuesto a empujar.",
+    "example": "Pull the door handle to open it.",
+    "level": 5
+  },
+  {
+    "rank": 430,
+    "word": "white",
+    "meaning": "blanco",
+    "explanation": "Color mas claro que existe, como el de la nieve o la leche.",
+    "example": "She wore a beautiful white dress.",
+    "level": 5
+  },
+  {
+    "rank": 431,
+    "word": "foot",
+    "meaning": "pie",
+    "explanation": "Parte del cuerpo al final de la pierna que se usa para caminar y mantenerse en pie.",
+    "example": "He hurt his foot while playing soccer.",
+    "level": 5
+  },
+  {
+    "rank": 432,
+    "word": "arm",
+    "meaning": "brazo",
+    "explanation": "Extremidad superior del cuerpo humano que va desde el hombro hasta la mano.",
+    "example": "She broke her arm in the accident.",
+    "level": 5
+  },
+  {
+    "rank": 433,
+    "word": "space",
+    "meaning": "espacio",
+    "explanation": "Area vacia disponible o el universo mas alla de la atmosfera terrestre.",
+    "example": "There is not enough space in the room.",
+    "level": 5
+  },
+  {
+    "rank": 434,
+    "word": "hundred",
+    "meaning": "cien, ciento",
+    "explanation": "Numero equivalente a 100, diez veces diez.",
+    "example": "About a hundred people attended the event.",
+    "level": 5
+  },
+  {
+    "rank": 435,
+    "word": "step",
+    "meaning": "paso, escalon",
+    "explanation": "Movimiento de un pie al caminar, o una etapa dentro de un proceso o una serie de instrucciones.",
+    "example": "The first step is to read the instructions carefully.",
+    "level": 5
+  },
+  {
+    "rank": 436,
+    "word": "baby",
+    "meaning": "bebe",
+    "explanation": "Ser humano muy joven, desde el nacimiento hasta los primeros anos de vida.",
+    "example": "The baby is sleeping in the crib.",
+    "level": 5
+  },
+  {
+    "rank": 437,
+    "word": "miss",
+    "meaning": "extranar, fallar, senorita",
+    "explanation": "Sentir la ausencia de alguien, no acertar un objetivo, o titulo de cortesia para mujeres jovenes.",
+    "example": "I miss my friends from school.",
+    "level": 5
+  },
+  {
+    "rank": 438,
+    "word": "tree",
+    "meaning": "arbol",
+    "explanation": "Planta grande con tronco de madera, ramas y hojas que crece en la naturaleza.",
+    "example": "The children played under the big tree.",
+    "level": 5
+  },
+  {
+    "rank": 439,
+    "word": "true",
+    "meaning": "verdadero, cierto",
+    "explanation": "Que corresponde a la realidad o a los hechos, lo contrario de falso.",
+    "example": "Is it true that you are moving to another city?",
+    "level": 5
+  },
+  {
+    "rank": 440,
+    "word": "rock",
+    "meaning": "roca, piedra",
+    "explanation": "Material solido y duro que forma parte de la corteza terrestre; tambien un genero musical.",
+    "example": "They sat on a large rock by the river.",
+    "level": 5
+  },
+  {
+    "rank": 441,
+    "word": "green",
+    "meaning": "verde",
+    "explanation": "Color que se asocia con la naturaleza, la hierba y las hojas de los arboles.",
+    "example": "The traffic light turned green.",
+    "level": 5
+  },
+  {
+    "rank": 442,
+    "word": "floor",
+    "meaning": "piso, suelo",
+    "explanation": "Superficie inferior de una habitacion sobre la que se camina, o nivel de un edificio.",
+    "example": "The kitchen floor needs to be cleaned.",
+    "level": 5
+  },
+  {
+    "rank": 443,
+    "word": "dark",
+    "meaning": "oscuro",
+    "explanation": "Que tiene poca o ninguna luz, o que es de un tono profundo cercano al negro.",
+    "example": "It gets dark early in winter.",
+    "level": 5
+  },
+  {
+    "rank": 444,
+    "word": "build",
+    "meaning": "construir, edificar",
+    "explanation": "Crear una estructura uniendo materiales o partes, como una casa o un edificio.",
+    "example": "They plan to build a new hospital.",
+    "level": 5
+  },
+  {
+    "rank": 445,
+    "word": "ship",
+    "meaning": "barco, enviar",
+    "explanation": "Embarcacion grande para navegar por el mar; como verbo significa enviar mercancias.",
+    "example": "The ship sailed across the Atlantic Ocean.",
+    "level": 5
+  },
+  {
+    "rank": 446,
+    "word": "answer",
+    "meaning": "respuesta, responder",
+    "explanation": "Reaccion o solucion que se da a una pregunta, problema o situacion planteada.",
+    "example": "Do you know the answer to this question?",
+    "level": 5
+  },
+  {
+    "rank": 447,
+    "word": "throw",
+    "meaning": "lanzar, tirar",
+    "explanation": "Impulsar algo con la mano para que se desplace por el aire hacia otro lugar.",
+    "example": "Throw the ball to me!",
+    "level": 5
+  },
+  {
+    "rank": 448,
+    "word": "law",
+    "meaning": "ley, derecho",
+    "explanation": "Norma oficial establecida por un gobierno que todos los ciudadanos deben obedecer.",
+    "example": "Everyone must obey the law.",
+    "level": 5
+  },
+  {
+    "rank": 449,
+    "word": "pick",
+    "meaning": "elegir, recoger",
+    "explanation": "Seleccionar algo entre varias opciones o levantar algo del suelo o una superficie.",
+    "example": "Pick any card from the deck.",
+    "level": 5
+  },
+  {
+    "rank": 450,
+    "word": "modern",
+    "meaning": "moderno",
+    "explanation": "Que pertenece al tiempo presente o reciente, o que usa las ideas y tecnologias mas actuales.",
+    "example": "Modern technology has changed our lives.",
+    "level": 5
+  },
+  {
+    "rank": 451,
+    "word": "window",
+    "meaning": "ventana",
+    "explanation": "Abertura en una pared con vidrio que permite la entrada de luz y aire a un espacio.",
+    "example": "She looked out the window at the rain.",
+    "level": 5
+  },
+  {
+    "rank": 452,
+    "word": "cup",
+    "meaning": "taza, copa",
+    "explanation": "Recipiente pequeno con asa que se usa para beber liquidos como cafe o te.",
+    "example": "Would you like a cup of tea?",
+    "level": 5
+  },
+  {
+    "rank": 453,
+    "word": "add",
+    "meaning": "anadir, sumar",
+    "explanation": "Poner algo junto con otra cosa para aumentar la cantidad, o realizar una suma matematica.",
+    "example": "Please add some sugar to my coffee.",
+    "level": 5
+  },
+  {
+    "rank": 454,
+    "word": "public",
+    "meaning": "publico",
+    "explanation": "Que esta abierto a todas las personas o que se relaciona con la sociedad en general.",
+    "example": "The park is open to the public.",
+    "level": 5
+  },
+  {
+    "rank": 455,
+    "word": "store",
+    "meaning": "tienda, almacenar",
+    "explanation": "Establecimiento donde se venden productos; como verbo significa guardar algo para uso futuro.",
+    "example": "I bought this shirt at the store downtown.",
+    "level": 5
+  },
+  {
+    "rank": 456,
+    "word": "party",
+    "meaning": "fiesta, partido",
+    "explanation": "Evento social para celebrar o divertirse, o un grupo politico organizado con ideas comunes.",
+    "example": "We are going to a birthday party tonight.",
+    "level": 5
+  },
+  {
+    "rank": 457,
+    "word": "human",
+    "meaning": "humano",
+    "explanation": "Relativo a las personas como especie o que tiene cualidades propias de las personas.",
+    "example": "Human beings need water to survive.",
+    "level": 5
+  },
+  {
+    "rank": 458,
+    "word": "sure",
+    "meaning": "seguro, claro",
+    "explanation": "Que no tiene dudas sobre algo; tambien se usa para confirmar o aceptar de manera informal.",
+    "example": "Are you sure you want to leave?",
+    "level": 5
+  },
+  {
+    "rank": 459,
+    "word": "trade",
+    "meaning": "comercio, intercambiar",
+    "explanation": "Actividad de comprar, vender o intercambiar bienes y servicios entre personas o paises.",
+    "example": "International trade is important for the economy.",
+    "level": 5
+  },
+  {
+    "rank": 460,
+    "word": "doctor",
+    "meaning": "doctor, medico",
+    "explanation": "Profesional de la salud que diagnostica y trata enfermedades en las personas.",
+    "example": "You should see a doctor about that cough.",
+    "level": 5
+  },
+  {
+    "rank": 461,
+    "word": "low",
+    "meaning": "bajo",
+    "explanation": "Que esta cerca del suelo, que tiene poca altura, o que esta en un nivel reducido.",
+    "example": "The temperature is very low today.",
+    "level": 5
+  },
+  {
+    "rank": 462,
+    "word": "wide",
+    "meaning": "ancho, amplio",
+    "explanation": "Que tiene una gran extension de un lado a otro, lo opuesto a estrecho.",
+    "example": "The river is very wide at this point.",
+    "level": 5
+  },
+  {
+    "rank": 463,
+    "word": "sign",
+    "meaning": "senal, firmar",
+    "explanation": "Objeto o gesto que comunica informacion; como verbo significa poner la firma en un documento.",
+    "example": "Please sign your name at the bottom of the page.",
+    "level": 5
+  },
+  {
+    "rank": 464,
+    "word": "east",
+    "meaning": "este, oriente",
+    "explanation": "Direccion por donde sale el sol, opuesta al oeste en una brujula o mapa.",
+    "example": "The sun rises in the east.",
+    "level": 5
+  },
+  {
+    "rank": 465,
+    "word": "picture",
+    "meaning": "imagen, foto",
+    "explanation": "Representacion visual de algo, como una fotografia, un dibujo o una pintura.",
+    "example": "She took a picture of the sunset.",
+    "level": 5
+  },
+  {
+    "rank": 466,
+    "word": "age",
+    "meaning": "edad, epoca",
+    "explanation": "Cantidad de tiempo que una persona ha vivido o un periodo historico determinado.",
+    "example": "Children of that age love to play outside.",
+    "level": 5
+  },
+  {
+    "rank": 467,
+    "word": "note",
+    "meaning": "nota, notar",
+    "explanation": "Mensaje breve escrito, o la accion de prestar atencion y observar algo con cuidado.",
+    "example": "She left a note on the kitchen table.",
+    "level": 5
+  },
+  {
+    "rank": 468,
+    "word": "single",
+    "meaning": "unico, soltero",
+    "explanation": "Que es solo uno, individual; tambien describe a alguien que no tiene pareja.",
+    "example": "Every single student passed the exam.",
+    "level": 5
+  },
+  {
+    "rank": 469,
+    "word": "cause",
+    "meaning": "causa, causar",
+    "explanation": "Lo que origina o produce un efecto o resultado; como verbo significa provocar que algo ocurra.",
+    "example": "The heavy rain was the cause of the flood.",
+    "level": 5
+  },
+  {
+    "rank": 470,
+    "word": "south",
+    "meaning": "sur",
+    "explanation": "Direccion opuesta al norte, que apunta hacia el Polo Sur en una brujula o mapa.",
+    "example": "They drove south toward the coast.",
+    "level": 5
+  },
+  {
+    "rank": 471,
+    "word": "field",
+    "meaning": "campo, terreno",
+    "explanation": "Area abierta de tierra, especialmente usada para cultivos, deportes o como area de estudio.",
+    "example": "The farmer works in the field every day.",
+    "level": 5
+  },
+  {
+    "rank": 472,
+    "word": "fall",
+    "meaning": "caer, otono",
+    "explanation": "Moverse hacia abajo por gravedad; tambien es la estacion del ano entre verano e invierno.",
+    "example": "Be careful not to fall on the ice.",
+    "level": 5
+  },
+  {
+    "rank": 473,
+    "word": "plan",
+    "meaning": "plan, planear",
+    "explanation": "Idea organizada de como hacer algo en el futuro; como verbo significa preparar una estrategia.",
+    "example": "What is your plan for the weekend?",
+    "level": 5
+  },
+  {
+    "rank": 474,
+    "word": "base",
+    "meaning": "base, basar",
+    "explanation": "Parte inferior que soporta algo, o el fundamento sobre el cual se construye una idea o argumento.",
+    "example": "The statue stands on a marble base.",
+    "level": 5
+  },
+  {
+    "rank": 475,
+    "word": "west",
+    "meaning": "oeste, occidente",
+    "explanation": "Direccion por donde se pone el sol, opuesta al este en una brujula o mapa.",
+    "example": "The town is located to the west of the river.",
+    "level": 5
+  },
+  {
+    "rank": 476,
+    "word": "island",
+    "meaning": "isla",
+    "explanation": "Porcion de tierra completamente rodeada de agua por todos sus lados.",
+    "example": "They spent their vacation on a tropical island.",
+    "level": 5
+  },
+  {
+    "rank": 477,
+    "word": "reach",
+    "meaning": "alcanzar, llegar",
+    "explanation": "Extender la mano para tocar algo, o lograr llegar a un lugar o meta determinada.",
+    "example": "Can you reach the book on the top shelf?",
+    "level": 5
+  },
+  {
+    "rank": 478,
+    "word": "rest",
+    "meaning": "descansar, resto",
+    "explanation": "Dejar de trabajar para recuperar energia; como sustantivo puede significar lo que queda de algo.",
+    "example": "You should rest after working so hard.",
+    "level": 5
+  },
+  {
+    "rank": 479,
+    "word": "speak",
+    "meaning": "hablar",
+    "explanation": "Usar la voz para comunicar palabras e ideas a otra persona o un grupo.",
+    "example": "She can speak three languages fluently.",
+    "level": 5
+  },
+  {
+    "rank": 480,
+    "word": "drive",
+    "meaning": "conducir, impulso",
+    "explanation": "Operar un vehiculo para desplazarse; tambien puede significar motivacion o determinacion.",
+    "example": "He learned to drive when he was sixteen.",
+    "level": 5
+  },
+  {
+    "rank": 481,
+    "word": "raise",
+    "meaning": "levantar, criar, aumento",
+    "explanation": "Mover algo hacia arriba, educar a un hijo, o incrementar una cantidad como un salario.",
+    "example": "Please raise your hand if you have a question.",
+    "level": 5
+  },
+  {
+    "rank": 482,
+    "word": "perhaps",
+    "meaning": "quizas, tal vez",
+    "explanation": "Indica posibilidad o incertidumbre sobre algo, similar a 'tal vez' o 'posiblemente'.",
+    "example": "Perhaps we should wait until tomorrow.",
+    "level": 5
+  },
+  {
+    "rank": 483,
+    "word": "product",
+    "meaning": "producto",
+    "explanation": "Algo que se fabrica o produce para ser vendido o usado por las personas.",
+    "example": "This product is made from recycled materials.",
+    "level": 5
+  },
+  {
+    "rank": 484,
+    "word": "paint",
+    "meaning": "pintura, pintar",
+    "explanation": "Sustancia de color que se aplica sobre superficies; como verbo es la accion de aplicar pintura.",
+    "example": "We need to paint the walls of the bedroom.",
+    "level": 5
+  },
+  {
+    "rank": 485,
+    "word": "language",
+    "meaning": "idioma, lenguaje",
+    "explanation": "Sistema de comunicacion formado por palabras y reglas que usa un grupo de personas.",
+    "example": "Learning a new language takes time and practice.",
+    "level": 5
+  },
+  {
+    "rank": 486,
+    "word": "ball",
+    "meaning": "pelota, balon",
+    "explanation": "Objeto redondo que se usa en muchos deportes y juegos, como futbol o tenis.",
+    "example": "The children kicked the ball around the yard.",
+    "level": 5
+  },
+  {
+    "rank": 487,
+    "word": "heat",
+    "meaning": "calor, calentar",
+    "explanation": "Energia termica que aumenta la temperatura de algo; como verbo significa hacer que algo se caliente.",
+    "example": "The heat from the sun was intense today.",
+    "level": 5
+  },
+  {
+    "rank": 488,
+    "word": "walk",
+    "meaning": "caminar, paseo",
+    "explanation": "Moverse a pie a un ritmo normal, o un recorrido que se hace caminando por un lugar.",
+    "example": "Let us walk to the park this afternoon.",
+    "level": 5
+  },
+  {
+    "rank": 489,
+    "word": "skin",
+    "meaning": "piel",
+    "explanation": "Tejido que cubre el exterior del cuerpo de personas y animales y los protege.",
+    "example": "The sun can damage your skin if you are not careful.",
+    "level": 5
+  },
+  {
+    "rank": 490,
+    "word": "street",
+    "meaning": "calle",
+    "explanation": "Via publica en una ciudad o pueblo con edificios a los lados por donde circulan personas y vehiculos.",
+    "example": "There is a bakery on the next street.",
+    "level": 5
+  },
+  {
+    "rank": 491,
+    "word": "gold",
+    "meaning": "oro",
+    "explanation": "Metal precioso de color amarillo brillante que se usa en joyeria y como reserva de valor.",
+    "example": "She wore a beautiful gold necklace.",
+    "level": 5
+  },
+  {
+    "rank": 492,
+    "word": "fill",
+    "meaning": "llenar",
+    "explanation": "Poner algo dentro de un espacio vacio hasta que este completo o no quepa mas.",
+    "example": "Please fill the glass with water.",
+    "level": 5
+  },
+  {
+    "rank": 493,
+    "word": "choose",
+    "meaning": "elegir, escoger",
+    "explanation": "Decidir entre varias opciones cual es la que se prefiere o la mas adecuada.",
+    "example": "You can choose any book from the shelf.",
+    "level": 5
+  },
+  {
+    "rank": 494,
+    "word": "clean",
+    "meaning": "limpiar, limpio",
+    "explanation": "Que no tiene suciedad ni manchas; como verbo significa quitar la suciedad de algo.",
+    "example": "Please clean your room before dinner.",
+    "level": 5
+  },
+  {
+    "rank": 495,
+    "word": "visit",
+    "meaning": "visitar, visita",
+    "explanation": "Ir a ver a una persona o un lugar por un periodo de tiempo determinado.",
+    "example": "We plan to visit our grandparents this summer.",
+    "level": 5
+  },
+  {
+    "rank": 496,
+    "word": "bit",
+    "meaning": "poco, trozo",
+    "explanation": "Una cantidad pequena de algo, o un fragmento o parte menor de una cosa.",
+    "example": "Can I have a bit of cheese, please?",
+    "level": 5
+  },
+  {
+    "rank": 497,
+    "word": "cost",
+    "meaning": "costar, costo",
+    "explanation": "Cantidad de dinero que se debe pagar para comprar o conseguir algo.",
+    "example": "How much does this jacket cost?",
+    "level": 5
+  },
+  {
+    "rank": 498,
+    "word": "material",
+    "meaning": "material",
+    "explanation": "Sustancia o elemento con el que se fabrica o construye algo, como madera, metal o tela.",
+    "example": "The dress is made of a very soft material.",
+    "level": 5
+  },
+  {
+    "rank": 499,
+    "word": "cell",
+    "meaning": "celula, celda",
+    "explanation": "Unidad basica de los seres vivos, o un espacio pequeno y cerrado como una celda de prision.",
+    "example": "Every living thing is made up of cells.",
+    "level": 5
+  },
+  {
+    "rank": 500,
+    "word": "wall",
+    "meaning": "pared, muro",
+    "explanation": "Estructura vertical que delimita o divide espacios en un edificio o que rodea un area.",
+    "example": "They hung a painting on the wall.",
+    "level": 5
+  }
+]
