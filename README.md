@@ -2,11 +2,12 @@
 
 > Domina el ingles con las 1,000 palabras que mas importan.
 
+[![Demo](https://img.shields.io/badge/demo-kilo--lime.vercel.app-000000.svg)](https://kilo-lime.vercel.app)
 [![MIT License](https://img.shields.io/badge/license-MIT-000000.svg)](LICENSE)
 [![React](https://img.shields.io/badge/react-19-000000.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/typescript-5.9-000000.svg)](https://www.typescriptlang.org)
 
-[Reportar bug](https://github.com/markhv-dev/Kilo/issues) · [Proponer feature](https://github.com/markhv-dev/Kilo/issues)
+[Demo en vivo](https://kilo-lime.vercel.app) · [Reportar bug](https://github.com/markhv-dev/Kilo/issues) · [Proponer feature](https://github.com/markhv-dev/Kilo/issues)
 
 ---
 
