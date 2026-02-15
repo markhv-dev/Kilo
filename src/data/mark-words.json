@@ -1,0 +1,1202 @@
+[
+  {
+    "rank": 1,
+    "word": "return",
+    "meaning": "devolver, regresar",
+    "explanation": "En programación, indica que una función envía un valor de vuelta al código que la llamó.",
+    "example": "The function returns the total price after applying the discount.",
+    "level": 1
+  },
+  {
+    "rank": 2,
+    "word": "break",
+    "meaning": "romper, interrumpir",
+    "explanation": "Se usa para salir inmediatamente de un bucle o de un bloque switch, deteniendo la ejecución de las iteraciones restantes.",
+    "example": "When the system finds the matching record, it breaks out of the loop immediately.",
+    "level": 1
+  },
+  {
+    "rank": 3,
+    "word": "continue",
+    "meaning": "continuar, seguir",
+    "explanation": "Dentro de un bucle, salta el resto del código en la iteración actual y pasa directamente a la siguiente iteración.",
+    "example": "If the value is negative, the program continues to the next item in the list without processing it.",
+    "level": 1
+  },
+  {
+    "rank": 4,
+    "word": "throw",
+    "meaning": "lanzar, arrojar",
+    "explanation": "Se usa para generar un error de forma intencional, creando una excepción que debe ser manejada por el programa.",
+    "example": "The application throws an error when the user submits an invalid email address.",
+    "level": 1
+  },
+  {
+    "rank": 5,
+    "word": "catch",
+    "meaning": "atrapar, capturar",
+    "explanation": "Define un bloque de código que se ejecuta cuando ocurre un error, permitiendo manejar la excepción en lugar de que el programa falle.",
+    "example": "The program catches the database connection error and displays a friendly message to the user.",
+    "level": 1
+  },
+  {
+    "rank": 6,
+    "word": "try",
+    "meaning": "intentar, probar",
+    "explanation": "Define un bloque de código donde se intenta ejecutar instrucciones que podrían fallar, trabajando junto con catch para manejar errores.",
+    "example": "The system tries to connect to the server and handles the failure gracefully if it cannot.",
+    "level": 1
+  },
+  {
+    "rank": 7,
+    "word": "finally",
+    "meaning": "finalmente, al final",
+    "explanation": "Define un bloque de código que siempre se ejecuta después de try y catch, sin importar si hubo un error o no, ideal para liberar recursos.",
+    "example": "The program finally closes the database connection regardless of whether the query succeeded or failed.",
+    "level": 1
+  },
+  {
+    "rank": 8,
+    "word": "switch",
+    "meaning": "cambiar, alternar",
+    "explanation": "Estructura de control que evalúa una expresión y ejecuta diferentes bloques de código según el valor que coincida con cada caso definido.",
+    "example": "The application switches between different themes based on the user's preference setting.",
+    "level": 1
+  },
+  {
+    "rank": 9,
+    "word": "case",
+    "meaning": "caso, situación",
+    "explanation": "Dentro de un switch, define un valor específico contra el cual se compara la expresión evaluada, ejecutando el código asociado si hay coincidencia.",
+    "example": "In the case where the payment method is a credit card, the system applies an additional verification step.",
+    "level": 1
+  },
+  {
+    "rank": 10,
+    "word": "default",
+    "meaning": "predeterminado, por defecto",
+    "explanation": "En un switch, define el bloque de código que se ejecuta cuando ninguno de los casos anteriores coincide con el valor evaluado.",
+    "example": "If no language is selected, the system uses English as the default option.",
+    "level": 1
+  },
+  {
+    "rank": 11,
+    "word": "import",
+    "meaning": "importar, traer",
+    "explanation": "Permite traer funciones, objetos o módulos desde otros archivos o bibliotecas para usarlos en el archivo actual.",
+    "example": "The developer imports the authentication module to handle user login in the new page.",
+    "level": 1
+  },
+  {
+    "rank": 12,
+    "word": "export",
+    "meaning": "exportar, enviar",
+    "explanation": "Hace que funciones, clases o variables de un archivo estén disponibles para ser utilizadas por otros archivos del proyecto.",
+    "example": "The utility file exports several helper functions that other components can reuse.",
+    "level": 1
+  },
+  {
+    "rank": 13,
+    "word": "void",
+    "meaning": "vacío, nulo",
+    "explanation": "Indica que una función no devuelve ningún valor, simplemente ejecuta una acción sin producir un resultado que se pueda almacenar.",
+    "example": "The logging function is void because it only prints messages to the console without returning anything.",
+    "level": 1
+  },
+  {
+    "rank": 14,
+    "word": "null",
+    "meaning": "nulo, sin valor",
+    "explanation": "Representa la ausencia intencional de cualquier valor u objeto, indicando que una variable existe pero no contiene nada.",
+    "example": "The search result is null when no matching user is found in the database.",
+    "level": 1
+  },
+  {
+    "rank": 15,
+    "word": "new",
+    "meaning": "nuevo",
+    "explanation": "Se usa para crear una nueva instancia de un objeto o clase, reservando memoria para almacenar sus datos y métodos.",
+    "example": "The application creates a new instance of the user profile each time someone registers.",
+    "level": 1
+  },
+  {
+    "rank": 16,
+    "word": "delete",
+    "meaning": "borrar, eliminar",
+    "explanation": "Elimina una propiedad de un objeto o libera un recurso de la memoria, removiendo datos que ya no son necesarios.",
+    "example": "The system deletes the temporary files after the upload process is complete.",
+    "level": 1
+  },
+  {
+    "rank": 17,
+    "word": "yield",
+    "meaning": "ceder, producir",
+    "explanation": "En funciones generadoras, pausa la ejecución y devuelve un valor intermedio, permitiendo reanudar la función después desde donde se detuvo.",
+    "example": "The generator function yields one record at a time to avoid loading the entire dataset into memory.",
+    "level": 1
+  },
+  {
+    "rank": 18,
+    "word": "await",
+    "meaning": "esperar, aguardar",
+    "explanation": "Pausa la ejecución de una función asíncrona hasta que una promesa se resuelva, permitiendo escribir código asíncrono de forma más legible.",
+    "example": "The application awaits the response from the server before displaying the data on the screen.",
+    "level": 1
+  },
+  {
+    "rank": 19,
+    "word": "if",
+    "meaning": "si (condicional)",
+    "explanation": "Estructura de control que evalúa una condición y ejecuta un bloque de código solamente cuando esa condición es verdadera.",
+    "example": "If the user is logged in, the dashboard page is displayed instead of the login form.",
+    "level": 1
+  },
+  {
+    "rank": 20,
+    "word": "else",
+    "meaning": "si no, de lo contrario",
+    "explanation": "Define un bloque alternativo de código que se ejecuta cuando la condición del if resulta falsa.",
+    "example": "If the password is correct the user enters the system, else an error message appears on the screen.",
+    "level": 1
+  },
+  {
+    "rank": 21,
+    "word": "while",
+    "meaning": "mientras",
+    "explanation": "Crea un bucle que repite un bloque de código mientras una condición especificada siga siendo verdadera.",
+    "example": "The program keeps reading data from the file while there are still lines remaining to process.",
+    "level": 1
+  },
+  {
+    "rank": 22,
+    "word": "for",
+    "meaning": "para, por",
+    "explanation": "Crea un bucle que repite un bloque de código un número determinado de veces, recorriendo elementos de una colección o un rango numérico.",
+    "example": "The system checks each item in the shopping cart for available stock before confirming the order.",
+    "level": 1
+  },
+  {
+    "rank": 23,
+    "word": "loop",
+    "meaning": "bucle, ciclo",
+    "explanation": "Término general para cualquier estructura que repite un bloque de código múltiples veces hasta que se cumple una condición de salida.",
+    "example": "The animation loop runs sixty times per second to create smooth movement on the screen.",
+    "level": 1
+  },
+  {
+    "rank": 24,
+    "word": "condition",
+    "meaning": "condición, requisito",
+    "explanation": "Una expresión que se evalúa como verdadera o falsa, utilizada para controlar el flujo de ejecución del programa en estructuras como if y while.",
+    "example": "The condition checks whether the user has administrator privileges before allowing access to the settings.",
+    "level": 1
+  },
+  {
+    "rank": 25,
+    "word": "true",
+    "meaning": "verdadero, cierto",
+    "explanation": "Valor booleano que representa algo verdadero o afirmativo, usado en condiciones y comparaciones lógicas del programa.",
+    "example": "The validation returns true when all required fields in the form are properly filled out.",
+    "level": 1
+  },
+  {
+    "rank": 26,
+    "word": "false",
+    "meaning": "falso, incorrecto",
+    "explanation": "Valor booleano que representa algo falso o negativo, usado en condiciones para indicar que una evaluación no se cumple.",
+    "example": "The authentication check returns false if the provided token has already expired.",
+    "level": 1
+  },
+  {
+    "rank": 27,
+    "word": "undefined",
+    "meaning": "indefinido, sin definir",
+    "explanation": "Indica que una variable ha sido declarada pero no se le ha asignado ningún valor todavía, a diferencia de null que es una asignación intencional.",
+    "example": "The variable is undefined because the developer declared it but forgot to assign a value to it.",
+    "level": 1
+  },
+  {
+    "rank": 28,
+    "word": "require",
+    "meaning": "requerir, necesitar",
+    "explanation": "Función utilizada para cargar módulos o dependencias externas en un archivo, común en el sistema de módulos de Node.js.",
+    "example": "The server file requires the express library to handle incoming web requests.",
+    "level": 1
+  },
+  {
+    "rank": 29,
+    "word": "declare",
+    "meaning": "declarar, anunciar",
+    "explanation": "Acción de definir una variable, función o tipo por primera vez en el código, estableciendo su nombre y opcionalmente su valor inicial.",
+    "example": "The programmer declares a variable at the top of the function to store the user's total score.",
+    "level": 1
+  },
+  {
+    "rank": 30,
+    "word": "let",
+    "meaning": "dejar, permitir",
+    "explanation": "Palabra clave para declarar una variable con alcance de bloque, lo que significa que solo existe dentro del bloque de código donde fue creada.",
+    "example": "The developer uses let to create a counter variable that only exists inside the loop.",
+    "level": 1
+  },
+  {
+    "rank": 31,
+    "word": "boolean",
+    "meaning": "booleano (verdadero o falso)",
+    "explanation": "En programación, es un tipo de dato que solo puede ser true o false. Viene de George Boole, matemático inglés.",
+    "example": "The boolean variable checks whether the user is logged in.",
+    "level": 2
+  },
+  {
+    "rank": 32,
+    "word": "string",
+    "meaning": "cadena, cuerda",
+    "explanation": "En programación, es una secuencia de caracteres que representa texto. Se usa para guardar palabras, frases o cualquier dato textual.",
+    "example": "The string contains the user's full name and email address.",
+    "level": 2
+  },
+  {
+    "rank": 33,
+    "word": "array",
+    "meaning": "conjunto, serie, formación",
+    "explanation": "En programación, es una estructura de datos que almacena múltiples valores en posiciones numeradas. Es como una lista ordenada con índices.",
+    "example": "We stored all the student names in an array so we could loop through them easily.",
+    "level": 2
+  },
+  {
+    "rank": 34,
+    "word": "object",
+    "meaning": "objeto",
+    "explanation": "En programación, es una estructura que agrupa datos y funciones relacionadas. Representa una entidad con propiedades y comportamientos.",
+    "example": "The object represents a car with properties like color, speed, and model.",
+    "level": 2
+  },
+  {
+    "rank": 35,
+    "word": "number",
+    "meaning": "número",
+    "explanation": "En programación, es un tipo de dato que representa valores numéricos, ya sean enteros o decimales. Se usa para cálculos y operaciones matemáticas.",
+    "example": "The function returns a number that represents the total price of all items in the cart.",
+    "level": 2
+  },
+  {
+    "rank": 36,
+    "word": "integer",
+    "meaning": "entero",
+    "explanation": "En programación, es un tipo de dato que representa números enteros sin decimales, como 1, 42 o -7. Se usa cuando no se necesitan fracciones.",
+    "example": "The age field is stored as an integer because you cannot be half a year old in this system.",
+    "level": 2
+  },
+  {
+    "rank": 37,
+    "word": "float",
+    "meaning": "flotar",
+    "explanation": "En programación, es un tipo de dato numérico con punto decimal, llamado 'punto flotante'. Se usa para representar números como 3.14 o 0.5.",
+    "example": "The temperature sensor returns a float value like 36.6 degrees.",
+    "level": 2
+  },
+  {
+    "rank": 38,
+    "word": "double",
+    "meaning": "doble",
+    "explanation": "En programación, es un tipo de dato numérico con punto decimal de doble precisión. Ofrece más exactitud que un float para cálculos que necesitan muchos decimales.",
+    "example": "We used a double instead of a float to ensure the scientific calculations were precise enough.",
+    "level": 2
+  },
+  {
+    "rank": 39,
+    "word": "character",
+    "meaning": "carácter, personaje",
+    "explanation": "En programación, es un tipo de dato que representa un solo símbolo, como una letra, un dígito o un signo de puntuación.",
+    "example": "Each character in the password is checked to make sure it meets the security requirements.",
+    "level": 2
+  },
+  {
+    "rank": 40,
+    "word": "enum",
+    "meaning": "enumeración",
+    "explanation": "En programación, define un conjunto fijo de valores con nombre. Viene de 'enumeration' y se usa para representar opciones limitadas como estados o categorías.",
+    "example": "The enum defines all possible order statuses like pending, shipped, and delivered.",
+    "level": 2
+  },
+  {
+    "rank": 41,
+    "word": "queue",
+    "meaning": "cola, fila",
+    "explanation": "En programación, es una estructura de datos donde el primer elemento en entrar es el primero en salir, como una fila de personas esperando.",
+    "example": "The print jobs are added to a queue so they are processed in the order they were received.",
+    "level": 2
+  },
+  {
+    "rank": 42,
+    "word": "stack",
+    "meaning": "pila, montón",
+    "explanation": "En programación, es una estructura de datos donde el último elemento en entrar es el primero en salir, como una pila de platos.",
+    "example": "The browser uses a stack to keep track of which pages you visited so the back button works correctly.",
+    "level": 2
+  },
+  {
+    "rank": 43,
+    "word": "node",
+    "meaning": "nodo, nudo",
+    "explanation": "En programación, es un elemento individual dentro de una estructura de datos como una lista enlazada o un árbol. Cada nodo contiene datos y conexiones a otros nodos.",
+    "example": "Each node in the tree holds a value and points to its left and right children.",
+    "level": 2
+  },
+  {
+    "rank": 44,
+    "word": "variable",
+    "meaning": "variable",
+    "explanation": "En programación, es un espacio con nombre en la memoria que almacena un valor que puede cambiar durante la ejecución del programa.",
+    "example": "We created a variable called score to keep track of how many points the player has earned.",
+    "level": 2
+  },
+  {
+    "rank": 45,
+    "word": "constant",
+    "meaning": "constante",
+    "explanation": "En programación, es un valor que se define una vez y no puede cambiar durante la ejecución del programa. Se usa para valores fijos como el número pi.",
+    "example": "The maximum number of login attempts is defined as a constant so it cannot be accidentally changed.",
+    "level": 2
+  },
+  {
+    "rank": 46,
+    "word": "mutable",
+    "meaning": "mutable, que puede cambiar",
+    "explanation": "En programación, describe un dato u objeto cuyo contenido puede ser modificado después de ser creado. Las listas en muchos lenguajes son mutables.",
+    "example": "Arrays are mutable, which means you can add or remove elements after creating them.",
+    "level": 2
+  },
+  {
+    "rank": 47,
+    "word": "immutable",
+    "meaning": "inmutable, que no puede cambiar",
+    "explanation": "En programación, describe un dato u objeto que no puede ser modificado una vez creado. Las cadenas de texto en muchos lenguajes son inmutables.",
+    "example": "Strings in Java are immutable, so every modification creates a completely new string.",
+    "level": 2
+  },
+  {
+    "rank": 48,
+    "word": "tuple",
+    "meaning": "tupla",
+    "explanation": "En programación, es una estructura de datos ordenada e inmutable que puede contener varios valores de diferentes tipos. Es como una lista que no se puede modificar.",
+    "example": "The function returns a tuple containing both the username and the user's age.",
+    "level": 2
+  },
+  {
+    "rank": 49,
+    "word": "set",
+    "meaning": "conjunto, establecer",
+    "explanation": "En programación, es una colección de elementos únicos sin orden definido. No permite valores duplicados, ideal para verificar si algo existe.",
+    "example": "We used a set to store the unique tags because it automatically removes any duplicates.",
+    "level": 2
+  },
+  {
+    "rank": 50,
+    "word": "map",
+    "meaning": "mapa, mapear",
+    "explanation": "En programación, es una estructura de datos que asocia claves con valores, como un diccionario. También es una función que transforma cada elemento de una colección.",
+    "example": "The map stores each country's name as a key and its capital city as the value.",
+    "level": 2
+  },
+  {
+    "rank": 51,
+    "word": "list",
+    "meaning": "lista",
+    "explanation": "En programación, es una colección ordenada de elementos que puede crecer o reducirse. A diferencia del array, su tamaño suele ser dinámico.",
+    "example": "The shopping list keeps growing as the user adds more items to their cart.",
+    "level": 2
+  },
+  {
+    "rank": 52,
+    "word": "index",
+    "meaning": "índice",
+    "explanation": "En programación, es la posición numérica de un elemento dentro de una estructura de datos. Generalmente empieza en cero, no en uno.",
+    "example": "The first element in the array is at index zero, not index one.",
+    "level": 2
+  },
+  {
+    "rank": 53,
+    "word": "key",
+    "meaning": "clave, llave",
+    "explanation": "En programación, es el identificador único que se usa para acceder a un valor dentro de un mapa o diccionario. Funciona como una etiqueta para buscar datos.",
+    "example": "You can look up any student's grade by using their name as the key.",
+    "level": 2
+  },
+  {
+    "rank": 54,
+    "word": "value",
+    "meaning": "valor",
+    "explanation": "En programación, es el dato almacenado en una variable, o el dato asociado a una clave dentro de un mapa. Es la información en sí misma.",
+    "example": "The value stored in the temperature variable is updated every time the sensor takes a new reading.",
+    "level": 2
+  },
+  {
+    "rank": 55,
+    "word": "pair",
+    "meaning": "par, pareja",
+    "explanation": "En programación, es una estructura que agrupa exactamente dos elementos relacionados, como una clave y su valor o dos coordenadas.",
+    "example": "Each pair in the dictionary consists of a word and its definition.",
+    "level": 2
+  },
+  {
+    "rank": 56,
+    "word": "buffer",
+    "meaning": "amortiguador, memoria intermedia",
+    "explanation": "En programación, es un área temporal de memoria que almacena datos mientras se transfieren de un lugar a otro. Se usa para manejar flujos de datos.",
+    "example": "The video player fills a buffer with data before it starts playing to avoid interruptions.",
+    "level": 2
+  },
+  {
+    "rank": 57,
+    "word": "byte",
+    "meaning": "byte, octeto",
+    "explanation": "En programación, es una unidad de datos compuesta por ocho bits. Es la unidad básica para medir el tamaño de archivos y memoria.",
+    "example": "A single character in plain text usually takes up just one byte of memory.",
+    "level": 2
+  },
+  {
+    "rank": 58,
+    "word": "pointer",
+    "meaning": "puntero, indicador",
+    "explanation": "En programación, es una variable que almacena la dirección de memoria donde se encuentra otro dato. Es fundamental en lenguajes como C para manejar memoria directamente.",
+    "example": "The pointer stores the memory address of the original object instead of copying all its data.",
+    "level": 2
+  },
+  {
+    "rank": 59,
+    "word": "reference",
+    "meaning": "referencia",
+    "explanation": "En programación, es un alias o enlace a un dato existente en memoria. Permite acceder al mismo dato desde diferentes partes del código sin duplicarlo.",
+    "example": "When you pass an object by reference, any changes you make inside the function affect the original object.",
+    "level": 2
+  },
+  {
+    "rank": 60,
+    "word": "literal",
+    "meaning": "literal",
+    "explanation": "En programación, es un valor fijo escrito directamente en el código fuente, como el número 42 o el texto 'hola'. No es una variable ni una expresión calculada.",
+    "example": "Instead of using a variable, the developer hardcoded a string literal directly into the function.",
+    "level": 2
+  },
+  {
+    "rank": 61,
+    "word": "class",
+    "meaning": "clase, categoría",
+    "explanation": "En programación, es una plantilla que define las propiedades y comportamientos de un objeto, agrupando datos y funciones relacionadas.",
+    "example": "The class defines how a user object should behave in the application.",
+    "level": 3
+  },
+  {
+    "rank": 62,
+    "word": "interface",
+    "meaning": "interfaz, superficie de contacto",
+    "explanation": "En programación, es un contrato que especifica qué métodos debe implementar una clase, sin definir cómo funcionan internamente.",
+    "example": "The interface ensures that every payment method has a process function.",
+    "level": 3
+  },
+  {
+    "rank": 63,
+    "word": "abstract",
+    "meaning": "abstracto, resumido",
+    "explanation": "En programación, se refiere a una clase o método que no puede ser instanciado directamente y sirve como base para otras clases.",
+    "example": "The abstract class provides a template that all shapes must follow.",
+    "level": 3
+  },
+  {
+    "rank": 64,
+    "word": "private",
+    "meaning": "privado, particular",
+    "explanation": "En programación, indica que un atributo o método solo puede ser accedido desde dentro de la misma clase, protegiendo los datos internos.",
+    "example": "The private variable cannot be accessed from outside the class.",
+    "level": 3
+  },
+  {
+    "rank": 65,
+    "word": "public",
+    "meaning": "público, abierto",
+    "explanation": "En programación, indica que un atributo o método puede ser accedido desde cualquier parte del código sin restricciones.",
+    "example": "The public method allows any part of the program to call it directly.",
+    "level": 3
+  },
+  {
+    "rank": 66,
+    "word": "static",
+    "meaning": "estático, fijo",
+    "explanation": "En programación, se refiere a un método o propiedad que pertenece a la clase misma y no a una instancia particular del objeto.",
+    "example": "The static method can be called without creating an instance of the class.",
+    "level": 3
+  },
+  {
+    "rank": 67,
+    "word": "extend",
+    "meaning": "extender, ampliar",
+    "explanation": "En programación, significa que una clase hereda las propiedades y métodos de otra clase padre, ampliando su funcionalidad.",
+    "example": "The admin class will extend the user class to add extra permissions.",
+    "level": 3
+  },
+  {
+    "rank": 68,
+    "word": "implement",
+    "meaning": "implementar, llevar a cabo",
+    "explanation": "En programación, significa que una clase cumple con el contrato definido por una interfaz, proporcionando el código concreto de cada método.",
+    "example": "This class must implement all the methods defined in the interface.",
+    "level": 3
+  },
+  {
+    "rank": 69,
+    "word": "inherit",
+    "meaning": "heredar, recibir",
+    "explanation": "En programación, significa que una clase hija recibe automáticamente las propiedades y métodos de su clase padre.",
+    "example": "Child components inherit styles and behaviors from their parent class.",
+    "level": 3
+  },
+  {
+    "rank": 70,
+    "word": "override",
+    "meaning": "anular, reemplazar",
+    "explanation": "En programación, significa redefinir un método heredado en una clase hija para cambiar su comportamiento original.",
+    "example": "You can override the default behavior by defining the method in the subclass.",
+    "level": 3
+  },
+  {
+    "rank": 71,
+    "word": "constructor",
+    "meaning": "constructor, creador",
+    "explanation": "En programación, es un método especial que se ejecuta automáticamente cuando se crea una nueva instancia de una clase.",
+    "example": "The constructor initializes the name and age when a new user is created.",
+    "level": 3
+  },
+  {
+    "rank": 72,
+    "word": "prototype",
+    "meaning": "prototipo, modelo original",
+    "explanation": "En programación, es el objeto del cual otros objetos heredan propiedades y métodos, especialmente en JavaScript.",
+    "example": "Every object in JavaScript has a prototype that it can look up for shared methods.",
+    "level": 3
+  },
+  {
+    "rank": 73,
+    "word": "instance",
+    "meaning": "instancia, ejemplo concreto",
+    "explanation": "En programación, es un objeto específico creado a partir de una clase, con sus propios valores y estado.",
+    "example": "Each instance of the class holds its own data separate from other instances.",
+    "level": 3
+  },
+  {
+    "rank": 74,
+    "word": "method",
+    "meaning": "método, procedimiento",
+    "explanation": "En programación, es una función que pertenece a un objeto o clase y define un comportamiento específico que ese objeto puede realizar.",
+    "example": "The save method writes the current data to the database.",
+    "level": 3
+  },
+  {
+    "rank": 75,
+    "word": "property",
+    "meaning": "propiedad, característica",
+    "explanation": "En programación, es un valor asociado a un objeto que describe una de sus características, como el nombre o el color.",
+    "example": "The length property tells you how many items are in the array.",
+    "level": 3
+  },
+  {
+    "rank": 76,
+    "word": "attribute",
+    "meaning": "atributo, cualidad",
+    "explanation": "En programación, es una variable que almacena datos dentro de un objeto o clase, definiendo su estado interno.",
+    "example": "Each user object has an attribute for email and one for password.",
+    "level": 3
+  },
+  {
+    "rank": 77,
+    "word": "parameter",
+    "meaning": "parámetro, variable de entrada",
+    "explanation": "En programación, es la variable definida en la declaración de una función que recibirá un valor cuando la función sea llamada.",
+    "example": "The function takes two parameters: a username and a password.",
+    "level": 3
+  },
+  {
+    "rank": 78,
+    "word": "argument",
+    "meaning": "argumento, razón",
+    "explanation": "En programación, es el valor concreto que se pasa a una función cuando es llamada, asignándose al parámetro correspondiente.",
+    "example": "When calling the function, you pass the user's name as an argument.",
+    "level": 3
+  },
+  {
+    "rank": 79,
+    "word": "function",
+    "meaning": "función, propósito",
+    "explanation": "En programación, es un bloque de código reutilizable que realiza una tarea específica y puede recibir datos y devolver un resultado.",
+    "example": "The function calculates the total price including tax and returns it.",
+    "level": 3
+  },
+  {
+    "rank": 80,
+    "word": "scope",
+    "meaning": "alcance, ámbito",
+    "explanation": "En programación, define la región del código donde una variable es accesible, determinando su visibilidad y tiempo de vida.",
+    "example": "Variables declared inside a function are only visible within that scope.",
+    "level": 3
+  },
+  {
+    "rank": 81,
+    "word": "closure",
+    "meaning": "cierre, clausura",
+    "explanation": "En programación, es una función que recuerda y puede acceder a las variables de su entorno exterior incluso después de que ese entorno haya terminado de ejecutarse.",
+    "example": "The closure remembers the counter value even after the outer function has finished.",
+    "level": 3
+  },
+  {
+    "rank": 82,
+    "word": "bind",
+    "meaning": "vincular, atar",
+    "explanation": "En programación, significa asociar permanentemente una función con un contexto específico para que siempre sepa a qué objeto referirse.",
+    "example": "You need to bind the method to the correct object so it uses the right data.",
+    "level": 3
+  },
+  {
+    "rank": 83,
+    "word": "call",
+    "meaning": "llamar, invocar",
+    "explanation": "En programación, significa ejecutar una función o método, y también es un método que permite invocar una función con un contexto específico.",
+    "example": "You can call the function with a different context to change what this refers to.",
+    "level": 3
+  },
+  {
+    "rank": 84,
+    "word": "apply",
+    "meaning": "aplicar, emplear",
+    "explanation": "En programación, es similar a call pero permite pasar los argumentos como un arreglo en lugar de uno por uno.",
+    "example": "Use apply when you want to pass an array of values as arguments to the function.",
+    "level": 3
+  },
+  {
+    "rank": 85,
+    "word": "invoke",
+    "meaning": "invocar, llamar",
+    "explanation": "En programación, significa ejecutar o activar una función o método para que realice su tarea.",
+    "example": "The event listener will invoke the callback function when the button is clicked.",
+    "level": 3
+  },
+  {
+    "rank": 86,
+    "word": "factory",
+    "meaning": "fábrica, factoría",
+    "explanation": "En programación, es un patrón de diseño que usa una función para crear y devolver objetos sin usar directamente el constructor con new.",
+    "example": "The factory creates different types of database connections based on the configuration.",
+    "level": 3
+  },
+  {
+    "rank": 87,
+    "word": "singleton",
+    "meaning": "único, solitario",
+    "explanation": "En programación, es un patrón de diseño que garantiza que solo exista una única instancia de una clase en toda la aplicación.",
+    "example": "The singleton ensures there is only one database connection shared across the app.",
+    "level": 3
+  },
+  {
+    "rank": 88,
+    "word": "pattern",
+    "meaning": "patrón, modelo",
+    "explanation": "En programación, es una solución reutilizable y probada para resolver problemas comunes de diseño de software.",
+    "example": "The observer pattern lets objects subscribe to events and react when they happen.",
+    "level": 3
+  },
+  {
+    "rank": 89,
+    "word": "module",
+    "meaning": "módulo, componente",
+    "explanation": "En programación, es una unidad independiente de código que agrupa funciones y variables relacionadas, permitiendo organizar y reutilizar el código.",
+    "example": "Each module handles a specific feature and can be imported wherever it is needed.",
+    "level": 3
+  },
+  {
+    "rank": 90,
+    "word": "package",
+    "meaning": "paquete, conjunto",
+    "explanation": "En programación, es una colección de módulos y recursos agrupados que se pueden distribuir e instalar como una unidad.",
+    "example": "Install the package from the registry to add date formatting to your project.",
+    "level": 3
+  },
+  {
+    "rank": 91,
+    "word": "promise",
+    "meaning": "promesa",
+    "explanation": "En programación, es un objeto que representa un valor que estará disponible en el futuro, cuando una operación asíncrona termine.",
+    "example": "The promise resolves once the server responds with the requested data.",
+    "level": 4
+  },
+  {
+    "rank": 92,
+    "word": "resolve",
+    "meaning": "resolver",
+    "explanation": "En programación, significa completar exitosamente una promesa, entregando el valor esperado al código que la solicitó.",
+    "example": "The function will resolve the promise with the user profile after fetching it from the database.",
+    "level": 4
+  },
+  {
+    "rank": 93,
+    "word": "reject",
+    "meaning": "rechazar",
+    "explanation": "En programación, significa indicar que una promesa falló, devolviendo un error en lugar del valor esperado.",
+    "example": "If the network request fails, the promise will reject with a timeout error.",
+    "level": 4
+  },
+  {
+    "rank": 94,
+    "word": "callback",
+    "meaning": "devolver la llamada",
+    "explanation": "En programación, es una función que se pasa como argumento a otra función para que sea ejecutada después, generalmente cuando una tarea termina.",
+    "example": "We pass a callback to the file reader so it processes the content once loading is complete.",
+    "level": 4
+  },
+  {
+    "rank": 95,
+    "word": "subscribe",
+    "meaning": "suscribirse",
+    "explanation": "En programación, significa registrarse para recibir notificaciones cuando ocurre un cambio o se emite un nuevo valor en un flujo de datos.",
+    "example": "The component subscribes to the data stream and updates the display whenever new values arrive.",
+    "level": 4
+  },
+  {
+    "rank": 96,
+    "word": "dispatch",
+    "meaning": "despachar, enviar",
+    "explanation": "En programación, significa enviar una acción o mensaje a un sistema central que se encarga de procesarlo y distribuirlo.",
+    "example": "When the user clicks the button, we dispatch an action to update the application state.",
+    "level": 4
+  },
+  {
+    "rank": 97,
+    "word": "thread",
+    "meaning": "hilo",
+    "explanation": "En programación, es una unidad de ejecución dentro de un proceso que permite realizar múltiples tareas de forma simultánea o concurrente.",
+    "example": "The application spawns a new thread to handle the heavy computation without freezing the interface.",
+    "level": 4
+  },
+  {
+    "rank": 98,
+    "word": "process",
+    "meaning": "proceso",
+    "explanation": "En programación, es una instancia de un programa en ejecución que tiene su propia memoria y recursos asignados por el sistema operativo.",
+    "example": "Each worker runs as a separate process so that a crash in one does not affect the others.",
+    "level": 4
+  },
+  {
+    "rank": 99,
+    "word": "runtime",
+    "meaning": "tiempo de ejecución",
+    "explanation": "En programación, es el entorno que ejecuta el código de un programa y proporciona servicios como manejo de memoria y acceso al sistema.",
+    "example": "The runtime environment detects the error and throws an exception before the application can crash.",
+    "level": 4
+  },
+  {
+    "rank": 100,
+    "word": "execute",
+    "meaning": "ejecutar",
+    "explanation": "En programación, significa llevar a cabo las instrucciones de un programa o función, haciendo que el computador realice las operaciones indicadas.",
+    "example": "The scheduler decides when to execute each task based on its priority level.",
+    "level": 4
+  },
+  {
+    "rank": 101,
+    "word": "emit",
+    "meaning": "emitir",
+    "explanation": "En programación, significa enviar o producir un evento o señal que otros componentes pueden escuchar y responder.",
+    "example": "The socket emits a connection event every time a new client joins the server.",
+    "level": 4
+  },
+  {
+    "rank": 102,
+    "word": "listen",
+    "meaning": "escuchar",
+    "explanation": "En programación, significa esperar activamente a que ocurra un evento o llegue una solicitud para entonces reaccionar.",
+    "example": "The server listens on port three thousand and responds to incoming requests from the browser.",
+    "level": 4
+  },
+  {
+    "rank": 103,
+    "word": "observe",
+    "meaning": "observar",
+    "explanation": "En programación, significa vigilar cambios en un dato o estado para reaccionar automáticamente cuando ocurra una modificación.",
+    "example": "The framework lets you observe changes in the data model and refresh the view automatically.",
+    "level": 4
+  },
+  {
+    "rank": 104,
+    "word": "handle",
+    "meaning": "manejar",
+    "explanation": "En programación, significa encargarse de procesar un evento, solicitud o error, definiendo qué hacer cuando ocurre.",
+    "example": "The middleware knows how to handle authentication errors and redirect users to the login page.",
+    "level": 4
+  },
+  {
+    "rank": 105,
+    "word": "trigger",
+    "meaning": "disparar, activar",
+    "explanation": "En programación, significa causar o iniciar la ejecución de un evento, función o proceso como respuesta a una condición.",
+    "example": "Clicking the submit button triggers a validation check before the form data is sent.",
+    "level": 4
+  },
+  {
+    "rank": 106,
+    "word": "event",
+    "meaning": "evento",
+    "explanation": "En programación, es una acción o suceso que ocurre en el sistema, como un clic o la llegada de datos, y que el código puede detectar y manejar.",
+    "example": "The application responds to each event in the queue by calling the appropriate handler function.",
+    "level": 4
+  },
+  {
+    "rank": 107,
+    "word": "signal",
+    "meaning": "señal",
+    "explanation": "En programación, es una notificación enviada a un proceso o componente para informar que algo ha ocurrido o que debe cambiar su comportamiento.",
+    "example": "The operating system sends a termination signal to the process when the user requests a shutdown.",
+    "level": 4
+  },
+  {
+    "rank": 108,
+    "word": "channel",
+    "meaning": "canal",
+    "explanation": "En programación, es un medio de comunicación que permite enviar y recibir datos entre distintas partes de un programa de forma segura.",
+    "example": "The two services communicate through a message channel that guarantees delivery order.",
+    "level": 4
+  },
+  {
+    "rank": 109,
+    "word": "stream",
+    "meaning": "flujo, corriente",
+    "explanation": "En programación, es una secuencia continua de datos que se procesan pieza por pieza en lugar de cargarlos todos a la vez en memoria.",
+    "example": "The video player reads data from a stream so users can start watching before the entire file downloads.",
+    "level": 4
+  },
+  {
+    "rank": 110,
+    "word": "pipe",
+    "meaning": "tubería, conducto",
+    "explanation": "En programación, es una conexión que toma la salida de una operación y la pasa directamente como entrada a la siguiente.",
+    "example": "We pipe the output of the file reader into the compression module to save disk space.",
+    "level": 4
+  },
+  {
+    "rank": 111,
+    "word": "race",
+    "meaning": "carrera, competencia",
+    "explanation": "En programación, se refiere a ejecutar varias operaciones asíncronas en paralelo y tomar el resultado de la primera que termine.",
+    "example": "The application uses a race between the fetch request and a timer to implement a timeout mechanism.",
+    "level": 4
+  },
+  {
+    "rank": 112,
+    "word": "pending",
+    "meaning": "pendiente",
+    "explanation": "En programación, describe el estado de una operación asíncrona que aún no ha terminado y cuyo resultado todavía no está disponible.",
+    "example": "While the request is still pending, the interface shows a loading spinner to the user.",
+    "level": 4
+  },
+  {
+    "rank": 113,
+    "word": "settle",
+    "meaning": "resolver, establecer",
+    "explanation": "En programación, significa que una promesa ha alcanzado su estado final, ya sea completada con éxito o rechazada con un error.",
+    "example": "Once all the promises settle, the application collects every result regardless of success or failure.",
+    "level": 4
+  },
+  {
+    "rank": 114,
+    "word": "chain",
+    "meaning": "cadena, encadenar",
+    "explanation": "En programación, significa conectar varias operaciones en secuencia donde cada una depende del resultado de la anterior.",
+    "example": "You can chain multiple transformation steps together so the data flows through each one in order.",
+    "level": 4
+  },
+  {
+    "rank": 115,
+    "word": "then",
+    "meaning": "entonces, luego",
+    "explanation": "En programación, se usa para definir qué debe ocurrir después de que una promesa se resuelva exitosamente.",
+    "example": "The fetch call returns a promise, and then the response is converted into a usable format.",
+    "level": 4
+  },
+  {
+    "rank": 116,
+    "word": "middleware",
+    "meaning": "intermediario",
+    "explanation": "En programación, es una capa de software que se ejecuta entre la solicitud y la respuesta, permitiendo agregar lógica como autenticación o registro.",
+    "example": "The authentication middleware checks the token before allowing the request to reach the protected route.",
+    "level": 4
+  },
+  {
+    "rank": 117,
+    "word": "intercept",
+    "meaning": "interceptar",
+    "explanation": "En programación, significa capturar una solicitud o respuesta en tránsito para modificarla, inspeccionarla o redirigirla antes de que llegue a su destino.",
+    "example": "The logging layer intercepts every outgoing request and records the details for debugging purposes.",
+    "level": 4
+  },
+  {
+    "rank": 118,
+    "word": "proxy",
+    "meaning": "representante, intermediario",
+    "explanation": "En programación, es un objeto o servidor que actúa en nombre de otro, controlando el acceso y pudiendo modificar las interacciones.",
+    "example": "The development server uses a proxy to forward backend requests and avoid cross-origin issues.",
+    "level": 4
+  },
+  {
+    "rank": 119,
+    "word": "defer",
+    "meaning": "diferir, posponer",
+    "explanation": "En programación, significa retrasar la ejecución de una tarea hasta un momento posterior, generalmente cuando el proceso actual haya terminado.",
+    "example": "We defer the cleanup logic so it runs after the main function has finished its work.",
+    "level": 4
+  },
+  {
+    "rank": 120,
+    "word": "throttle",
+    "meaning": "limitar, regular",
+    "explanation": "En programación, significa restringir la frecuencia con la que una función puede ejecutarse para evitar sobrecarga del sistema.",
+    "example": "The search input uses a throttle so the application only queries the server once every few hundred milliseconds.",
+    "level": 4
+  },
+  {
+    "rank": 121,
+    "word": "deploy",
+    "meaning": "desplegar, implementar",
+    "explanation": "En programación, significa poner una aplicación en un servidor para que los usuarios puedan acceder a ella.",
+    "example": "We need to deploy the latest version of the app to production.",
+    "level": 5
+  },
+  {
+    "rank": 122,
+    "word": "merge",
+    "meaning": "fusionar, combinar",
+    "explanation": "En control de versiones, significa unir los cambios de una rama con otra para integrar el trabajo de diferentes desarrolladores.",
+    "example": "After the code review, we can merge your branch into the main branch.",
+    "level": 5
+  },
+  {
+    "rank": 123,
+    "word": "branch",
+    "meaning": "rama, ramificar",
+    "explanation": "En control de versiones, es una línea independiente de desarrollo que permite trabajar en funcionalidades sin afectar el código principal.",
+    "example": "I created a new branch to work on the login feature without affecting the main code.",
+    "level": 5
+  },
+  {
+    "rank": 124,
+    "word": "commit",
+    "meaning": "comprometer, confirmar",
+    "explanation": "En control de versiones, significa guardar un conjunto de cambios en el historial del repositorio con un mensaje descriptivo.",
+    "example": "Remember to commit your changes with a clear message before the end of the day.",
+    "level": 5
+  },
+  {
+    "rank": 125,
+    "word": "fetch",
+    "meaning": "obtener, buscar",
+    "explanation": "En programación, significa traer datos de un servidor remoto o descargar las actualizaciones de un repositorio sin aplicarlas.",
+    "example": "The application will fetch the user data from the server when the page loads.",
+    "level": 5
+  },
+  {
+    "rank": 126,
+    "word": "push",
+    "meaning": "empujar, enviar",
+    "explanation": "En control de versiones, significa enviar los cambios locales al repositorio remoto para compartirlos con el equipo.",
+    "example": "After committing your changes locally, you need to push them to the remote repository.",
+    "level": 5
+  },
+  {
+    "rank": 127,
+    "word": "pull",
+    "meaning": "jalar, tirar",
+    "explanation": "En control de versiones, significa descargar y aplicar los cambios más recientes del repositorio remoto a tu copia local.",
+    "example": "Before you start working, make sure to pull the latest changes from the team.",
+    "level": 5
+  },
+  {
+    "rank": 128,
+    "word": "compile",
+    "meaning": "compilar",
+    "explanation": "Significa convertir el código fuente escrito por el programador en código ejecutable que la computadora puede entender.",
+    "example": "The project failed to compile because there was a syntax error in the main file.",
+    "level": 5
+  },
+  {
+    "rank": 129,
+    "word": "parse",
+    "meaning": "analizar, interpretar",
+    "explanation": "En programación, significa leer y analizar una cadena de texto o datos para extraer información estructurada y utilizable.",
+    "example": "The server needs to parse the incoming request to extract the user credentials.",
+    "level": 5
+  },
+  {
+    "rank": 130,
+    "word": "debug",
+    "meaning": "depurar, corregir errores",
+    "explanation": "Es el proceso de encontrar y corregir errores en el código para que el programa funcione correctamente.",
+    "example": "I spent two hours trying to debug the payment processing issue before finding the problem.",
+    "level": 5
+  },
+  {
+    "rank": 131,
+    "word": "log",
+    "meaning": "registro, registrar",
+    "explanation": "En programación, es un registro de eventos o mensajes que el sistema guarda para rastrear lo que sucede durante la ejecución.",
+    "example": "Check the server log to find out why the application crashed last night.",
+    "level": 5
+  },
+  {
+    "rank": 132,
+    "word": "render",
+    "meaning": "renderizar, representar",
+    "explanation": "En desarrollo web, significa generar y mostrar el contenido visual de una página o componente en la pantalla del usuario.",
+    "example": "The component will render a list of products once the data is loaded from the database.",
+    "level": 5
+  },
+  {
+    "rank": 133,
+    "word": "mount",
+    "meaning": "montar",
+    "explanation": "En programación, significa inicializar y preparar un componente o sistema de archivos para que esté listo para usarse.",
+    "example": "The component will fetch the initial data when it mounts for the first time.",
+    "level": 5
+  },
+  {
+    "rank": 134,
+    "word": "query",
+    "meaning": "consulta, consultar",
+    "explanation": "En programación, es una solicitud de información a una base de datos o sistema para obtener datos específicos.",
+    "example": "We optimized the database query to reduce the page loading time significantly.",
+    "level": 5
+  },
+  {
+    "rank": 135,
+    "word": "migrate",
+    "meaning": "migrar",
+    "explanation": "En programación, significa mover datos o actualizar la estructura de una base de datos de una versión a otra.",
+    "example": "We need to migrate the database schema before we can add the new user fields.",
+    "level": 5
+  },
+  {
+    "rank": 136,
+    "word": "build",
+    "meaning": "construir, compilación",
+    "explanation": "En programación, es el proceso de transformar el código fuente en una versión lista para ser ejecutada o desplegada.",
+    "example": "The build process takes about three minutes and generates all the production files.",
+    "level": 5
+  },
+  {
+    "rank": 137,
+    "word": "test",
+    "meaning": "probar, prueba",
+    "explanation": "En programación, significa verificar que el código funciona correctamente ejecutando casos de prueba automatizados o manuales.",
+    "example": "Always test your code thoroughly before submitting a pull request for review.",
+    "level": 5
+  },
+  {
+    "rank": 138,
+    "word": "lint",
+    "meaning": "analizar, revisar",
+    "explanation": "En programación, significa analizar el código de forma automática para detectar errores de estilo, malas prácticas o problemas potenciales.",
+    "example": "The pipeline will lint your code to make sure it follows the team style guidelines.",
+    "level": 5
+  },
+  {
+    "rank": 139,
+    "word": "format",
+    "meaning": "formatear, formato",
+    "explanation": "En programación, significa organizar el código con una estructura visual consistente como indentación, espacios y saltos de línea.",
+    "example": "Please format your code before committing so that it matches the project standards.",
+    "level": 5
+  },
+  {
+    "rank": 140,
+    "word": "scaffold",
+    "meaning": "andamiar, estructurar",
+    "explanation": "En programación, significa generar automáticamente la estructura básica de un proyecto o componente como punto de partida.",
+    "example": "The framework can scaffold a complete project with all the folders and config files you need.",
+    "level": 5
+  },
+  {
+    "rank": 141,
+    "word": "cache",
+    "meaning": "cache, almacenamiento temporal",
+    "explanation": "En programación, es un almacenamiento temporal que guarda datos frecuentemente usados para acceder a ellos más rápido.",
+    "example": "We store the user profile in the cache so the page loads faster on subsequent visits.",
+    "level": 5
+  },
+  {
+    "rank": 142,
+    "word": "hash",
+    "meaning": "codificar, resumen cifrado",
+    "explanation": "En programación, es una función que convierte datos en un valor único de longitud fija, usado para seguridad y verificación.",
+    "example": "You should always hash user passwords before storing them in the database.",
+    "level": 5
+  },
+  {
+    "rank": 143,
+    "word": "token",
+    "meaning": "ficha, símbolo",
+    "explanation": "En programación, es un dato único que representa la identidad o los permisos de un usuario para acceder a un sistema.",
+    "example": "The server generates an authentication token after the user logs in successfully.",
+    "level": 5
+  },
+  {
+    "rank": 144,
+    "word": "route",
+    "meaning": "ruta, enrutar",
+    "explanation": "En desarrollo web, es la dirección o camino que conecta una solicitud del usuario con la función o página correspondiente.",
+    "example": "We added a new route to handle user profile requests on the backend.",
+    "level": 5
+  },
+  {
+    "rank": 145,
+    "word": "endpoint",
+    "meaning": "punto final, punto de acceso",
+    "explanation": "En programación, es una dirección específica en un servidor donde se puede enviar una solicitud para obtener o enviar datos.",
+    "example": "The mobile app communicates with the backend through a secure endpoint.",
+    "level": 5
+  },
+  {
+    "rank": 146,
+    "word": "hook",
+    "meaning": "gancho, enganche",
+    "explanation": "En programación, es un mecanismo que permite ejecutar código personalizado en un punto específico del ciclo de vida de un proceso.",
+    "example": "We use a hook to automatically run the tests before every commit is saved.",
+    "level": 5
+  },
+  {
+    "rank": 147,
+    "word": "plugin",
+    "meaning": "complemento, extensión",
+    "explanation": "En programación, es un módulo adicional que se agrega a un programa para extender su funcionalidad sin modificar el código base.",
+    "example": "Install the linting plugin to get real-time feedback about code quality in your editor.",
+    "level": 5
+  },
+  {
+    "rank": 148,
+    "word": "patch",
+    "meaning": "parche, remendar",
+    "explanation": "En programación, es una actualización pequeña que corrige errores o mejora una funcionalidad existente sin cambios mayores.",
+    "example": "The team released a patch to fix the security vulnerability discovered last week.",
+    "level": 5
+  },
+  {
+    "rank": 149,
+    "word": "release",
+    "meaning": "lanzamiento, publicar",
+    "explanation": "En programación, es una versión oficial del software que se publica para que los usuarios la descarguen o utilicen.",
+    "example": "The new release includes several performance improvements and bug fixes.",
+    "level": 5
+  },
+  {
+    "rank": 150,
+    "word": "version",
+    "meaning": "versión",
+    "explanation": "En programación, es un número o etiqueta que identifica el estado de un software en un momento específico de su desarrollo.",
+    "example": "Make sure you are running the latest version of the library to avoid known issues.",
+    "level": 5
+  }
+]

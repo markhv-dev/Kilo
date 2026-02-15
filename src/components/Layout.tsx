@@ -32,6 +32,16 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             >
               Vocabulario
             </Link>
+            <Link
+              to="/mark"
+              className={`text-sm transition-colors ${
+                path.startsWith('/mark')
+                  ? 'text-neutral-900 font-semibold'
+                  : 'text-neutral-400 hover:text-neutral-900'
+              }`}
+            >
+              Mark
+            </Link>
             <a
               href="https://github.com/markhv-dev/Kilo"
               target="_blank"
