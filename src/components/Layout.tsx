@@ -2,7 +2,7 @@ import { Link, useLocation } from 'react-router-dom'
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   const location = useLocation()
-  const isWords = location.pathname === '/words'
+  const path = location.pathname
 
   return (
     <div className="min-h-screen bg-white text-neutral-900 flex flex-col">
@@ -12,14 +12,26 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <span className="text-xl font-bold tracking-tight">Kilo</span>
           </Link>
           <div className="flex items-center gap-6">
-            {!isWords && (
-              <Link
-                to="/words"
-                className="text-sm text-neutral-600 hover:text-neutral-900 transition-colors"
-              >
-                Vocabulario
-              </Link>
-            )}
+            <Link
+              to="/practice"
+              className={`text-sm transition-colors ${
+                path === '/practice'
+                  ? 'text-neutral-900 font-semibold'
+                  : 'text-neutral-400 hover:text-neutral-900'
+              }`}
+            >
+              Practica
+            </Link>
+            <Link
+              to="/words"
+              className={`text-sm transition-colors ${
+                path === '/words'
+                  ? 'text-neutral-900 font-semibold'
+                  : 'text-neutral-400 hover:text-neutral-900'
+              }`}
+            >
+              Vocabulario
+            </Link>
             <a
               href="https://github.com/markhv-dev/Kilo"
               target="_blank"

@@ -7,6 +7,11 @@ const LEVELS = [
   { level: 3, range: '201–300', label: 'Expansion', desc: 'Vocabulario para expresar ideas, opiniones y situaciones cotidianas.' },
   { level: 4, range: '301–400', label: 'Precision', desc: 'Palabras que agregan detalle y matiz a tu comunicacion.' },
   { level: 5, range: '401–500', label: 'Fluidez', desc: 'El vocabulario que cierra la brecha hacia la comprension real.' },
+  { level: 6, range: '501–600', label: 'Contexto', desc: 'Palabras para entender noticias, conversaciones y textos del dia a dia.' },
+  { level: 7, range: '601–700', label: 'Expresion', desc: 'Vocabulario que te permite opinar, argumentar y describir con precision.' },
+  { level: 8, range: '701–800', label: 'Profundidad', desc: 'Palabras menos frecuentes pero esenciales para textos mas complejos.' },
+  { level: 9, range: '801–900', label: 'Dominio', desc: 'Vocabulario que marca la diferencia entre entender y entender de verdad.' },
+  { level: 10, range: '901–1000', label: 'Maestria', desc: 'Las ultimas palabras para completar tu base de 1,000 y alcanzar el 80%.' },
 ]
 
 export default function Landing() {
@@ -33,25 +38,20 @@ export default function Landing() {
               </p>
               <div className="flex flex-wrap gap-3">
                 <Link
-                  to="/words"
+                  to="/practice"
                   className="inline-flex items-center gap-2 bg-neutral-900 text-white px-6 py-3 text-sm font-medium rounded-lg hover:bg-neutral-800 transition-colors"
                 >
-                  Comenzar a aprender
+                  Comenzar a practicar
                   <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                     <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />
                   </svg>
                 </Link>
-                <a
-                  href="https://github.com/markhv-dev/Kilo"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  to="/words"
                   className="inline-flex items-center gap-2 border border-neutral-300 text-neutral-700 px-6 py-3 text-sm font-medium rounded-lg hover:border-neutral-400 hover:bg-neutral-50 transition-colors"
                 >
-                  <svg viewBox="0 0 16 16" fill="currentColor" className="w-4 h-4">
-                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
-                  </svg>
-                  GitHub
-                </a>
+                  Ver vocabulario
+                </Link>
               </div>
             </div>
 
@@ -82,7 +82,7 @@ export default function Landing() {
                   <span className="w-1.5 h-1.5 rounded-full bg-neutral-300" />
                   <span className="w-1.5 h-1.5 rounded-full bg-neutral-300" />
                   <span className="w-1.5 h-1.5 rounded-full bg-neutral-300" />
-                  <span className="text-xs text-neutral-400 ml-2">+ 497 palabras mas</span>
+                  <span className="text-xs text-neutral-400 ml-2">+ 997 palabras mas</span>
                 </div>
               </div>
             </div>
@@ -93,11 +93,11 @@ export default function Landing() {
         <section className="border-t border-neutral-200 py-16">
           <div className="grid grid-cols-3 gap-8 text-center">
             <div>
-              <p className="text-3xl sm:text-4xl font-bold tabular-nums">500</p>
+              <p className="text-3xl sm:text-4xl font-bold tabular-nums">1,000</p>
               <p className="text-sm text-neutral-500 mt-1">palabras disponibles</p>
             </div>
             <div>
-              <p className="text-3xl sm:text-4xl font-bold tabular-nums">5</p>
+              <p className="text-3xl sm:text-4xl font-bold tabular-nums">10</p>
               <p className="text-sm text-neutral-500 mt-1">niveles progresivos</p>
             </div>
             <div>

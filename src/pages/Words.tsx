@@ -3,6 +3,7 @@ import { useSearchParams } from 'react-router-dom'
 import Layout from '../components/Layout'
 import WordCard from '../components/WordCard'
 import wordsData from '../data/words.json'
+import { useSpeech } from '../hooks/useSpeech'
 import type { Word } from '../types'
 
 const words: Word[] = wordsData
@@ -14,6 +15,11 @@ const LEVELS = [
   { level: 3, label: 'Nivel 3', range: '201–300' },
   { level: 4, label: 'Nivel 4', range: '301–400' },
   { level: 5, label: 'Nivel 5', range: '401–500' },
+  { level: 6, label: 'Nivel 6', range: '501–600' },
+  { level: 7, label: 'Nivel 7', range: '601–700' },
+  { level: 8, label: 'Nivel 8', range: '701–800' },
+  { level: 9, label: 'Nivel 9', range: '801–900' },
+  { level: 10, label: 'Nivel 10', range: '901–1000' },
 ]
 
 export default function Words() {
@@ -21,6 +27,7 @@ export default function Words() {
   const initialLevel = Number(searchParams.get('level')) || 0
   const [activeLevel, setActiveLevel] = useState(initialLevel)
   const [search, setSearch] = useState('')
+  const { voiceGender, setVoiceGender, speak } = useSpeech()
 
   const filtered = useMemo(() => {
     let result = words
@@ -53,13 +60,41 @@ export default function Words() {
     <Layout>
       <div className="max-w-5xl mx-auto px-6 py-8">
         {/* Header */}
-        <div className="mb-8">
-          <h1 className="text-2xl font-bold mb-1">Vocabulario</h1>
-          <p className="text-sm text-neutral-500">
-            {activeLevel === 0
-              ? `${words.length} palabras en total`
-              : `Nivel ${activeLevel} — Palabras ${currentLevelInfo?.range}`}
-          </p>
+        <div className="flex items-start justify-between mb-8">
+          <div>
+            <h1 className="text-2xl font-bold mb-1">Vocabulario</h1>
+            <p className="text-sm text-neutral-500">
+              {activeLevel === 0
+                ? `${words.length} palabras en total`
+                : `Nivel ${activeLevel} — Palabras ${currentLevelInfo?.range}`}
+            </p>
+          </div>
+
+          {/* Voice gender toggle */}
+          {'speechSynthesis' in window && (
+            <div className="flex items-center gap-1 bg-neutral-100 rounded-lg p-1">
+              <button
+                onClick={() => setVoiceGender('female')}
+                className={`text-xs px-3 py-1.5 rounded-md font-medium transition-colors cursor-pointer ${
+                  voiceGender === 'female'
+                    ? 'bg-white text-neutral-900 shadow-sm'
+                    : 'text-neutral-500 hover:text-neutral-700'
+                }`}
+              >
+                Voz F
+              </button>
+              <button
+                onClick={() => setVoiceGender('male')}
+                className={`text-xs px-3 py-1.5 rounded-md font-medium transition-colors cursor-pointer ${
+                  voiceGender === 'male'
+                    ? 'bg-white text-neutral-900 shadow-sm'
+                    : 'text-neutral-500 hover:text-neutral-700'
+                }`}
+              >
+                Voz M
+              </button>
+            </div>
+          )}
         </div>
 
         {/* Level tabs */}
@@ -127,7 +162,7 @@ export default function Words() {
         {/* Grid */}
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {filtered.map((word) => (
-            <WordCard key={word.rank} word={word} />
+            <WordCard key={word.rank} word={word} onSpeak={speak} />
           ))}
         </div>
 
