@@ -12,7 +12,7 @@ export default function WordCard({ word, onSpeak }: Props) {
   return (
     <div
       onClick={() => setOpen(!open)}
-      className="w-full text-left border border-neutral-200 rounded-lg p-5 hover:border-neutral-400 transition-all duration-200 cursor-pointer group"
+      className="w-full text-left border border-neutral-200 rounded-lg p-4 sm:p-5 hover:border-neutral-400 transition-all duration-200 cursor-pointer group"
     >
       <div className="flex items-baseline justify-between mb-1">
         <div className="flex items-center gap-2">

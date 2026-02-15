@@ -55,9 +55,9 @@ export default function MarkWords() {
     <Layout>
       <div className="max-w-5xl mx-auto px-6 py-8">
         {/* Header */}
-        <div className="flex items-start justify-between mb-8">
+        <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4 mb-8">
           <div>
-            <h1 className="text-2xl font-bold mb-1">Mark — Vocabulario</h1>
+            <h1 className="text-xl sm:text-2xl font-bold mb-1">Mark — Vocabulario</h1>
             <p className="text-sm text-neutral-500">
               {activeLevel === 0
                 ? `${words.length} palabras en total`
@@ -108,7 +108,7 @@ export default function MarkWords() {
               <button
                 key={l.level}
                 onClick={() => handleLevelChange(l.level)}
-                className={`shrink-0 px-4 py-2 rounded-lg text-sm font-medium transition-colors cursor-pointer ${
+                className={`shrink-0 px-3 sm:px-4 py-2 rounded-lg text-xs sm:text-sm font-medium transition-colors cursor-pointer ${
                   activeLevel === l.level
                     ? 'bg-neutral-900 text-white'
                     : 'bg-neutral-100 text-neutral-600 hover:bg-neutral-200'

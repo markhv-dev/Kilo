@@ -19,14 +19,14 @@ export default function Landing() {
     <Layout>
       <div className="max-w-5xl mx-auto px-6">
         {/* Hero */}
-        <section className="py-16 sm:py-24">
+        <section className="py-10 sm:py-16 md:py-24">
           <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
             {/* Left: copy */}
             <div>
               <p className="text-sm font-medium text-neutral-400 mb-5 tracking-wide uppercase">
                 Open Source
               </p>
-              <h1 className="text-4xl sm:text-5xl lg:text-[3.5rem] font-bold tracking-tight leading-[1.1] mb-6">
+              <h1 className="text-3xl sm:text-4xl lg:text-[3.5rem] font-bold tracking-tight leading-[1.1] mb-6">
                 1,000 palabras.
                 <br />
                 <span className="text-neutral-400">80% del ingles.</span>
@@ -66,7 +66,7 @@ export default function Landing() {
                 ].map((w) => (
                   <div
                     key={w.rank}
-                    className="bg-white border border-neutral-200 rounded-lg p-4 flex items-start justify-between gap-4"
+                    className="bg-white border border-neutral-200 rounded-lg p-3 sm:p-4 flex items-start justify-between gap-4"
                   >
                     <div className="min-w-0">
                       <div className="flex items-baseline gap-2 mb-1">
@@ -91,18 +91,18 @@ export default function Landing() {
 
         {/* Stats */}
         <section className="border-t border-neutral-200 py-16">
-          <div className="grid grid-cols-3 gap-8 text-center">
+          <div className="grid grid-cols-3 gap-4 sm:gap-8 text-center">
             <div>
-              <p className="text-3xl sm:text-4xl font-bold tabular-nums">1,000</p>
-              <p className="text-sm text-neutral-500 mt-1">palabras disponibles</p>
+              <p className="text-2xl sm:text-3xl md:text-4xl font-bold tabular-nums">1,000</p>
+              <p className="text-xs sm:text-sm text-neutral-500 mt-1">palabras disponibles</p>
             </div>
             <div>
-              <p className="text-3xl sm:text-4xl font-bold tabular-nums">10</p>
-              <p className="text-sm text-neutral-500 mt-1">niveles progresivos</p>
+              <p className="text-2xl sm:text-3xl md:text-4xl font-bold tabular-nums">10</p>
+              <p className="text-xs sm:text-sm text-neutral-500 mt-1">niveles progresivos</p>
             </div>
             <div>
-              <p className="text-3xl sm:text-4xl font-bold tabular-nums">80%</p>
-              <p className="text-sm text-neutral-500 mt-1">del ingles cubierto</p>
+              <p className="text-2xl sm:text-3xl md:text-4xl font-bold tabular-nums">80%</p>
+              <p className="text-xs sm:text-sm text-neutral-500 mt-1">del ingles cubierto</p>
             </div>
           </div>
         </section>
@@ -117,7 +117,7 @@ export default function Landing() {
               <Link
                 key={l.level}
                 to={`/words?level=${l.level}`}
-                className="flex items-start gap-4 p-4 rounded-lg border border-neutral-200 hover:border-neutral-400 transition-colors group"
+                className="flex items-start gap-3 sm:gap-4 p-3 sm:p-4 rounded-lg border border-neutral-200 hover:border-neutral-400 transition-colors group"
               >
                 <span className="text-2xl font-bold text-neutral-200 group-hover:text-neutral-400 transition-colors w-8 shrink-0">
                   {l.level}

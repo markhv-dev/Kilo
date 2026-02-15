@@ -68,9 +68,9 @@ export default function MarkPractice() {
     <Layout>
       <div className="max-w-5xl mx-auto px-6 py-8">
         {/* Header */}
-        <div className="flex items-start justify-between mb-8">
+        <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4 mb-8">
           <div>
-            <h1 className="text-2xl font-bold mb-1">Mark — Practica</h1>
+            <h1 className="text-xl sm:text-2xl font-bold mb-1">Mark — Practica</h1>
             <p className="text-sm text-neutral-500">
               {seenIndices.size} de {pool.length} palabras vistas
             </p>
@@ -119,7 +119,7 @@ export default function MarkPractice() {
               <button
                 key={l.level}
                 onClick={() => setActiveLevel(l.level)}
-                className={`shrink-0 px-4 py-2 rounded-lg text-sm font-medium transition-colors cursor-pointer ${
+                className={`shrink-0 px-3 sm:px-4 py-2 rounded-lg text-xs sm:text-sm font-medium transition-colors cursor-pointer ${
                   activeLevel === l.level
                     ? 'bg-neutral-900 text-white'
                     : 'bg-neutral-100 text-neutral-600 hover:bg-neutral-200'
@@ -139,12 +139,12 @@ export default function MarkPractice() {
           <div className="flex flex-col items-center">
             <div
               onClick={() => setRevealed(!revealed)}
-              className="w-full max-w-lg h-80 border border-neutral-200 rounded-xl p-8 hover:border-neutral-400 transition-all duration-200 cursor-pointer relative overflow-hidden"
+              className="w-full max-w-lg h-72 sm:h-80 border border-neutral-200 rounded-xl p-6 sm:p-8 hover:border-neutral-400 transition-all duration-200 cursor-pointer relative overflow-hidden"
             >
               {/* Word area — centered when hidden, slides up when revealed */}
               <div
-                className={`absolute inset-x-8 transition-all duration-500 ease-out ${
-                  revealed ? 'top-8' : 'top-1/2 -translate-y-1/2'
+                className={`absolute inset-x-6 sm:inset-x-8 transition-all duration-500 ease-out ${
+                  revealed ? 'top-6 sm:top-8' : 'top-1/2 -translate-y-1/2'
                 }`}
               >
                 <div className="flex items-center justify-center gap-3">
@@ -169,7 +169,7 @@ export default function MarkPractice() {
 
               {/* Revealed content — fades in from below */}
               <div
-                className={`absolute inset-x-8 bottom-8 top-28 flex flex-col justify-center transition-all duration-500 ease-out ${
+                className={`absolute inset-x-6 sm:inset-x-8 bottom-6 sm:bottom-8 top-28 flex flex-col justify-center transition-all duration-500 ease-out ${
                   revealed ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4 pointer-events-none'
                 }`}
               >
@@ -201,7 +201,7 @@ export default function MarkPractice() {
 
               {/* Hint — fades out when revealed */}
               <div
-                className={`absolute inset-x-8 bottom-8 text-center transition-all duration-300 ${
+                className={`absolute inset-x-6 sm:inset-x-8 bottom-6 sm:bottom-8 text-center transition-all duration-300 ${
                   revealed ? 'opacity-0' : 'opacity-100'
                 }`}
               >
