@@ -178,5 +178,245 @@
     "level": 2,
     "english": "Close your eyes and listen. Can you hear the water? It runs down the side of the house. It seems like a good day. Put your hand in the water. It is cold but it feels good.",
     "spanish": "Cierra tus ojos y escucha. ¿Puedes oír el agua? Corre por el costado de la casa. Parece un buen día. Pon tu mano en el agua. Está fría pero se siente bien."
+  },
+  {
+    "id": "3-1",
+    "level": 3,
+    "english": "Knowledge is power, but you must understand the facts first. Many people have an interest in science these days. It is a fact that we learn more when we ask questions. We need to follow the right system to get the best results.",
+    "spanish": "El conocimiento es poder, pero primero debes entender los hechos. Muchas personas tienen interés en la ciencia en estos días. Es un hecho que aprendemos más cuando hacemos preguntas. Necesitamos seguir el sistema correcto para obtener los mejores resultados."
+  },
+  {
+    "id": "3-2",
+    "level": 3,
+    "english": "I need to pay for the book I want to order. I don't have much money right now, although I am working hard. My company will pay my salary next week. During the wait, I will read the stories I already have at home.",
+    "spanish": "Necesito pagar por el libro que quiero pedir. No tengo mucho dinero ahora mismo, aunque estoy trabajando duro. Mi empresa pagará mi salario la próxima semana. Durante la espera, leeré las historias que ya tengo en casa."
+  },
+  {
+    "id": "3-3",
+    "level": 3,
+    "english": "She had a great experience during her trip along the river. However, she had a small problem with her car. She was able to fix it and move away from the danger. She is a strong person and always faces her fears with a smile.",
+    "spanish": "Ella tuvo una gran experiencia durante su viaje a lo largo del río. Sin embargo, tuvo un pequeño problema con su coche. Pudo arreglarlo y alejarse del peligro. Es una persona fuerte y siempre enfrenta sus miedos con una sonrisa."
+  },
+  {
+    "id": "3-4",
+    "level": 3,
+    "english": "The whole system is changing because of the government. They want to create a better education course for every student. It is possible that they will change the national laws soon. We must believe that a better future is coming.",
+    "spanish": "Todo el sistema está cambiando debido al gobierno. Quieren crear un mejor curso de educación para cada estudiante. Es posible que cambien las leyes nacionales pronto. Debemos creer que viene un futuro mejor."
+  },
+  {
+    "id": "3-5",
+    "level": 3,
+    "english": "Please close the door and sit down. I want to present a new business idea to the group. A few people already know about it, but I want to be sure everyone understands. This issue is very important for our community.",
+    "spanish": "Por favor, cierra la puerta y siéntate. Quiero presentar una nueva idea de negocio al grupo. Algunas personas ya lo saben, pero quiero estar seguro de que todos entiendan. Este asunto es muy importante para nuestra comunidad."
+  },
+  {
+    "id": "3-6",
+    "level": 3,
+    "english": "The girl wants to become a doctor when she grows up. She knows it will be hard work, but she believes it is possible. She spends her time reading books about health. Every day, she learns something new to reach her goal.",
+    "spanish": "La niña quiere convertirse en doctora cuando crezca. Sabe que será un trabajo duro, pero cree que es posible. Pasa su tiempo leyendo libros sobre salud. Cada día, aprende algo nuevo para alcanzar su meta."
+  },
+  {
+    "id": "3-7",
+    "level": 3,
+    "english": "I am not sure if I can bring my dog along. Does the hotel allow animals inside? Although I like to walk around the city, I prefer to have my pet with me. It would be a better experience for both of us.",
+    "spanish": "No estoy seguro de si puedo traer a mi perro conmigo. ¿El hotel permite animales dentro? Aunque me gusta caminar por la ciudad, prefiero tener a mi mascota conmigo. Sería una mejor experiencia para ambos."
+  },
+  {
+    "id": "3-8",
+    "level": 3,
+    "english": "The black car is parked under the large tree. The owner left it there an hour ago. It might rain soon, so he should close the windows. I hope nothing happens to it during the storm.",
+    "spanish": "El coche negro está aparcado debajo del árbol grande. El dueño lo dejó allí hace una hora. Podría llover pronto, así que debería cerrar las ventanas. Espero que no le pase nada durante la tormenta."
+  },
+  {
+    "id": "3-9",
+    "level": 3,
+    "english": "What does this word mean? I cannot find the answer in my notes. Maybe the teacher can explain the matter to the class. It is important to write down every example to understand the whole lesson.",
+    "spanish": "¿Qué significa esta palabra? No puedo encontrar la respuesta en mis notas. Tal vez el profesor pueda explicar el asunto a la clase. Es importante anotar cada ejemplo para entender la lección completa."
+  },
+  {
+    "id": "3-10",
+    "level": 3,
+    "english": "Social media is a big part of our life today. However, we should spend less time on our phones and more time in nature. Walking in the fresh air is good for your health. Let's go to the field and sit for a while.",
+    "spanish": "Las redes sociales son una gran parte de nuestra vida hoy. Sin embargo, deberíamos pasar menos tiempo en nuestros teléfonos y más tiempo en la naturaleza. Caminar al aire libre es bueno para tu salud. Vamos al campo y sentémonos un rato."
+  },
+  {
+    "id": "3-11",
+    "level": 3,
+    "english": "The scientist is doing research to find the cause of the problem. This issue affects the community and the national economy. They need to take action before the end of the month. Probably, they will find a solution within a few weeks.",
+    "spanish": "El científico está investigando para encontrar la causa del problema. Este asunto afecta a la comunidad y a la economía nacional. Necesitan tomar acción antes del final del mes. Probablemente, encontrarán una solución dentro de pocas semanas."
+  },
+  {
+    "id": "3-12",
+    "level": 3,
+    "english": "My mother gave me a beautiful watch as a birthday present. I always wear it because it is the best gift I have. Today, I feel very happy. It reminds me that time is more important than money.",
+    "spanish": "Mi madre me dio un reloj hermoso como regalo de cumpleaños. Siempre lo uso porque es el mejor regalo que tengo. Hoy me siento muy feliz. Me recuerda que el tiempo es más importante que el dinero."
+  },
+  {
+    "id": "3-13",
+    "level": 3,
+    "english": "Please fill out this form with your name and age. You can use either a black or a blue pen. Be sure the information is clear and true. If you have a question, I am able to help you at any time.",
+    "spanish": "Por favor, complete este formulario con su nombre y edad. Puede usar ya sea un bolígrafo negro o azul. Asegúrese de que la información sea clara y verdadera. Si tiene una pregunta, puedo ayudarle en cualquier momento."
+  },
+  {
+    "id": "3-14",
+    "level": 3,
+    "english": "The student had to leave the room because he felt sick. He will probably stay at home for a second day to rest. His health is the most important thing right now. We hope he can return to the course next week.",
+    "spanish": "El estudiante tuvo que salir de la habitación porque se sentía enfermo. Probablemente se quedará en casa por un segundo día para descansar. Su salud es lo más importante ahora mismo. Esperamos que pueda regresar al curso la próxima semana."
+  },
+  {
+    "id": "3-15",
+    "level": 3,
+    "english": "I already know how to write in English, but I want to learn more. Every word has a different meaning and use. Sometimes I lose my way, but I always stop and think. Practice is the only way to become better.",
+    "spanish": "Ya sé cómo escribir en inglés, pero quiero aprender más. Cada palabra tiene un significado y uso diferente. A veces pierdo el camino, pero siempre paro y pienso. La práctica es la única forma de mejorar."
+  },
+  {
+    "id": "3-16",
+    "level": 3,
+    "english": "The government says that fifty percent of the people live in the city. It is a social issue that we must face together. Although it is a hard problem, we can create a better system for our children's education.",
+    "spanish": "El gobierno dice que el cincuenta por ciento de la gente vive en la ciudad. Es un problema social que debemos enfrentar juntos. Aunque es un problema difícil, podemos crear un mejor sistema para la educación de nuestros hijos."
+  },
+  {
+    "id": "3-17",
+    "level": 3,
+    "english": "Running a large business is a great experience, but it takes a lot of time. You should not lose hope if things happen slowly at first. Always keep your focus on the goal and believe in your own power to succeed.",
+    "spanish": "Dirigir una empresa grande es una gran experiencia, pero toma mucho tiempo. No debes perder la esperanza si las cosas suceden lentamente al principio. Mantén siempre tu enfoque en la meta y cree en tu propio poder para tener éxito."
+  },
+  {
+    "id": "3-18",
+    "level": 3,
+    "english": "I might go for a walk along the field today if the air is clear. During the fall, the trees are beautiful, though it gets cold quickly. I want to enjoy the whole day without thinking about my work problems.",
+    "spanish": "Puede que vaya a dar un paseo por el campo hoy si el aire está despejado. Durante el otoño, los árboles son hermosos, aunque hace frío rápidamente. Quiero disfrutar todo el día sin pensar en mis problemas del trabajo."
+  },
+  {
+    "id": "3-19",
+    "level": 3,
+    "english": "Is it possible to hold the meeting within the next hour? I have a few questions about the national health report. We need to find a clear answer to this issue before we start the new research project.",
+    "spanish": "¿Es posible celebrar la reunión dentro de la próxima hora? Tengo algunas preguntas sobre el informe nacional de salud. Necesitamos encontrar una respuesta clara a este asunto antes de comenzar el nuevo proyecto de investigación."
+  },
+  {
+    "id": "3-20",
+    "level": 3,
+    "english": "She is such a kind person that she always brings presents for everyone. She says that helping the community is the best way to feel happy. Both of her parents taught her that love is more important than money.",
+    "spanish": "Ella es una persona tan amable que siempre trae regalos para todos. Dice que ayudar a la comunidad es la mejor manera de sentirse feliz. Sus dos padres le enseñaron que el amor es más importante que el dinero."
+  },
+  {
+    "id": "4-1",
+    "level": 4,
+    "english": "I need to decide which job is better for me. One office is in the center of the city, and the other is near the local market. The value of my time is high, so I must choose a place that is quite close to my home.",
+    "spanish": "Necesito decidir qué trabajo es mejor para mí. Una oficina está en el centro de la ciudad, y la otra está cerca del mercado local. El valor de mi tiempo es alto, así que debo elegir un lugar que esté bastante cerca de mi casa."
+  },
+  {
+    "id": "4-2",
+    "level": 4,
+    "english": "She wrote a long letter to her best friend about her new class. She taught herself how to study better this month. Now, her desk is full of books and paper. She feels happy in her heart because her results are great.",
+    "spanish": "Ella le escribió una larga carta a su mejor amiga sobre su nueva clase. Ella misma se enseñó cómo estudiar mejor este mes. Ahora, su escritorio está lleno de libros y papel. Se siente feliz en su corazón porque sus resultados son geniales."
+  },
+  {
+    "id": "4-3",
+    "level": 4,
+    "english": "Please set the table in the morning before you leave. I have several things to do today, including a special project at work. Maybe we can meet for an hour at the coffee shop on the next street. Are you ready?",
+    "spanish": "Por favor, pon la mesa por la mañana antes de irte. Tengo varias cosas que hacer hoy, incluyendo un proyecto especial en el trabajo. Tal vez podamos encontrarnos por una hora en la cafetería de la siguiente calle. ¿Estás listo?"
+  },
+  {
+    "id": "4-4",
+    "level": 4,
+    "english": "The birds fly south during the winter to stay warm. In this region, the sun rises in the east and sets in the west. It is a beautiful picture to remember. I love to drive toward the mountains and see the open land.",
+    "spanish": "Los pájaros vuelan al sur durante el invierno para mantenerse calientes. En esta región, el sol sale por el este y se pone por el oeste. Es una imagen hermosa para recordar. Me encanta conducir hacia las montañas y ver la tierra abierta."
+  },
+  {
+    "id": "4-5",
+    "level": 4,
+    "english": "The woman had to carry a lot of data on her phone for the meeting. A member of the team asked her to speak about the new building project. She stood behind the board and showed a figure to explain the cost to the president.",
+    "spanish": "La mujer tuvo que llevar muchos datos en su teléfono para la reunión. Un miembro del equipo le pidió que hablara sobre el nuevo proyecto de construcción. Ella se puso detrás de la pizarra y mostró una cifra para explicar el costo al presidente."
+  },
+  {
+    "id": "4-6",
+    "level": 4,
+    "english": "The kids are playing a game on the basketball court. They must stay within the lines of the space. It is a common activity in this local region. Their parents sit on the side and cheer for the whole team.",
+    "spanish": "Los niños están jugando un partido en la cancha de baloncesto. Deben quedarse dentro de las líneas del espacio. Es una actividad común en esta región local. Sus padres se sientan a un lado y animan a todo el equipo."
+  },
+  {
+    "id": "4-7",
+    "level": 4,
+    "english": "Perhaps we should buy a new bed for the guest room. The old one is quite short and not very comfortable. I wish we could find a good offer at the market this month. We need to save money for other special things.",
+    "spanish": "Quizás deberíamos comprar una cama nueva para la habitación de invitados. La vieja es bastante corta y no muy cómoda. Desearía que pudiéramos encontrar una buena oferta en el mercado este mes. Necesitamos ahorrar dinero para otras cosas especiales."
+  },
+  {
+    "id": "4-8",
+    "level": 4,
+    "english": "The political situation is difficult to figure out. Millions of people are waiting for the result of the new law. The president must act quickly to reach a deal. Everyone wants a peaceful end to this war.",
+    "spanish": "La situación política es difícil de comprender. Millones de personas están esperando el resultado de la nueva ley. El presidente debe actuar rápido para alcanzar un acuerdo. Todos quieren un fin pacífico para esta guerra."
+  },
+  {
+    "id": "4-9",
+    "level": 4,
+    "english": "The doctor keeps a record of every single person in the clinic. The data shows that many poor families need better health service. We must raise enough money to build a new medical center in the north of the city.",
+    "spanish": "El médico lleva un registro de cada una de las personas en la clínica. Los datos muestran que muchas familias pobres necesitan un mejor servicio de salud. Debemos recaudar suficiente dinero para construir un nuevo centro médico en el norte de la ciudad."
+  },
+  {
+    "id": "4-10",
+    "level": 4,
+    "english": "Open the window and let the light in. I haven't finished my report yet, and I only have five minutes left. I need to stay calm and focus on my role in this project. Can you pass me that piece of paper, please?",
+    "spanish": "Abre la ventana y deja entrar la luz. Aún no he terminado mi informe, y solo me quedan cinco minutos. Necesito mantener la calma y concentrarme en mi papel en este proyecto. ¿Puedes pasarme ese pedazo de papel, por favor?"
+  },
+  {
+    "id": "4-11",
+    "level": 4,
+    "english": "The factory can produce a million units a month. However, the quality level must stay high to satisfy every member of the club. They record the data every minute to check if there is any sort of problem in the system.",
+    "spanish": "La fábrica puede producir un millón de unidades al mes. Sin embargo, el nivel de calidad debe mantenerse alto para satisfacer a cada miembro del club. Registran los datos cada minuto para comprobar si hay algún tipo de problema en el sistema."
+  },
+  {
+    "id": "4-12",
+    "level": 4,
+    "english": "My wife and I decided to move to a house behind the park. It has a large garden and a wall for privacy. We want to raise our kids in a quiet area where they can be free to play on the street safely.",
+    "spanish": "Mi esposa y yo decidimos mudarnos a una casa detrás del parque. Tiene un jardín grande y un muro para la privacidad. Queremos criar a nuestros hijos en un área tranquila donde puedan ser libres de jugar en la calle con seguridad."
+  },
+  {
+    "id": "4-13",
+    "level": 4,
+    "english": "Wait a minute, I need to find my phone before we go. I think I left it on the table in the office. If I don't find it, perhaps I can use yours to call my friend. Are you ready to leave yet?",
+    "spanish": "Espera un minuto, necesito encontrar mi teléfono antes de que nos vayamos. Creo que lo dejé sobre la mesa en la oficina. Si no lo encuentro, tal vez pueda usar el tuyo para llamar a mi amigo. ¿Estás listo para irte ya?"
+  },
+  {
+    "id": "4-14",
+    "level": 4,
+    "english": "The local court will hear the case next week. Several people saw the accident on the west side of the city. The results of the study will be important to decide who was right. We must act with a kind heart toward everyone.",
+    "spanish": "El tribunal local escuchará el caso la próxima semana. Varias personas vieron el accidente en el lado oeste de la ciudad. Los resultados del estudio serán importantes para decidir quién tenía razón. Debemos actuar con un corazón amable hacia todos."
+  },
+  {
+    "id": "4-15",
+    "level": 4,
+    "english": "Each member of the team plays a different role. Together, we can reach our goals and finish the project on time. I love the way we work; it's quite special to find such a strong group of friends in a job.",
+    "spanish": "Cada miembro del equipo desempeña un papel diferente. Juntos, podemos alcanzar nuestras metas y terminar el proyecto a tiempo. Me encanta la forma en que trabajamos; es bastante especial encontrar un grupo de amigos tan fuerte en un trabajo."
+  },
+  {
+    "id": "4-16",
+    "level": 4,
+    "english": "The president had to speak to the nation about the value of peace. Although the political situation is hard, he believes several regions can reach an agreement. Millions of people are watching the results on their phones right now.",
+    "spanish": "El presidente tuvo que hablar a la nación sobre el valor de la paz. Aunque la situación política es difícil, él cree que varias regiones pueden alcanzar un acuerdo. Millones de personas están viendo los resultados en sus teléfonos ahora mismo."
+  },
+  {
+    "id": "4-17",
+    "level": 4,
+    "english": "In my new job, I have my own office with a large window facing north. I have a lot of data to record every hour, but I quite like the role. My team is strong and we always support each other to finish the project.",
+    "spanish": "En mi nuevo trabajo, tengo mi propia oficina con una ventana grande que mira al norte. Tengo muchos datos que registrar cada hora, pero me gusta bastante el papel que desempeño. Mi equipo es fuerte y siempre nos apoyamos mutuamente para terminar el proyecto."
+  },
+  {
+    "id": "4-18",
+    "level": 4,
+    "english": "She taught herself how to build a website to offer her services. Perhaps it was a bold act, but she decided to stay positive. Now, she has customers from the south and the east, and her business is full of life.",
+    "spanish": "Ella misma aprendió a construir un sitio web para ofrecer sus servicios. Quizás fue un acto audaz, pero decidió mantenerse positiva. Ahora, tiene clientes del sur y del este, y su negocio está lleno de vida."
+  },
+  {
+    "id": "4-19",
+    "level": 4,
+    "english": "The kids must remember to stay behind the yellow line on the street. It is a common rule for their own safety. Every parent in the community cares about this issue, especially when the traffic level is high during the morning.",
+    "spanish": "Los niños deben recordar quedarse detrás de la línea amarilla en la calle. Es una regla común por su propia seguridad. Todos los padres de la comunidad se preocupan por este asunto, especialmente cuando el nivel de tráfico es alto durante la mañana."
+  },
+  {
+    "id": "4-20",
+    "level": 4,
+    "english": "I am trying to figure out how much space we have on the table. We need to include a picture and a few letters in the special box. If we act quickly, we can send it today and it will arrive within a month.",
+    "spanish": "Estoy tratando de calcular cuánto espacio tenemos en la mesa. Necesitamos incluir una foto y algunas letras en la caja especial. Si actuamos rápido, podemos enviarla hoy y llegará dentro de un mes."
   }
 ]
